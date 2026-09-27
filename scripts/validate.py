@@ -19,7 +19,9 @@ for f,s in documents.items():
  check('localhost' not in str(s) and '127.0.0.1' not in str(s),'local address leaked')
  for script in s.find_all('script',type='application/ld+json'):
   d=json.loads(script.string);check(d['@context']=='https://schema.org','schema context incorrect')
-  people=[x for x in d['@graph'] if x['@type']=='Person'];check(all(p['@id']==BASE+'/about/#benjamin-tenoever' for p in people),'inconsistent person entity')
+  people=[x for x in d['@graph'] if x['@type']=='Person'];check(all(p['@id']=='https://benjamintenoever.com/#person' for p in people),'inconsistent person entity')
+  for n in d['@graph']:
+   if n.get('@type')=='ScholarlyArticle':check(any(a.get('@id')=='https://benjamintenoever.com/#person' for a in n['author']),'article not linked to canonical person')
  for a in s.select('[href],[src]'):
   url=a.get('href',a.get('src'));u=urlsplit(url)
   if u.scheme or u.netloc:continue
