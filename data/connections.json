@@ -1,0 +1,776 @@
+[
+ {
+  "from": "2003-sharma-triggering-the-interferon-antivira",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2003-sharma-triggering-the-interferon-antivira"
+ },
+ {
+  "from": "2007-tenoever-multiple-functions-of-the-ikk-rela",
+  "to": "2003-sharma-triggering-the-interferon-antivira",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2007-tenoever-multiple-functions-of-the-ikk-rela"
+ },
+ {
+  "from": "2010-perez-influenza-a-virus-generated-small-",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "follow-up",
+  "evidence": "stated in the Related publications section of 2010-perez-influenza-a-virus-generated-small-"
+ },
+ {
+  "from": "2010-schmid-transcription-factor-redundancy-en",
+  "to": "2014-shapiro-drosha-as-an-interferon-independen",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2010-schmid-transcription-factor-redundancy-en"
+ },
+ {
+  "from": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2010-shapiro-noncanonical-cytoplasmic-processin"
+ },
+ {
+  "from": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2010-shapiro-noncanonical-cytoplasmic-processin"
+ },
+ {
+  "from": "2011-ng-i-b-kinase-ikk-regulates-the-balan",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2011-ng-i-b-kinase-ikk-regulates-the-balan"
+ },
+ {
+  "from": "2012-backes-degradation-of-host-micrornas-by-p",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-backes-degradation-of-host-micrornas-by-p"
+ },
+ {
+  "from": "2012-backes-degradation-of-host-micrornas-by-p",
+  "to": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2012-backes-degradation-of-host-micrornas-by-p"
+ },
+ {
+  "from": "2012-backes-degradation-of-host-micrornas-by-p",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2012-backes-degradation-of-host-micrornas-by-p"
+ },
+ {
+  "from": "2012-langlois-hematopoietic-specific-targeting-o",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2012-langlois-hematopoietic-specific-targeting-o"
+ },
+ {
+  "from": "2012-langlois-hematopoietic-specific-targeting-o",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2012-langlois-hematopoietic-specific-targeting-o"
+ },
+ {
+  "from": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-langlois-in-vivo-delivery-of-cytoplasmic-rn"
+ },
+ {
+  "from": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2012-langlois-in-vivo-delivery-of-cytoplasmic-rn"
+ },
+ {
+  "from": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "review or synthesis",
+  "evidence": "stated in the Related publications section of 2012-langlois-in-vivo-delivery-of-cytoplasmic-rn"
+ },
+ {
+  "from": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-perez-a-small-rna-enhancer-of-viral-poly"
+ },
+ {
+  "from": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-perez-a-small-rna-enhancer-of-viral-poly"
+ },
+ {
+  "from": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2012-perez-a-small-rna-enhancer-of-viral-poly"
+ },
+ {
+  "from": "2012-pham-replication-in-cells-of-hematopoie",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-pham-replication-in-cells-of-hematopoie"
+ },
+ {
+  "from": "2012-pham-replication-in-cells-of-hematopoie",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-pham-replication-in-cells-of-hematopoie"
+ },
+ {
+  "from": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2012-shapiro-evidence-for-a-cytoplasmic-micropr"
+ },
+ {
+  "from": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-shapiro-evidence-for-a-cytoplasmic-micropr"
+ },
+ {
+  "from": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2012-shapiro-evidence-for-a-cytoplasmic-micropr"
+ },
+ {
+  "from": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-chua-influenza-a-virus-utilizes-subopti"
+ },
+ {
+  "from": "2013-langlois-microrna-based-strategy-to-mitigat",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2013-langlois-microrna-based-strategy-to-mitigat"
+ },
+ {
+  "from": "2013-langlois-microrna-based-strategy-to-mitigat",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2013-langlois-microrna-based-strategy-to-mitigat"
+ },
+ {
+  "from": "2013-langlois-microrna-based-strategy-to-mitigat",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "application",
+  "evidence": "stated in the Related publications section of 2013-langlois-microrna-based-strategy-to-mitigat"
+ },
+ {
+  "from": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2013-tenoever-rna-viruses-and-the-host-microrna-"
+ },
+ {
+  "from": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "application",
+  "evidence": "stated in the Related publications section of 2013-tenoever-rna-viruses-and-the-host-microrna-"
+ },
+ {
+  "from": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "to": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-tenoever-rna-viruses-and-the-host-microrna-"
+ },
+ {
+  "from": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-tenoever-rna-viruses-and-the-host-microrna-"
+ },
+ {
+  "from": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "to": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-tenoever-rna-viruses-and-the-host-microrna-"
+ },
+ {
+  "from": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-tenoever-rna-viruses-and-the-host-microrna-"
+ },
+ {
+  "from": "2013-varble-an-in-vivo-rnai-screening-approach",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-varble-an-in-vivo-rnai-screening-approach"
+ },
+ {
+  "from": "2013-varble-an-in-vivo-rnai-screening-approach",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2013-varble-an-in-vivo-rnai-screening-approach"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2012-backes-degradation-of-host-micrornas-by-p",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2013-varble-an-in-vivo-rnai-screening-approach",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-backes-the-mammalian-response-to-virus-in",
+  "to": "2013-cullen-is-rna-interference-a-physiologica",
+  "relationship": "review or synthesis",
+  "evidence": "stated in the Related publications section of 2014-backes-the-mammalian-response-to-virus-in"
+ },
+ {
+  "from": "2014-schmid-a-versatile-rna-vector-for-deliver",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-schmid-a-versatile-rna-vector-for-deliver"
+ },
+ {
+  "from": "2014-schmid-a-versatile-rna-vector-for-deliver",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-schmid-a-versatile-rna-vector-for-deliver"
+ },
+ {
+  "from": "2014-schmid-a-versatile-rna-vector-for-deliver",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-schmid-a-versatile-rna-vector-for-deliver"
+ },
+ {
+  "from": "2014-schmid-mitogen-activated-protein-kinase-m",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-schmid-mitogen-activated-protein-kinase-m"
+ },
+ {
+  "from": "2014-schmid-mitogen-activated-protein-kinase-m",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2014-schmid-mitogen-activated-protein-kinase-m"
+ },
+ {
+  "from": "2014-shapiro-drosha-as-an-interferon-independen",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-shapiro-drosha-as-an-interferon-independen"
+ },
+ {
+  "from": "2014-shapiro-drosha-as-an-interferon-independen",
+  "to": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-shapiro-drosha-as-an-interferon-independen"
+ },
+ {
+  "from": "2014-shapiro-drosha-as-an-interferon-independen",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2014-shapiro-drosha-as-an-interferon-independen"
+ },
+ {
+  "from": "2014-shapiro-drosha-as-an-interferon-independen",
+  "to": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-shapiro-drosha-as-an-interferon-independen"
+ },
+ {
+  "from": "2014-shapiro-drosha-as-an-interferon-independen",
+  "to": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-shapiro-drosha-as-an-interferon-independen"
+ },
+ {
+  "from": "2014-shapiro-drosha-as-an-interferon-independen",
+  "to": "2013-cullen-is-rna-interference-a-physiologica",
+  "relationship": "review or synthesis",
+  "evidence": "stated in the Related publications section of 2014-shapiro-drosha-as-an-interferon-independen"
+ },
+ {
+  "from": "2014-varble-influenza-a-virus-transmission-bot",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2014-varble-influenza-a-virus-transmission-bot"
+ },
+ {
+  "from": "2014-varble-influenza-a-virus-transmission-bot",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2014-varble-influenza-a-virus-transmission-bot"
+ },
+ {
+  "from": "2015-aguado-microrna-function-is-limited-to-cy",
+  "to": "2012-backes-degradation-of-host-micrornas-by-p",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2015-aguado-microrna-function-is-limited-to-cy"
+ },
+ {
+  "from": "2015-aguado-microrna-function-is-limited-to-cy",
+  "to": "2014-backes-the-mammalian-response-to-virus-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-aguado-microrna-function-is-limited-to-cy"
+ },
+ {
+  "from": "2015-aguado-microrna-function-is-limited-to-cy",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-aguado-microrna-function-is-limited-to-cy"
+ },
+ {
+  "from": "2015-aguado-microrna-function-is-limited-to-cy",
+  "to": "2013-cullen-is-rna-interference-a-physiologica",
+  "relationship": "review or synthesis",
+  "evidence": "stated in the Related publications section of 2015-aguado-microrna-function-is-limited-to-cy"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2014-backes-the-mammalian-response-to-virus-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2013-langlois-microrna-based-strategy-to-mitigat",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2013-varble-an-in-vivo-rnai-screening-approach",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2015-benitez-in-vivo-rnai-screening-identifies-",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2014-varble-influenza-a-virus-transmission-bot",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "to": "2013-cullen-is-rna-interference-a-physiologica",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2015-benitez-engineered-mammalian-rnai-can-elic"
+ },
+ {
+  "from": "2015-benitez-in-vivo-rnai-screening-identifies-",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2015-benitez-in-vivo-rnai-screening-identifies-"
+ },
+ {
+  "from": "2015-benitez-in-vivo-rnai-screening-identifies-",
+  "to": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-benitez-in-vivo-rnai-screening-identifies-"
+ },
+ {
+  "from": "2015-benitez-in-vivo-rnai-screening-identifies-",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2015-benitez-in-vivo-rnai-screening-identifies-"
+ },
+ {
+  "from": "2015-benitez-in-vivo-rnai-screening-identifies-",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2015-benitez-in-vivo-rnai-screening-identifies-"
+ },
+ {
+  "from": "2016-tenoever-the-evolution-of-antiviral-defense",
+  "to": "2015-aguado-microrna-function-is-limited-to-cy",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2016-tenoever-the-evolution-of-antiviral-defense"
+ },
+ {
+  "from": "2016-tenoever-the-evolution-of-antiviral-defense",
+  "to": "2013-cullen-is-rna-interference-a-physiologica",
+  "relationship": "review or synthesis",
+  "evidence": "stated in the Related publications section of 2016-tenoever-the-evolution-of-antiviral-defense"
+ },
+ {
+  "from": "2016-tenoever-the-evolution-of-antiviral-defense",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2016-tenoever-the-evolution-of-antiviral-defense"
+ },
+ {
+  "from": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+  "to": "2014-shapiro-drosha-as-an-interferon-independen",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2017-aguado-rnase-iii-nucleases-from-diverse-k"
+ },
+ {
+  "from": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+  "to": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2017-aguado-rnase-iii-nucleases-from-diverse-k"
+ },
+ {
+  "from": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2017-aguado-rnase-iii-nucleases-from-diverse-k"
+ },
+ {
+  "from": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+  "to": "2013-cullen-is-rna-interference-a-physiologica",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2017-aguado-rnase-iii-nucleases-from-diverse-k"
+ },
+ {
+  "from": "2017-morales-sars-cov-encoded-small-rnas-contri",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2017-morales-sars-cov-encoded-small-rnas-contri"
+ },
+ {
+  "from": "2017-morales-sars-cov-encoded-small-rnas-contri",
+  "to": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2017-morales-sars-cov-encoded-small-rnas-contri"
+ },
+ {
+  "from": "2018-aguado-homologous-recombination-is-an-int",
+  "to": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2018-aguado-homologous-recombination-is-an-int"
+ },
+ {
+  "from": "2018-aguado-homologous-recombination-is-an-int",
+  "to": "2014-backes-the-mammalian-response-to-virus-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2018-aguado-homologous-recombination-is-an-int"
+ },
+ {
+  "from": "2018-aguado-homologous-recombination-is-an-int",
+  "to": "2012-pham-replication-in-cells-of-hematopoie",
+  "relationship": "application",
+  "evidence": "stated in the Related publications section of 2018-aguado-homologous-recombination-is-an-int"
+ },
+ {
+  "from": "2019-eggenberger-type-i-interferon-response-impairs",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2019-eggenberger-type-i-interferon-response-impairs"
+ },
+ {
+  "from": "2019-tenoever-synthetic-virology-building-viruse",
+  "to": "2009-perez-microrna-mediated-species-specific",
+  "relationship": "application",
+  "evidence": "stated in the Related publications section of 2019-tenoever-synthetic-virology-building-viruse"
+ },
+ {
+  "from": "2019-tenoever-synthetic-virology-building-viruse",
+  "to": "2013-langlois-microrna-based-strategy-to-mitigat",
+  "relationship": "related",
+  "evidence": "stated in the Related publications section of 2019-tenoever-synthetic-virology-building-viruse"
+ },
+ {
+  "from": "2019-tenoever-synthetic-virology-building-viruse",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2019-tenoever-synthetic-virology-building-viruse"
+ },
+ {
+  "from": "2019-tenoever-synthetic-virology-building-viruse",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2019-tenoever-synthetic-virology-building-viruse"
+ },
+ {
+  "from": "2019-tenoever-synthetic-virology-building-viruse",
+  "to": "2014-heaton-long-term-survival-of-influenza-vi",
+  "relationship": "application",
+  "evidence": "stated in the Related publications section of 2019-tenoever-synthetic-virology-building-viruse"
+ },
+ {
+  "from": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "to": "2003-sharma-triggering-the-interferon-antivira",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2020-blanco-melo-imbalanced-host-response-to-sars-c"
+ },
+ {
+  "from": "2020-bouhaddou-the-global-phosphorylation-landsca",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2020-bouhaddou-the-global-phosphorylation-landsca"
+ },
+ {
+  "from": "2020-bouhaddou-the-global-phosphorylation-landsca",
+  "to": "2021-horiuchi-immune-memory-from-sars-cov-2-infe",
+  "relationship": "related",
+  "evidence": "stated in the Related publications section of 2020-bouhaddou-the-global-phosphorylation-landsca"
+ },
+ {
+  "from": "2020-yang-a-human-pluripotent-stem-cell-base",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2020-yang-a-human-pluripotent-stem-cell-base"
+ },
+ {
+  "from": "2021-daniloski-identification-of-required-host-fa",
+  "to": "2021-daniloski-the-spike-d614g-mutation-increases",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2021-daniloski-identification-of-required-host-fa"
+ },
+ {
+  "from": "2021-daniloski-identification-of-required-host-fa",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2021-daniloski-identification-of-required-host-fa"
+ },
+ {
+  "from": "2021-daniloski-the-spike-d614g-mutation-increases",
+  "to": "2021-daniloski-identification-of-required-host-fa",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2021-daniloski-the-spike-d614g-mutation-increases"
+ },
+ {
+  "from": "2021-eriksen-sars-cov-2-infects-human-adult-don",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2021-eriksen-sars-cov-2-infects-human-adult-don"
+ },
+ {
+  "from": "2021-eriksen-sars-cov-2-infects-human-adult-don",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2021-eriksen-sars-cov-2-infects-human-adult-don"
+ },
+ {
+  "from": "2021-guzman-solis-ancient-viral-genomes-reveal-intro",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "related",
+  "evidence": "stated in the Related publications section of 2021-guzman-solis-ancient-viral-genomes-reveal-intro"
+ },
+ {
+  "from": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2021-hoagland-leveraging-the-antiviral-type-i-in"
+ },
+ {
+  "from": "2021-horiuchi-immune-memory-from-sars-cov-2-infe",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2021-horiuchi-immune-memory-from-sars-cov-2-infe"
+ },
+ {
+  "from": "2021-horiuchi-immune-memory-from-sars-cov-2-infe",
+  "to": "2020-bouhaddou-the-global-phosphorylation-landsca",
+  "relationship": "related",
+  "evidence": "stated in the Related publications section of 2021-horiuchi-immune-memory-from-sars-cov-2-infe"
+ },
+ {
+  "from": "2021-nilsson-payant-reduced-nucleoprotein-availability",
+  "to": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2021-nilsson-payant-reduced-nucleoprotein-availability"
+ },
+ {
+  "from": "2021-nilsson-payant-reduced-nucleoprotein-availability",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2021-nilsson-payant-reduced-nucleoprotein-availability"
+ },
+ {
+  "from": "2021-nilsson-payant-the-nf-b-transcriptional-footprint",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2021-nilsson-payant-the-nf-b-transcriptional-footprint"
+ },
+ {
+  "from": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2022-frere-sars-cov-2-infection-in-hamsters-a"
+ },
+ {
+  "from": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2022-frere-sars-cov-2-infection-in-hamsters-a"
+ },
+ {
+  "from": "2022-nilsson-payant-the-host-factor-anp32a-is-required",
+  "to": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2022-nilsson-payant-the-host-factor-anp32a-is-required"
+ },
+ {
+  "from": "2022-oishi-a-diminished-immune-response-under",
+  "to": "2021-horiuchi-immune-memory-from-sars-cov-2-infe",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2022-oishi-a-diminished-immune-response-under"
+ },
+ {
+  "from": "2022-oishi-a-diminished-immune-response-under",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2022-oishi-a-diminished-immune-response-under"
+ },
+ {
+  "from": "2022-oishi-a-diminished-immune-response-under",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2022-oishi-a-diminished-immune-response-under"
+ },
+ {
+  "from": "2022-oishi-the-host-response-to-influenza-a-v",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2022-oishi-the-host-response-to-influenza-a-v"
+ },
+ {
+  "from": "2022-yaron-host-protein-kinases-required-for-",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2022-yaron-host-protein-kinases-required-for-"
+ },
+ {
+  "from": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2022-zazhytska-non-cell-autonomous-disruption-of-"
+ },
+ {
+  "from": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+  "to": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2022-zazhytska-non-cell-autonomous-disruption-of-"
+ },
+ {
+  "from": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2022-zazhytska-non-cell-autonomous-disruption-of-"
+ },
+ {
+  "from": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2022-zazhytska-non-cell-autonomous-disruption-of-"
+ },
+ {
+  "from": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+  "to": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+  "relationship": "companion",
+  "evidence": "stated in the Related publications section of 2022-zazhytska-non-cell-autonomous-disruption-of-"
+ },
+ {
+  "from": "2023-carrau-delayed-engagement-of-host-defense",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2023-carrau-delayed-engagement-of-host-defense"
+ },
+ {
+  "from": "2023-carrau-delayed-engagement-of-host-defense",
+  "to": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2023-carrau-delayed-engagement-of-host-defense"
+ },
+ {
+  "from": "2023-oishi-archaeal-kink-turn-binding-protein",
+  "to": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "relationship": "methodological foundation",
+  "evidence": "stated in the Related publications section of 2023-oishi-archaeal-kink-turn-binding-protein"
+ },
+ {
+  "from": "2023-serafini-sars-cov-2-airway-infection-result",
+  "to": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2023-serafini-sars-cov-2-airway-infection-result"
+ },
+ {
+  "from": "2023-uhl-adar1-biology-can-hinder-effective",
+  "to": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2023-uhl-adar1-biology-can-hinder-effective"
+ },
+ {
+  "from": "2023-zhang-mouse-genome-rewriting-and-tailori",
+  "to": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2023-zhang-mouse-genome-rewriting-and-tailori"
+ },
+ {
+  "from": "2025-manivasagam-transcriptional-repressor-capicua-",
+  "to": "2018-han-genome-wide-crispr-cas9-screen-ide",
+  "relationship": "predecessor",
+  "evidence": "stated in the Related publications section of 2025-manivasagam-transcriptional-repressor-capicua-"
+ },
+ {
+  "from": "2025-manivasagam-transcriptional-repressor-capicua-",
+  "to": "2010-schmid-transcription-factor-redundancy-en",
+  "relationship": "conceptual extension",
+  "evidence": "stated in the Related publications section of 2025-manivasagam-transcriptional-repressor-capicua-"
+ }
+]

@@ -1,0 +1,650 @@
+{
+  "canonical_origin": "https://tenoeverlab.us",
+  "corpus_years": [
+    2003,
+    2025
+  ],
+  "publication_count": 63,
+  "source_inventory": [
+    {
+      "path": "REVIEW_2.md",
+      "bytes": 10754,
+      "sha256": "473767258752ed13c6d3d70b67e92c6652ad8dc6a221bcfc6f348a93f267d66f"
+    },
+    {
+      "path": "SAMPLE-record-benitez-2015_1.md",
+      "bytes": 27109,
+      "sha256": "89356eb4e7304fc58a3d862fe61cf13037c003fac2c74aaad38603de200c9d78"
+    },
+    {
+      "path": "content/REVIEW.md",
+      "bytes": 10754,
+      "sha256": "473767258752ed13c6d3d70b67e92c6652ad8dc6a221bcfc6f348a93f267d66f"
+    },
+    {
+      "path": "content/areas/influenza-genome-regulation.md",
+      "bytes": 12966,
+      "sha256": "f0c558a17be32f9deb4530d3ef5d9a72aaefb88a1eca66f61994ae240d430836"
+    },
+    {
+      "path": "content/areas/innate-immune-signaling.md",
+      "bytes": 18995,
+      "sha256": "66e435b1e90aed50e7a18fb866861109f8dbf07f4815dd9ea9c90459165439af"
+    },
+    {
+      "path": "content/areas/pandemic-host-response.md",
+      "bytes": 16920,
+      "sha256": "56045955b459c4a1b2158483695b95bb65eab8eb1245c7e598e7537b831f227a"
+    },
+    {
+      "path": "content/areas/programmable-virology.md",
+      "bytes": 16558,
+      "sha256": "7714b8c943d1df8be91f0416dc79bf2bad41429577b9e23e1fd797550b4d925b"
+    },
+    {
+      "path": "content/areas/small-rna-antiviral-defense.md",
+      "bytes": 15226,
+      "sha256": "083158cbe4da5573068025b2b7cb5d0f0767aac9d822240c4c2eb1028332bb89"
+    },
+    {
+      "path": "content/areas/viral-populations-evolution.md",
+      "bytes": 13603,
+      "sha256": "217dd14f890d9c9bae2cc01bcc4d90c8f83584aa36ec97df9d2383168a266e88"
+    },
+    {
+      "path": "content/design_pattern_brief.md",
+      "bytes": 7589,
+      "sha256": "1a599732d997b42c13636d17f6eec0b5dd7b17db7df72335317055e3e0ac20f5"
+    },
+    {
+      "path": "content/publication_inventory.md",
+      "bytes": 52191,
+      "sha256": "2ed1094e7bbfccdc4f5a64f93749595c80360bba38c1f6e2d2859385777bd5c7"
+    },
+    {
+      "path": "content/publications/2003-sharma-triggering-the-interferon-antivira.md",
+      "bytes": 16668,
+      "sha256": "60b7c571efbe9c56a91e79cbd5900352129ea6ead4e4ea26d36ab79237605cb7"
+    },
+    {
+      "path": "content/publications/2007-tenoever-multiple-functions-of-the-ikk-rela.md",
+      "bytes": 18346,
+      "sha256": "981202fc321a4d1591e458e2caff9492585bf03a3467cfc5a6a96c2167fbcea6"
+    },
+    {
+      "path": "content/publications/2009-perez-microrna-mediated-species-specific.md",
+      "bytes": 18472,
+      "sha256": "0e816a929a1867af2f135c66382a9d4ab7ff64c1ae7cfcc0dd958159de053d16"
+    },
+    {
+      "path": "content/publications/2010-perez-influenza-a-virus-generated-small-.md",
+      "bytes": 18071,
+      "sha256": "9d003d37058aa1db1dafd6d80f25e2fc55f29bd81c3e75faccd115ac56e128b6"
+    },
+    {
+      "path": "content/publications/2010-schmid-transcription-factor-redundancy-en.md",
+      "bytes": 17095,
+      "sha256": "6f952eb6d4378ed7d5f2399ac139fc1a115593a3952c6c0cc355f36983653a6a"
+    },
+    {
+      "path": "content/publications/2010-shapiro-noncanonical-cytoplasmic-processin.md",
+      "bytes": 17889,
+      "sha256": "504036403dc316906169776d239708a2271c22e57d68af2ef3dd52fe3b0e238d"
+    },
+    {
+      "path": "content/publications/2010-varble-engineered-rna-viral-synthesis-of-.md",
+      "bytes": 18512,
+      "sha256": "762c52f2ceafb7c9e479b86d1750c8e21950ad2f9afc2a561ce46f00a621e10e"
+    },
+    {
+      "path": "content/publications/2011-ng-i-b-kinase-ikk-regulates-the-balan.md",
+      "bytes": 19860,
+      "sha256": "a7cb69c5e15f3041f807fd78e8dc766f3c094ae9e916051c465d98847ab1e25d"
+    },
+    {
+      "path": "content/publications/2012-backes-degradation-of-host-micrornas-by-p.md",
+      "bytes": 20449,
+      "sha256": "42276d16ad5ace4005462b730a02b6891f8a93e6ca820781cbe5a6bb6c5f3be0"
+    },
+    {
+      "path": "content/publications/2012-langlois-hematopoietic-specific-targeting-o.md",
+      "bytes": 18322,
+      "sha256": "67083e3e72229d75316f6653f5a1d26c81a2f5f5abbead96a59f0d0c357dcbb3"
+    },
+    {
+      "path": "content/publications/2012-langlois-in-vivo-delivery-of-cytoplasmic-rn.md",
+      "bytes": 19594,
+      "sha256": "1f3290cf5c5ccc4450b001a619fcae17c119f047fe9f9d84565cb3fb6ee4c8de"
+    },
+    {
+      "path": "content/publications/2012-perez-a-small-rna-enhancer-of-viral-poly.md",
+      "bytes": 21564,
+      "sha256": "d875d99327ac6bf758c8b0a519035edf5f28b6b88244031c35a5e32eaad1fb66"
+    },
+    {
+      "path": "content/publications/2012-pham-replication-in-cells-of-hematopoie.md",
+      "bytes": 21840,
+      "sha256": "125158a4567e884aa44accca3f0cc405dbbfbee6c397865cad99748242c42a44"
+    },
+    {
+      "path": "content/publications/2012-shapiro-evidence-for-a-cytoplasmic-micropr.md",
+      "bytes": 17703,
+      "sha256": "fb0a490cb90a7f4902a96234235e815c91ffe49d24d473d1c78d084241dc2af7"
+    },
+    {
+      "path": "content/publications/2013-chua-influenza-a-virus-utilizes-subopti.md",
+      "bytes": 18015,
+      "sha256": "7b7ba81ca7f0bdd2356b43cae12813a29ed29e4c4aa13e0b622d6ad883bdb744"
+    },
+    {
+      "path": "content/publications/2013-cullen-is-rna-interference-a-physiologica.md",
+      "bytes": 17930,
+      "sha256": "43f818a4a5d95bde296aed6901365edfd36973fe9d9b10d31b608b88dc20fd76"
+    },
+    {
+      "path": "content/publications/2013-langlois-microrna-based-strategy-to-mitigat.md",
+      "bytes": 17181,
+      "sha256": "d3d8742d251b1b9744b8f9d7de70174b65496909bb0d823e4b917e3d99a75a65"
+    },
+    {
+      "path": "content/publications/2013-tenoever-rna-viruses-and-the-host-microrna-.md",
+      "bytes": 21871,
+      "sha256": "b46c909ad7e43913e62ce41a1489c4abf119071f6024224833902b9b6f54aa8f"
+    },
+    {
+      "path": "content/publications/2013-varble-an-in-vivo-rnai-screening-approach.md",
+      "bytes": 21185,
+      "sha256": "779c7b9487436213a2492833998dc0da1c879135b5c84737fc4784b4d7a14f94"
+    },
+    {
+      "path": "content/publications/2014-backes-the-mammalian-response-to-virus-in.md",
+      "bytes": 24313,
+      "sha256": "81fec39e2118eafe80db81de992fed62cb3fbad0d64192d524a315f1a82afb80"
+    },
+    {
+      "path": "content/publications/2014-heaton-long-term-survival-of-influenza-vi.md",
+      "bytes": 18546,
+      "sha256": "8e31da46d815614c468f6f72994c8f84b1d5e077fa736e5e6ecb286f5fe1280a"
+    },
+    {
+      "path": "content/publications/2014-schmid-a-versatile-rna-vector-for-deliver.md",
+      "bytes": 17653,
+      "sha256": "a0aa4e05a620cc96c9662f218e8c2bc1b7ff1b0151ed65ff77b7a8c61ee1f808"
+    },
+    {
+      "path": "content/publications/2014-schmid-mitogen-activated-protein-kinase-m.md",
+      "bytes": 21007,
+      "sha256": "e05d3da77755fbf29a4554526847bc2536514fe52984d822dbe031c0a3660cfc"
+    },
+    {
+      "path": "content/publications/2014-shapiro-drosha-as-an-interferon-independen.md",
+      "bytes": 19579,
+      "sha256": "169b952d3532df973b5d32406f6d1baffa2a3a20b182590ce76f9ad5364b62d9"
+    },
+    {
+      "path": "content/publications/2014-varble-influenza-a-virus-transmission-bot.md",
+      "bytes": 19935,
+      "sha256": "51c628df39d1a0e2fbe173ae04f66ed3530e2c9d884ac84684834582bc3a89f1"
+    },
+    {
+      "path": "content/publications/2015-aguado-microrna-function-is-limited-to-cy.md",
+      "bytes": 19254,
+      "sha256": "c32f1a7ed2c118532659a999e78da1a632cfcb76c18ebf0bcca18575759600e8"
+    },
+    {
+      "path": "content/publications/2015-benitez-engineered-mammalian-rnai-can-elic.md",
+      "bytes": 27109,
+      "sha256": "89356eb4e7304fc58a3d862fe61cf13037c003fac2c74aaad38603de200c9d78"
+    },
+    {
+      "path": "content/publications/2015-benitez-in-vivo-rnai-screening-identifies-.md",
+      "bytes": 19979,
+      "sha256": "95b1508f4c9c7dc96e4b1cb35de7e617dfcd3d7178465673a587481c4e6262b5"
+    },
+    {
+      "path": "content/publications/2016-tenoever-the-evolution-of-antiviral-defense.md",
+      "bytes": 22349,
+      "sha256": "8d6f06378a8aa26770c3b5f3aa94f81e6e051e03bcacb2d36bef1504f26bab2e"
+    },
+    {
+      "path": "content/publications/2017-aguado-rnase-iii-nucleases-from-diverse-k.md",
+      "bytes": 20496,
+      "sha256": "e6015fc5d39ec88f6cb348e0c11fd391c6c7aa71931cc70c0306a695058d0b32"
+    },
+    {
+      "path": "content/publications/2017-morales-sars-cov-encoded-small-rnas-contri.md",
+      "bytes": 21619,
+      "sha256": "ae7cacaa953171b5a71945ed702276d14904d5e6b1d18a979eb03d7d1e609cc3"
+    },
+    {
+      "path": "content/publications/2018-aguado-homologous-recombination-is-an-int.md",
+      "bytes": 20155,
+      "sha256": "97c82dded779b66963dad891ffb2d69caacdc7fef5437b6f905a9f47bf3bce55"
+    },
+    {
+      "path": "content/publications/2018-han-genome-wide-crispr-cas9-screen-ide.md",
+      "bytes": 21814,
+      "sha256": "e48bd020404a3c95daea58a2ba275eabe2a15df0263085e7fb1f0f1818727569"
+    },
+    {
+      "path": "content/publications/2018-m-ller-mirna-mediated-targeting-of-human-.md",
+      "bytes": 19829,
+      "sha256": "e9c11cad3f2aaca883ffa426ee0c946934c8edc033f71e90b3466bc8161dcff4"
+    },
+    {
+      "path": "content/publications/2019-eggenberger-type-i-interferon-response-impairs.md",
+      "bytes": 22325,
+      "sha256": "3b53cec448df6481a2a878bb00d875518d8eaa7c0d70c499d2e2a4c12d8d0c5e"
+    },
+    {
+      "path": "content/publications/2019-munoz-moreno-viral-fitness-landscapes-in-divers.md",
+      "bytes": 20705,
+      "sha256": "353839a9f31a0f5aed022ec1fac681a1b9a10a0d69b13f5fe425fcf77e9bcd8d"
+    },
+    {
+      "path": "content/publications/2019-tenoever-synthetic-virology-building-viruse.md",
+      "bytes": 24742,
+      "sha256": "93729ca6128268f6427ee8cbeb119d62e32319c6e5bfdefb49637cc8656eaf52"
+    },
+    {
+      "path": "content/publications/2020-blanco-melo-imbalanced-host-response-to-sars-c.md",
+      "bytes": 20463,
+      "sha256": "9dd66d6893550fb35f888214fd8a407b2a1ae4d8d57d152e3354f2913805b172"
+    },
+    {
+      "path": "content/publications/2020-bouhaddou-the-global-phosphorylation-landsca.md",
+      "bytes": 25474,
+      "sha256": "edd7a937aa224ea58cf3770f29d1a23005463c5a22bafd4a1c86acb6bd2320ec"
+    },
+    {
+      "path": "content/publications/2020-mccune-rapid-dissemination-and-monopoliza.md",
+      "bytes": 20470,
+      "sha256": "30bbd34c41007402d2f88b2e56a0edda33770cf5e7e5c54f641e2d437b1338f7"
+    },
+    {
+      "path": "content/publications/2020-yang-a-human-pluripotent-stem-cell-base.md",
+      "bytes": 19112,
+      "sha256": "b08aacab620204c2a20d764f548e9fb9e234fc4381ec1a365b085322af6dbcf2"
+    },
+    {
+      "path": "content/publications/2021-daniloski-identification-of-required-host-fa.md",
+      "bytes": 21444,
+      "sha256": "d42dfa60e4c8b0ea97dcd17da65ff215b5713f2fdf3e29a8ac3bbed937f7d09c"
+    },
+    {
+      "path": "content/publications/2021-daniloski-the-spike-d614g-mutation-increases.md",
+      "bytes": 18744,
+      "sha256": "a4830f5749c2e3c61d99281209f9e72107b25e78e93e124410c3920db371ed0a"
+    },
+    {
+      "path": "content/publications/2021-eriksen-sars-cov-2-infects-human-adult-don.md",
+      "bytes": 19978,
+      "sha256": "3866bfd5d838e5a28ca0f2c188fb54f16e3eabe6d8720c4d951a7c0ec4ece172"
+    },
+    {
+      "path": "content/publications/2021-guzman-solis-ancient-viral-genomes-reveal-intro.md",
+      "bytes": 19611,
+      "sha256": "b841db54c3fc73acd3c11e3b4118c80fe6789e70d0e50ca17e72d42cfd63c360"
+    },
+    {
+      "path": "content/publications/2021-hoagland-leveraging-the-antiviral-type-i-in.md",
+      "bytes": 21175,
+      "sha256": "59ec3d969c7514835cbebf6a206ec09f02ccfbc7c2e8033e25793948cfafdec0"
+    },
+    {
+      "path": "content/publications/2021-horiuchi-immune-memory-from-sars-cov-2-infe.md",
+      "bytes": 22433,
+      "sha256": "7077648065f28425871962855185f0fdae88a5f7d3bfd03f87107c8a0e63b0c9"
+    },
+    {
+      "path": "content/publications/2021-nilsson-payant-reduced-nucleoprotein-availability.md",
+      "bytes": 22460,
+      "sha256": "7c03fb2183e01bf887f0891a2131cc89973cbe23e4f9116d886e3b8139428dc3"
+    },
+    {
+      "path": "content/publications/2021-nilsson-payant-the-nf-b-transcriptional-footprint.md",
+      "bytes": 19605,
+      "sha256": "a66b1733b44a68ba2bbed7a1aaa1a3f31a85bfdd94c66ddb6e19b8422195218e"
+    },
+    {
+      "path": "content/publications/2021-si-a-human-airway-on-a-chip-for-the-r.md",
+      "bytes": 23587,
+      "sha256": "e0dd3fe01c1ca14196fcfa1d8ec4c92e08c779daf6a8ba3122c9b95073a2e0e6"
+    },
+    {
+      "path": "content/publications/2022-frere-sars-cov-2-infection-in-hamsters-a.md",
+      "bytes": 21736,
+      "sha256": "e2b96dee3220d1c2f3b28ae1f3c47f24f2dbb4f0b6d63fcb5c05395d7efc84bb"
+    },
+    {
+      "path": "content/publications/2022-nilsson-payant-the-host-factor-anp32a-is-required.md",
+      "bytes": 23561,
+      "sha256": "d4be6f0aca7e1f47c0f753ad8d08a1d594747c8698dc18e4e051635dc3345be9"
+    },
+    {
+      "path": "content/publications/2022-oishi-a-diminished-immune-response-under.md",
+      "bytes": 20352,
+      "sha256": "d5e3c41ea77cff975d89cd32491ea89a5adb264f60fd854b4f248180d86d7004"
+    },
+    {
+      "path": "content/publications/2022-oishi-the-host-response-to-influenza-a-v.md",
+      "bytes": 18757,
+      "sha256": "fbed0f82a23768c3b2349873fd9d647be80c9789cc0b91211a2775841ba56204"
+    },
+    {
+      "path": "content/publications/2022-yaron-host-protein-kinases-required-for-.md",
+      "bytes": 21037,
+      "sha256": "9a3b4f4a5cd5344acb2b728ccff410395d265bb48257e950d8017eccb18ef67a"
+    },
+    {
+      "path": "content/publications/2022-zazhytska-non-cell-autonomous-disruption-of-.md",
+      "bytes": 22796,
+      "sha256": "b71f9e653444d7058a256b1c56d1b06ba513a2af7220f97609bd360c011ea321"
+    },
+    {
+      "path": "content/publications/2023-carrau-delayed-engagement-of-host-defense.md",
+      "bytes": 21750,
+      "sha256": "efd63a50d68362f849f9b4e869078e227984ab0de584cae5940280823b9567ec"
+    },
+    {
+      "path": "content/publications/2023-oishi-archaeal-kink-turn-binding-protein.md",
+      "bytes": 19583,
+      "sha256": "e0cd98fb3c47d3f1e3394ec04b8d8fca679237cd27dd0366055058310b3befef"
+    },
+    {
+      "path": "content/publications/2023-paget-stress-granules-are-shock-absorber.md",
+      "bytes": 28600,
+      "sha256": "14c0fb9028281cde6871b97a2287bca0455a604bac530ade242971bc187b09d5"
+    },
+    {
+      "path": "content/publications/2023-serafini-sars-cov-2-airway-infection-result.md",
+      "bytes": 23591,
+      "sha256": "2c5b68dda145e0fa8fa770062deb09c1a73dedde9bc6f03f218eea603355cead"
+    },
+    {
+      "path": "content/publications/2023-uhl-adar1-biology-can-hinder-effective.md",
+      "bytes": 22306,
+      "sha256": "7f31591fe66a5eb3b0c7a36f4b3105c1b5a074f653503037d2b2405b5848c77c"
+    },
+    {
+      "path": "content/publications/2023-zhang-mouse-genome-rewriting-and-tailori.md",
+      "bytes": 23115,
+      "sha256": "409f6ae27cb00c654a8f8cd16c4cc86e24c6daf6c91775a97ff2ac8c846c20d2"
+    },
+    {
+      "path": "content/publications/2025-manivasagam-transcriptional-repressor-capicua-.md",
+      "bytes": 21651,
+      "sha256": "c76a1f70dbcab6925313030758e2625b145eff41c352a449ce8963455caa4a48"
+    },
+    {
+      "path": "content/synthesis/controlled-vocabulary.md",
+      "bytes": 187020,
+      "sha256": "17e7182bd443d69df1186212e9380a573a2890fe5b033a75931786a437957312"
+    },
+    {
+      "path": "content/synthesis/key-discoveries.md",
+      "bytes": 69872,
+      "sha256": "24253470b600cc40f5632044dcf79167c008ce977875020cf6726602940a57b4"
+    },
+    {
+      "path": "content/synthesis/pathogens-and-systems.md",
+      "bytes": 17259,
+      "sha256": "cbd88d093c41032845487675bd25babb0d22898affc85cd91b5e240cc2e2ba4d"
+    },
+    {
+      "path": "content/synthesis/program-overview.md",
+      "bytes": 18708,
+      "sha256": "76ec4cdf2a12405b504e92abb9a2ae4fae3247b3010f56bb0a75d13ec0401aed"
+    },
+    {
+      "path": "content/synthesis/technologies-and-platforms.md",
+      "bytes": 15992,
+      "sha256": "407b6b6af2c9d8f1603ccb54fab358b94cc91e7db41ff239dade30af08707db3"
+    },
+    {
+      "path": "content/synthesis/trajectory-detailed.md",
+      "bytes": 35745,
+      "sha256": "a04ec598ea20775341329125391eb22bef5674c9423865af467e7d3845f7a4b0"
+    },
+    {
+      "path": "content/synthesis/trajectory-public.md",
+      "bytes": 10110,
+      "sha256": "ca050d956c7be903f6a584eb277097011269a080d9ebd0d8f92c9749f4b3a75a"
+    },
+    {
+      "path": "content/themes/calibration-of-interferon-in-vivo.md",
+      "bytes": 10998,
+      "sha256": "9e4001295fa276f6ce6ae347158b1a65a20fabe4ba7e4c17298b71232387a481"
+    },
+    {
+      "path": "content/themes/cell-type-restriction-as-a-tool.md",
+      "bytes": 7257,
+      "sha256": "3e02704885bf82e7663ea5621faf34a6c6937321f18c96e3030f9886c22e444e"
+    },
+    {
+      "path": "content/themes/does-mammalian-antiviral-rnai-exist.md",
+      "bytes": 7311,
+      "sha256": "f7bc97b0c64590a13360ca22340c09caf96c3a1d42f4207997d437cb3ea071d9"
+    },
+    {
+      "path": "content/themes/evolution-of-antiviral-defense.md",
+      "bytes": 8275,
+      "sha256": "0bd646c36a71539d06d6e9cc225c4763341047e45b01ad38b6d4b42884d21577"
+    },
+    {
+      "path": "content/themes/fitness-landscapes.md",
+      "bytes": 6271,
+      "sha256": "41146fcb9c6189a4f59a99de7078d3de1ae196abc67f0b4bb43645b002941e9d"
+    },
+    {
+      "path": "content/themes/historical-virus-movement.md",
+      "bytes": 6518,
+      "sha256": "504591dedc00475b7f17ec3a706e5887a4681a0647b3be679bab5ad1d686e809"
+    },
+    {
+      "path": "content/themes/homeostatic-repression-of-isgs.md",
+      "bytes": 7508,
+      "sha256": "a588224871585789fcaea0228c1a9aca8c8f2f626e317f37081f2e205c810293"
+    },
+    {
+      "path": "content/themes/host-factors-and-druggable-signaling.md",
+      "bytes": 9022,
+      "sha256": "66ba5ee4ab27b52dbfc835d2d15c6e8d40b17ddc1ad4687b6d51f1e276ae5b21"
+    },
+    {
+      "path": "content/themes/ikk-kinases-and-irf-activation.md",
+      "bytes": 6520,
+      "sha256": "6d7c5e083b3c78b3b73458c09925d2ab28ac19453aa2254854a19681978aa34b"
+    },
+    {
+      "path": "content/themes/imbalanced-host-response.md",
+      "bytes": 7480,
+      "sha256": "7f4fb53448d71801a822577c3d6657bc3a7b39412589452aa7091653715c35cd"
+    },
+    {
+      "path": "content/themes/immunity-age-and-reinfection.md",
+      "bytes": 8956,
+      "sha256": "7baad98be83a7a273b7943297dc1ed97f804b937208c45faf71ec7b02ba75a34"
+    },
+    {
+      "path": "content/themes/in-vivo-screening-through-fitness.md",
+      "bytes": 8679,
+      "sha256": "f16ac244627144f8190521d112062f2f8d647bd9b73e17ce9eecf235b375dc83"
+    },
+    {
+      "path": "content/themes/interferon-and-cell-identity.md",
+      "bytes": 7859,
+      "sha256": "d9224fa28a98285e92f741d7f283587425c5375c4a7aaf5e73dc85d416441a7b"
+    },
+    {
+      "path": "content/themes/interferon-as-intervention.md",
+      "bytes": 8191,
+      "sha256": "0a01b3632cebc3d958d6413cb26934e54c4855f3f041f20d2acde3b79e01a863"
+    },
+    {
+      "path": "content/themes/limits-of-microrna-function.md",
+      "bytes": 7738,
+      "sha256": "8c9efd550557dbaf726e7c6bf0f88b854b1a4f6509abd4a431c97d4e6fd9e1e8"
+    },
+    {
+      "path": "content/themes/lineage-tracing-of-infection.md",
+      "bytes": 6313,
+      "sha256": "4496afe0fcacc2e06811e495d3a679f0e0867115d5007ccf899923aa12a8cb18"
+    },
+    {
+      "path": "content/themes/microrna-mediated-viral-attenuation.md",
+      "bytes": 7297,
+      "sha256": "ef8f4226e3a2d39d41a21069d7bc78de4e06d5bf18acecb5cee52cdcc8b41d52"
+    },
+    {
+      "path": "content/themes/models-for-pandemic-virology.md",
+      "bytes": 9169,
+      "sha256": "f0bee2d8ef3ddd9814a0eb4281263520f4fb4fc1382c03ce89d2d3c8f5fa2e0b"
+    },
+    {
+      "path": "content/themes/molecular-biocontainment.md",
+      "bytes": 6738,
+      "sha256": "8a2304d7df73372ebfab20cbed38ff61cd2f5e8b2552a0596b5fec45d1b83881"
+    },
+    {
+      "path": "content/themes/noncanonical-microrna-biogenesis.md",
+      "bytes": 6838,
+      "sha256": "dbe5ba5a139e55e289d4be3ad9eb6b8fcbc9a1ff30efa9ba4c8306d4f83a89dc"
+    },
+    {
+      "path": "content/themes/ns1-and-interferon-antagonism.md",
+      "bytes": 6567,
+      "sha256": "7075aeb7cc62bbbc47389859126ee125ca3c06a39d5b2df46ac66d6c7568fb3f"
+    },
+    {
+      "path": "content/themes/polymerase-nucleoprotein-host-factors.md",
+      "bytes": 7982,
+      "sha256": "67f6a465d3bff70d3d8389b6e9fe6bddc8c417b865b6f36532c9954f1300bb3a"
+    },
+    {
+      "path": "content/themes/post-acute-sequelae.md",
+      "bytes": 8886,
+      "sha256": "7df3db618e145d063e4476cad5c3ca879fee3354606adb0e0943b6e07d2e94f5"
+    },
+    {
+      "path": "content/themes/recombination-and-escape.md",
+      "bytes": 7978,
+      "sha256": "27773bfd5a22b66a9fecc71acaad2547d686ac5376e16370b8df75da17f2470b"
+    },
+    {
+      "path": "content/themes/reconstructing-antiviral-rnai.md",
+      "bytes": 8055,
+      "sha256": "f3520ca8b0cc4c13dc4adcbea0a5d9489bbf2b90711506f157436dbaa40500b4"
+    },
+    {
+      "path": "content/themes/rna-vectors-for-delivery.md",
+      "bytes": 7823,
+      "sha256": "dea952b25dadeaa7c8b05348d14377525435e4ff44da3dd74c3b0f77a3e1a156"
+    },
+    {
+      "path": "content/themes/rnase-iii-antiviral-effectors.md",
+      "bytes": 7886,
+      "sha256": "c6f056cb5e143d806545b95a2c2d6447b0ffe7db3665d39f0ee1a0137dbde98d"
+    },
+    {
+      "path": "content/themes/sensing-aberrant-rna.md",
+      "bytes": 8612,
+      "sha256": "9797df772ba1153935032d676e4482cca77c789840a811cba7e7aca170bd6ebc"
+    },
+    {
+      "path": "content/themes/small-viral-rnas.md",
+      "bytes": 6555,
+      "sha256": "069dbb10d9ceddb9956391d0d3c22b3a8500d78b6d5692acec212472ffbc6627"
+    },
+    {
+      "path": "content/themes/splicing-and-temporal-control.md",
+      "bytes": 7184,
+      "sha256": "481b6f258223b2bc49088dced4ee9d21b3968aefbb0b0e4e330400db40e42373"
+    },
+    {
+      "path": "content/themes/synthetic-virology-as-method.md",
+      "bytes": 8323,
+      "sha256": "664fc778b2c9416f8cfa221ee72eef8c70dff875f2a975a6a659a02e570cf9eb"
+    },
+    {
+      "path": "content/themes/transcription-factor-selectivity.md",
+      "bytes": 7738,
+      "sha256": "27ab69d61c80f7bb091360c19381e2b0372579a33ea74546986b416bad3c03fc"
+    },
+    {
+      "path": "content/themes/transmission-bottlenecks.md",
+      "bytes": 6119,
+      "sha256": "7edbc6ea60c5a647c80587ae28c9798186e222daab19fa1fab0bc69cc57ba9af"
+    },
+    {
+      "path": "content/themes/tropism-and-permissive-tissues.md",
+      "bytes": 8574,
+      "sha256": "34f9a1052927d9b6d0fae93cea7a44c33129b94de49b973be711ef25865c1498"
+    },
+    {
+      "path": "data/claims.json",
+      "bytes": 17843,
+      "sha256": "8d4e67372554ab51f061b97f747e4a102f5a7a98af561a2ef9c0ddbad259364c"
+    },
+    {
+      "path": "data/connections.json",
+      "bytes": 35544,
+      "sha256": "b3ae38d896da57879833e77db0d6b4b580dac62e4baf966b47a5af50e5514ba4"
+    },
+    {
+      "path": "data/publication_inventory.json",
+      "bytes": 95072,
+      "sha256": "f4150885c8e3dd88b4f40b8bcd9fb78d63366e7c39a1af024c86e2ecf90443ec"
+    },
+    {
+      "path": "data/publications.json",
+      "bytes": 331699,
+      "sha256": "637d9feff22ef3b392e6095ab09d866c41dad4104d07006cf51344a7e1bedef1"
+    },
+    {
+      "path": "data/search_index.json",
+      "bytes": 134343,
+      "sha256": "479803f8514a83e496d6fb5324787fae3fa4b636c0da8025a131f022167dd038"
+    },
+    {
+      "path": "data/themes.json",
+      "bytes": 22033,
+      "sha256": "a6bd2b631adcf5d36e0b556467bd6a48d49c946414a5c601649b9dc233c09941"
+    },
+    {
+      "path": "data/timeline.json",
+      "bytes": 44669,
+      "sha256": "b0f4816e06a4740e240b380a018ca9ae7bd4d712f4861ef10e86be11d136a20a"
+    },
+    {
+      "path": "data/vocabulary.json",
+      "bytes": 266835,
+      "sha256": "7fedde258dd27e484acf59a175d9411ac8a47f91cb34e58b6eb5c8baa0a22da6"
+    },
+    {
+      "path": "key-discoveries_1.md",
+      "bytes": 69872,
+      "sha256": "24253470b600cc40f5632044dcf79167c008ce977875020cf6726602940a57b4"
+    },
+    {
+      "path": "program-overview_1.md",
+      "bytes": 18708,
+      "sha256": "76ec4cdf2a12405b504e92abb9a2ae4fae3247b3010f56bb0a75d13ec0401aed"
+    },
+    {
+      "path": "trajectory-detailed_1.md",
+      "bytes": 35745,
+      "sha256": "a04ec598ea20775341329125391eb22bef5674c9423865af467e7d3845f7a4b0"
+    },
+    {
+      "path": "trajectory-public_1.md",
+      "bytes": 10110,
+      "sha256": "ca050d956c7be903f6a584eb277097011269a080d9ebd0d8f92c9749f4b3a75a"
+    }
+  ],
+  "profile_source": {
+    "url": "https://med.nyu.edu/faculty/benjamin-tenoever",
+    "checked": "2026-09-26"
+  },
+  "relationships": "Directed edges as supplied, not inferred from subject similarity."
+}

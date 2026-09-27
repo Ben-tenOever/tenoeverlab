@@ -1,0 +1,27 @@
+# tenOever Laboratory
+
+> A source-grounded scholarly resource on Benjamin tenOever and the tenOever laboratory: virology, antiviral immunity, RNA biology, programmable virology, influenza, viral evolution, and pandemic host response.
+
+The curated corpus covers 63 publications from 2003–2025, not a complete or current bibliography. Preserve lab-led, co-led, collaborative, and training-period attribution. Distinguish demonstrated findings, interpretation, synthesis, and limitations. Historical statements about stopped work are bounded by this corpus. Cite original publications through their DOIs when using scientific findings.
+
+## Human-readable resources
+- [Home](https://tenoeverlab.us/)
+- [Research](https://tenoeverlab.us/research/)
+- [Discoveries](https://tenoeverlab.us/discoveries/)
+- [Publications](https://tenoeverlab.us/publications/)
+- [Scientific trajectory](https://tenoeverlab.us/trajectory/)
+- [About](https://tenoeverlab.us/about/)
+- [Editorial method](https://tenoeverlab.us/methods/)
+
+## Structured resources
+- [publications](https://tenoeverlab.us/data/publications.json): Publication metadata, full narrative sections, attribution, identifiers, and relationships
+- [discoveries](https://tenoeverlab.us/data/discoveries.json): Discovery statements, full narratives, and evidence-to-publication mappings
+- [research-areas](https://tenoeverlab.us/data/research-areas.json): Six research areas with themes, publications, and discoveries
+- [themes](https://tenoeverlab.us/data/themes.json): Research area and theme membership
+- [connections](https://tenoeverlab.us/data/connections.json): 129 documented directed publication relationships
+- [claims](https://tenoeverlab.us/data/claims.json): Original claim-to-source mappings
+- [vocabulary](https://tenoeverlab.us/data/vocabulary.json): Controlled terms and publication memberships
+- [timeline](https://tenoeverlab.us/data/timeline.json): Chronology and scientific transitions
+- [publication_inventory](https://tenoeverlab.us/data/publication_inventory.json): Source inventory, including an inventory-only entry; the 63 reviewed records define site coverage
+- [search_index](https://tenoeverlab.us/data/search_index.json): Original search index
+- [provenance](https://tenoeverlab.us/data/provenance.json): Source checksums and scope

@@ -1,0 +1,849 @@
+[
+ {
+  "t": "publication",
+  "slug": "2003-sharma-triggering-the-interferon-antivira",
+  "url": "/publications/2003-sharma-triggering-the-interferon-antivira/",
+  "title": "Triggering the Interferon Antiviral Response Through an IKK-Related Pathway",
+  "year": 2003,
+  "journal": "Science",
+  "text": "The IKK-related kinases IKKepsilon and TBK1 are identified as components of the virus-activated kinase activity that phosphorylates the C-terminal serine cluster of IRF-3 and IRF-7, linking pathogen sensing to type I interferon gene induction and to establishment of an antiviral state. Cells infected by a virus switch on interferon genes, but the enzyme that activates the key transcription factors IRF-3 and IRF-7 had not been identified. Testing the IKK kinase family, the authors found that IKKepsilon and TBK1, and not the classical IKKalpha or IKKbeta, phosphorylate the regulatory tail of both factors, move them into the nucleus and turn on interferon promoters. Silencing the two kinases blocked the response in lung epithelial cells. interferon IRF-3 IRF-7 IKKepsilon TBK1 innate immunity Sendai virus vesicular stomatitis virus kinase antiviral signaling type I interferon induction IRF-3 activation IRF-7 activation virus-activated kinase IKK-related kinases IKKepsilon TBK1 C-terminal phosphorylation innate antiviral state transcription factor nuclear translocation Sendai virus vesicular stomatitis virus in vitro kinase assay RNA interference knockdown luciferase reporter assay electrophoretic mobility shift assay GFP fusion localization plaque assay phosphospecific immunoblotting Sonia Sharma Benjamin R. tenOever Nathalie Grandvaux Guo-Ping Zhou Rongtuan Lin John Hiscott"
+ },
+ {
+  "t": "publication",
+  "slug": "2007-tenoever-multiple-functions-of-the-ikk-rela",
+  "url": "/publications/2007-tenoever-multiple-functions-of-the-ikk-rela/",
+  "title": "Multiple Functions of the IKK-Related Kinase IKK\u03b5 in Interferon-Mediated Antiviral Immunity",
+  "year": 2007,
+  "journal": "Science",
+  "text": "Mice lacking IKK\u03b5 produce normal interferon-\u03b2 but fail to induce roughly a third of interferon-stimulated genes, because interferon activates IKK\u03b5, which phosphorylates STAT1 at Ser708 and thereby determines whether ISGF3 occupies a subset of response elements. IKK\u03b5 was thought to act only in producing interferon-\u03b2. Mice lacking it made interferon normally yet still succumbed to influenza, because a defined subset of interferon-stimulated genes was never induced. The defect persisted when interferon was added to cells directly, placing IKK\u03b5 inside interferon signalling. Interferon activates IKK\u03b5, which phosphorylates STAT1 at serine 708, and that residue is required for the ISGF3 complex to occupy the affected promoters but not others. IKK\u03b5 Ikbke STAT1 ISGF3 ISRE interferon-stimulated genes ADAR1 influenza virus TBK1 innate immunity IKK\u03b5 type I interferon signalling ISGF3 STAT1 serine phosphorylation interferon-stimulated response element interferon-stimulated gene subsets ADAR1 promoter selectivity antiviral immunity IKK-related kinases influenza A virus influenza A/WSN/33 gene knockout mice Affymetrix microarray RT-PCR quantitative PCR electrophoretic mobility shift assay chromatin immunoprecipitation in vitro kinase assay mass spectrometry site-directed mutagenesis plaque assay Benjamin R. tenOever Sze-Ling Ng Mark A. Chua Sarah M. McWhirter Adolfo Garci\u0301a-Sastre Tom Maniatis"
+ },
+ {
+  "t": "publication",
+  "slug": "2009-perez-microrna-mediated-species-specific",
+  "url": "/publications/2009-perez-microrna-mediated-species-specific/",
+  "title": "MicroRNA-mediated species-specific attenuation of influenza A virus",
+  "year": 2009,
+  "journal": "Nature Biotechnology",
+  "text": "Engineering microRNA response elements for a mammalian-ubiquitous microRNA directly into the influenza A virus nucleoprotein coding sequence attenuates the virus in mice while leaving growth in embryonated chicken eggs intact, yielding live attenuated vaccine candidates for H1N1 and H5N1. Live influenza vaccines are grown in chicken eggs but must be weakened in people. The authors exploited a small regulatory RNA, miR-93, that mammals make and chickens do not. Placing binding sites for it inside the nucleoprotein gene left egg growth untouched while cutting lethality in mice by more than a hundredfold. The effect disappeared when the silencing machinery was removed. Vaccinated mice survived lethal H1N1 and H5N1 challenge with broad antibody responses. microRNA miR-93 influenza A virus nucleoprotein live attenuated vaccine reverse genetics attenuation H5N1 Dicer vaccine safety microRNA response element microRNA-mediated gene silencing live attenuated influenza vaccine species-specific attenuation translational repression viral nucleoprotein vaccine yield in ovo escape mutant resistance codon-level engineering of coding sequence influenza A virus influenza A virus H1N1 A/Puerto Rico/8/34 influenza A virus H5N1 A/Vietnam/1203/04 influenza reverse genetics site-directed mutagenesis northern blot luciferase reporter assay locked nucleic acid antimiR inhibition quantitative RT-PCR hemagglutination inhibition assay ELISA plaque assay Jasmine T Perez Alissa M Pham Maria H Lorini Mark A Chua John Steel Benjamin R tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2010-perez-influenza-a-virus-generated-small-",
+  "url": "/publications/2010-perez-influenza-a-virus-generated-small-/",
+  "title": "Influenza A virus-generated small RNAs regulate the switch from transcription to replication",
+  "year": 2010,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Influenza A virus produces a family of 22 to 27 nucleotide small viral RNAs corresponding to the 5 prime end of each genomic segment, which accumulate as the polymerase shifts toward genome synthesis and whose inhibition selectively depletes genomic RNA without comparably affecting messenger or complementary RNA. Influenza A virus must switch its single polymerase from making messenger RNA to copying its genome, and how it does so was unclear. Sequencing small RNAs from infected cells revealed a 22 to 27 nucleotide species matching the start of each genome segment. It appears when genome copying begins, binds the assembled polymerase, and requires the polymerase, nucleoprotein and NEP/NS2 to be made. Blocking one segment's small RNA reduces that segment's genome and viral output. svRNA influenza A virus RdRp replicase transcriptase vRNA cRNA NS2 small RNA sequencing LNA antisense small viral RNA transcription to replication switch viral RNA-dependent RNA polymerase viral ribonucleoprotein promoter panhandle NEP/NS2 nucleoprotein 5-prime triphosphate RNA segment-specific regulation influenza A virus vesicular stomatitis virus small RNA deep sequencing SOLiD sequencing northern blot primer extension quantitative PCR immunoprecipitation locked nucleic acid antisense inhibition bidirectional plasmid reverse genetics Jasmine T. Perez Andrew Varble Ravi Sachidanandam Ivan Zlatev Muthiah Manoharan Adolfo Garc\u00eda-Sastre Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2010-schmid-transcription-factor-redundancy-en",
+  "url": "/publications/2010-schmid-transcription-factor-redundancy-en/",
+  "title": "Transcription Factor Redundancy Ensures Induction of the Antiviral State",
+  "year": 2010,
+  "journal": "Journal of Biological Chemistry",
+  "text": "IRF7 and ISGF3 engage overlapping interferon-stimulated response elements and drive largely overlapping antiviral transcriptomes, so that a substantial interferon-like gene program is still induced when type I and type III interferon signaling are both absent. Antiviral gene induction is usually attributed to interferon signaling through the ISGF3 complex. Mice lacking both type I and type III interferon receptors nonetheless induced many interferon-stimulated genes after influenza A virus infection. Systematic mutagenesis of a model promoter element showed that IRF7 and ISGF3 bind overlapping but distinguishable sequences, and activating IRF7 in interferon-unresponsive human cells reproduced most of that gene set, indicating a redundant route to the antiviral state. ISRE IRF7 ISGF3 STAT1 interferon influenza A virus NS1 antiviral transcriptome EMSA gene expression interferon-stimulated response element ISGF3 IRF7 IRF3 transcription factor redundancy interferon-stimulated genes antiviral state type I interferon signaling type III interferon signaling promoter motif specificity influenza A virus electrophoretic mobility shift assay Affymetrix microarray quantitative PCR luciferase reporter assay lentiviral transduction RNA interference knockdown knockout mouse infection Sonja Schmid Markus Mordstein Georg Kochs Adolfo Garc\u00eda-Sastre Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2010-shapiro-noncanonical-cytoplasmic-processin",
+  "url": "/publications/2010-shapiro-noncanonical-cytoplasmic-processin/",
+  "title": "Noncanonical cytoplasmic processing of viral microRNAs",
+  "year": 2010,
+  "journal": "RNA",
+  "text": "Insertion of a primary microRNA locus into the exclusively cytoplasmic Sindbis virus genome yields mature, functional miR-124 through a Dicer-dependent but microprocessor- and Exportin-5-independent route, defining a cytoplasmic hairpin-processing activity in vertebrate cells that the authors term a virtron. Vertebrate microRNAs are normally cut first in the nucleus and only finished in the cytoplasm. Putting a microRNA gene into Sindbis virus, which never enters the nucleus, still produced mature miR-124. The process required Dicer but not DGCR8, Exportin-5, or interferon signalling. The small RNA silenced a reporter and cut the virus back by about two logs in a Dicer-dependent way, indicating an uncharacterised cytoplasmic route to functional small RNAs. RNA interference microRNA Sindbis virus Dicer DGCR8 Exportin-5 miR-124 viral engineering small RNA interferon-independent restriction noncanonical microRNA biogenesis mirtron-like processing virtron Dicer dependence microprocessor independence Exportin-5 independence post-transcriptional gene silencing antiviral RNA interference in vertebrates viral self-targeting cytoplasmic hairpin processing Sindbis virus reverse genetics recombinant alphavirus engineering small RNA Northern blot small RNA cloning and sequencing siRNA knockdown reporter-based post-transcriptional silencing assay multicycle growth curve confocal immunofluorescence Jillian S. Shapiro Andrew Varble Alissa M. Pham Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2010-varble-engineered-rna-viral-synthesis-of-",
+  "url": "/publications/2010-varble-engineered-rna-viral-synthesis-of-/",
+  "title": "Engineered RNA viral synthesis of microRNAs",
+  "year": 2010,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Influenza A virus can be engineered to encode a cellular pri-microRNA inside an artificial intron of segment 8 and to produce mature, silencing-competent miR-124 during infection without measurable loss of replication or genome stability. MicroRNAs made by viruses had been found almost only in DNA viruses, and RNA viruses were thought unable to make them without destroying their own genomes. By splitting two overlapping genes in influenza segment 8, the authors created an intron that carried a cellular microRNA precursor. The virus produced mature, active miR-124 through the normal cellular pathway, silenced a reporter, drove neuron-like differentiation, and replicated as well as wild-type virus. influenza A virus miR-124 microRNA RNA interference reverse genetics NS segment nuclear export protein RNA virus vector viral microRNA synthesis RNA virus vectors Drosha and DGCR8 processing intron-encoded microRNA post-transcriptional gene silencing viral ribonucleoprotein accessibility segment 8 engineering small RNA delivery influenza A virus influenza reverse genetics small RNA Northern blotting stem-loop quantitative RT-PCR 5' RACE flow cytometry confocal immunofluorescence multicycle growth curves Andrew Varble Mark A. Chua Jasmine T. Perez Balaji Manicassamy Adolfo Garc\u00eda-Sastre Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2011-ng-i-b-kinase-ikk-regulates-the-balan",
+  "url": "/publications/2011-ng-i-b-kinase-ikk-regulates-the-balan/",
+  "title": "I\u03baB kinase \u03b5 (IKK\u03b5) regulates the balance between type I and type II interferon responses",
+  "year": 2011,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Phosphorylation of STAT1 serine 708 by IKK\u03b5 blocks formation of the STAT1 homodimer that constitutes GAF while leaving the STAT1 and STAT2 heterodimer of ISGF3 intact, biasing the shared STAT1 pool and the interferon-stimulated transcriptome toward the type I response. Two interferon pathways compete for the same protein, STAT1. Paired with STAT2 it drives the antiviral type I program, paired with itself it drives the type II program. The authors show that IKK\u03b5 phosphorylates STAT1 at a residue sitting in the self-pairing interface, which blocks self-pairing but not partnering with STAT2. Cells lacking IKK\u03b5 run the wrong program, bind the wrong promoters, and are more readily infected by influenza A virus. IKKepsilon STAT1 ISGF3 GAF interferon signaling JAK-STAT ISRE GAS influenza A virus ChIP-seq IKKepsilon STAT1 serine 708 phosphorylation ISGF3 assembly GAF complex interferon-stimulated response element gamma-activated sequence type I versus type II interferon balance STAT1 homodimer interface transcription factor complex competition interferon-stimulated gene selectivity influenza A virus influenza A virus H1N1 A/Puerto Rico/8/34 RNA sequencing ChIP sequencing electrophoretic mobility shift assay coimmunoprecipitation size-exclusion chromatography recombinant kinase assay adenoviral overexpression quantitative PCR motif discovery Sze-Ling Ng Brad A. Friedman Sonja Schmid Jason Gertz Richard M. Myers Benjamin R. tenOever Tom Maniatis"
+ },
+ {
+  "t": "publication",
+  "slug": "2012-backes-degradation-of-host-micrornas-by-p",
+  "url": "/publications/2012-backes-degradation-of-host-micrornas-by-p/",
+  "title": "Degradation of Host MicroRNAs by Poxvirus Poly(A) Polymerase Reveals Terminal RNA Methylation as a Protective Antiviral Mechanism",
+  "year": 2012,
+  "journal": "Cell Host & Microbe",
+  "text": "Poxviruses degrade host microRNAs through the catalytic subunit of their own poly(A) polymerase, VP55, which adds short nontemplated adenosine tails to argonaute-loaded guide strands and thereby marks them for cellular decay, while small RNAs carrying a 3 prime terminal 2 prime O-methyl group are spared. Poxviruses have never been shown to use host microRNAs, and this work suggests why. In insect and mammalian cells, poxvirus infection adds a few nontemplated adenosines to mature microRNAs, after which the cell's own machinery destroys them. The responsible enzyme is VP55, the catalytic subunit of the viral poly(A) polymerase, which is both necessary and sufficient. Small RNAs carrying a methyl group at their 3 prime end are not modified and survive. vaccinia virus VP55 microRNA degradation polyadenylation 2-prime O-methyl argonaute entomopoxvirus miR-124 esiRNA microRNA turnover nontemplated 3-prime adenylation poly(A) polymerase VP55 VP39 processivity factor 2-prime O-methylation RNA-induced silencing complex strand selection small RNA-mediated antiviral restriction self versus non-self RNA discrimination vaccinia virus Amsacta moorei entomopoxvirus Sindbis virus vesicular stomatitis virus small RNA deep sequencing small RNA northern blot RNA interference knockdown recombinant poxvirus engineering argonaute immunoprecipitation synthetic modified RNA mimetics reporter silencing assay Simone Backes Jillian S. Shapiro Leah R. Sabin Alissa M. Pham Ismarc Reyes Bernard Moss Sara Cherry Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2012-langlois-hematopoietic-specific-targeting-o",
+  "url": "/publications/2012-langlois-hematopoietic-specific-targeting-o/",
+  "title": "Hematopoietic-specific targeting of influenza A virus reveals replication requirements for induction of antiviral immune responses",
+  "year": 2012,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Influenza A virus engineered to be silenced by the hematopoietic microRNA miR-142 shows that replication inside antigen presenting cells is dispensable for CD8 T cell priming and clearance but required for much of the RIG-I-dependent type I interferon response in vivo. Influenza infects airway epithelium and also immune cells, and separating the two contributions has been difficult. By inserting target sites for a blood-lineage microRNA into an essential viral gene, this work built a virus that cannot replicate in immune cells while growing normally in epithelium. Infected mice cleared the virus and made normal antiviral T cells, but produced substantially less type I interferon, implicating infected immune cells as the main source of that alarm signal. influenza A virus microRNA targeting miR-142 dendritic cells macrophages RIG-I type I interferon cross-presentation CD8 T cells viral tropism cell-type-restricted viral tropism miR-142 antigen presenting cells cross-presentation RIG-I type I interferon induction small viral RNA influenza nucleoprotein CD8 T cell priming innate sensing compartment influenza A virus influenza reverse genetics microRNA target site insertion small RNA northern blot small RNA deep sequencing quantitative RT-PCR flow cytometry MHC class I tetramer staining CD8 T cell hybridoma antigen presentation assay plaque assay Ryan A. Langlois Andrew Varble Mark A. Chua Adolfo Garc\u00eda-Sastre Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+  "url": "/publications/2012-langlois-in-vivo-delivery-of-cytoplasmic-rn/",
+  "title": "In Vivo Delivery of Cytoplasmic RNA Virus-derived miRNAs",
+  "year": 2012,
+  "journal": "Molecular Therapy",
+  "text": "A negative-sense cytoplasmic RNA virus, vesicular stomatitis virus, can be engineered to produce mature Dicer-dependent miR-124 that loads into Argonaute 2, silences targets, reaches many tissues in mice, and persists after the vector itself is cleared. MicroRNA production was thought to begin in the nucleus. Vesicular stomatitis virus, which replicates only in the cytoplasm, was engineered to carry a microRNA precursor. It produced abundant mature miR-124 that required Dicer, loaded into Argonaute 2, and silenced targets. In mice the vector delivered the microRNA to lung, spleen, liver, kidney and heart, and the microRNA remained after the virus was cleared, reducing induction of a known target gene. vesicular stomatitis virus Sindbis virus miR-124 microRNA delivery RNA interference Ptbp1 Ifnar1 Argonaute 2 virtrons cytoplasmic microRNA biogenesis noncanonical small RNA processing Dicer dependence star strand accumulation RISC loading post-transcriptional silencing in vivo small RNA delivery vector tropism vesicular stomatitis virus Sindbis virus influenza A virus reverse genetics small RNA Northern blotting small RNA deep sequencing Argonaute 2 immunoprecipitation luciferase reporter assays flow cytometry quantitative RT-PCR intranasal and intravenous infection of mice Ryan A Langlois Jillian S Shapiro Alissa M Pham Benjamin R tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+  "url": "/publications/2012-perez-a-small-rna-enhancer-of-viral-poly/",
+  "title": "A Small-RNA Enhancer of Viral Polymerase Activity",
+  "year": 2012,
+  "journal": "Journal of Virology",
+  "text": "Influenza A virus small viral RNAs are shown to be synthesized from the complementary RNA intermediate, to load into the RNA binding cleft of the polymerase PA subunit, and to act there as segment-specific allosteric enhancers of full-length genome synthesis. Influenza A virus must switch its polymerase from making messenger RNA to copying its eight genome segments, and it must copy them in balanced amounts. This study shows that short viral RNAs, made from the positive-sense copy of the genome, bind a basic cleft in the polymerase PA subunit and boost full-length genome synthesis without acting as primers. Removing this small RNA from one segment blocks genome synthesis for that segment alone. influenza A virus svRNA viral polymerase PA subunit NEP cRNA vRNA synthesis genome replication segment balance regulatory RNA small viral RNA svRNA RNA-dependent RNA polymerase transcription to replication switch allosteric enhancer RNA PA RNA binding cleft cRNA intermediate nuclear export protein NEP segment-specific regulation genome segment stoichiometry influenza A virus Northern blotting primer extension small RNA deep sequencing RNA immunoprecipitation influenza reverse genetics polymerase reconstitution assay in vitro RNA polymerase assay site-directed mutagenesis subcellular fractionation synthetic 5-prime triphosphate RNA chemistry Jasmine T. Perez Ivan Zlatev Shilpa Aggarwal Sailakshmi Subramanian Ravi Sachidanandam Baek Kim Muthiah Manoharan Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2012-pham-replication-in-cells-of-hematopoie",
+  "url": "/publications/2012-pham-replication-in-cells-of-hematopoie/",
+  "title": "Replication in Cells of Hematopoietic Origin Is Necessary for Dengue Virus Dissemination",
+  "year": 2012,
+  "journal": "PLoS Pathogens",
+  "text": "Inserting hematopoietic-specific miR-142 target sites into the dengue virus 3-prime untranslated region excludes replication from macrophages and dendritic cells in vivo and abolishes spread to other tissues, identifying hematopoietic cells as the dominant amplification compartment. Dengue virus infects dendritic cells and macrophages, but whether other cells sustain infection has been unclear. Researchers inserted target sites for a microRNA found only in blood-lineage cells into the dengue genome, so the virus was silenced in those cells alone. In mice the modified virus lost replication in macrophages and dendritic cells and failed to spread to spleen and liver. All virus recovered from animals had deleted the inserted sites. dengue virus miR-142 tropism macrophages dendritic cells hematopoietic dissemination microRNA targeting escape mutants mouse model viral tropism microRNA-mediated attenuation miR-142 hematopoietic cells virus dissemination post-transcriptional silencing RNA-induced silencing complex escape mutants cell-type restriction of replication dengue pathogenesis models dengue virus serotype 2 microRNA target site insertion flavivirus infectious cDNA clone and virus rescue in vitro transcription and electroporation small RNA Northern blotting quantitative RT-PCR plaque assay magnetic-activated cell sorting fluorescence-activated cell sorting escape mutant sequencing Alissa M. Pham Ryan A. Langlois Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+  "url": "/publications/2012-shapiro-evidence-for-a-cytoplasmic-micropr/",
+  "title": "Evidence for a cytoplasmic microprocessor of pri-miRNAs",
+  "year": 2012,
+  "journal": "RNA",
+  "text": "Primary microRNA transcripts generated in the cytoplasm by a recombinant Sindbis virus are cleaved without any nuclear involvement yet still require Drosha, which relocalises from nucleus to cytoplasm on infection while the endogenous microRNA profile of the cell remains largely unchanged. MicroRNAs are normally cut first in the nucleus by Drosha and then in the cytoplasm by Dicer. Using a Sindbis virus engineered to carry microRNA hairpins, the authors show that processing happens entirely in the cytoplasm, does not need cell division, and yet still depends absolutely on Drosha. Infection itself moves Drosha out of the nucleus. Despite this relocation, the cell's own microRNA population is essentially unchanged, and the viral microRNA silences targets normally. Drosha DGCR8 Dicer microRNA biogenesis Sindbis virus Argonaute cytoplasmic processing small RNA sequencing miR-124 miR-122 noncanonical microRNA biogenesis cytoplasmic pri-miRNA microprocessor Drosha relocalization DGCR8 dependence Dicer dependence RNA-induced silencing complex loading virus-encoded microRNA endogenous miRNA landscape stability Sindbis virus influenza A virus recombinant Sindbis virus small RNA Northern blot small RNA deep sequencing RNA in situ hybridization immunofluorescence microscopy Argonaute immunoprecipitation luciferase reporter silencing assay conditional gene knockout CFSE cell division tracking Jillian S. Shapiro Ryan A. Langlois Alissa M. Pham Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2013-chua-influenza-a-virus-utilizes-subopti",
+  "url": "/publications/2013-chua-influenza-a-virus-utilizes-subopti/",
+  "title": "Influenza A Virus Utilizes Suboptimal Splicing to Coordinate the Timing of Infection",
+  "year": 2013,
+  "journal": "Cell Reports",
+  "text": "The inefficient 5 prime splice site of influenza A virus segment 8 functions as a timing device, causing the nuclear export protein to accumulate slowly as a minor product of abundant NS1 transcription, with both raising and lowering that rate attenuating the virus through mistimed ribonucleoprotein export. Influenza A virus segment 8 makes the interferon antagonist NS1 as its main product and the nuclear export protein NEP through a weak splice site. Silencing NS1 by over ninety percent barely affected the virus, in cells or in mice. Changing NEP in either direction crippled it. Making the splice site efficient raised NEP, sent genome complexes to the cytoplasm hours early, and cost two logs of growth. The poor splice site is a timer. influenza A virus NS segment NEP NS2 NS1 splicing vRNP export miR-142 miR-20 molecular timer suboptimal 5-prime splice site molecular timer nuclear export protein NEP NS1 interferon antagonism viral ribonucleoprotein export bicistronic segment 8 gene expression stoichiometry temporal coordination of the viral life cycle influenza A virus reverse genetics microRNA-mediated attenuation small interfering RNA knockdown replication-incompetent virus-like vectors 2A ribosome recoding site-directed splice site mutagenesis multicycle growth curves immunofluorescence microscopy intranasal mouse infection Mark A. Chua Sonja Schmid Jasmine T. Perez Ryan A. Langlois Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2013-cullen-is-rna-interference-a-physiologica",
+  "url": "/publications/2013-cullen-is-rna-interference-a-physiologica/",
+  "title": "Is RNA Interference a Physiologically Relevant Innate Antiviral Immune Response in Mammals?",
+  "year": 2013,
+  "journal": "Cell Host & Microbe",
+  "text": "A critical appraisal of the evidence for antiviral RNA interference in mammals, accepting that mouse embryonic stem cells generate virus-derived small interfering RNAs while finding the somatic cell case unproven, because the viral proteins invoked also antagonize interferon. RNA interference protects plants and insects from viruses, but whether mammals use it the same way has been disputed. Reviewing three 2013 studies, these authors accept that mouse embryonic stem cells generate virus-derived small silencing RNAs, and argue that the parallel claim for ordinary body cells is not yet supported, because the viral proteins used to make the case also block interferon, so the two explanations have not been separated experimentally. RNA interference antiviral immunity embryonic stem cells nodamura virus B2 Dicer Argonaute interferon viral small RNAs minireview antiviral RNA interference viral suppressor of RNA silencing Dicer Argonaute and RISC virus-derived small interfering RNAs type I interferon as an alternative antiviral system pluripotency and RNAi competence criteria for demonstrating antiviral RNAi nodamura virus encephalomyocarditis virus influenza A virus Ebola virus human immunodeficiency virus 1 small RNA deep sequencing northern blot Argonaute knockout cells Dicer deficient cells viral suppressor mutant viruses Bryan R. Cullen Sara Cherry Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2013-langlois-microrna-based-strategy-to-mitigat",
+  "url": "/publications/2013-langlois-microrna-based-strategy-to-mitigat/",
+  "title": "MicroRNA-based strategy to mitigate the risk of gain-of-function influenza studies",
+  "year": 2013,
+  "journal": "Nature Biotechnology",
+  "text": "Engineering target sites for miR-192, a microRNA abundant in human and mouse respiratory tissue but absent from the ferret respiratory tract, into the influenza A virus hemagglutinin segment attenuates the virus in mice while leaving replication and transmission in ferrets intact, providing a genetic layer of biocontainment for transmission studies. Influenza transmission experiments rely on ferrets, which raises concern about accidental human infection. Sequencing of small RNAs across species identified miR-192 as abundant in human and mouse respiratory tissue and absent from ferret lung. Four miR-192 target sites inserted after the hemagglutinin stop codon silenced the virus in human cells and rendered it harmless in mice at ten times a lethal dose, while leaving replication and airborne transmission in ferrets unchanged. miR-192 influenza A virus biocontainment gain-of-function ferret transmission hemagglutinin microRNA targeting biosafety H5N1 reverse genetics molecular biocontainment species-specific microRNA expression microRNA target site insertion viral tropism restriction gain-of-function research biosafety hemagglutinin segment engineering packaging signal duplication ferret transmission model miR-192 viral attenuation influenza A virus influenza A virus H5N1 influenza A virus H3N2 small RNA deep sequencing influenza A virus reverse genetics microRNA target site engineering northern blot quantitative PCR plaque assay ferret transmission study Ryan A Langlois Randy A Albrecht Brian Kimble Troy Sutton Jillian S Shapiro Courtney Finch Matthew Angel Mark A Chua Ana Silvia Gonzalez-Reiche Kemin Xu Daniel Perez Adolfo Garc\u00eda-Sastre Benjamin R tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+  "url": "/publications/2013-tenoever-rna-viruses-and-the-host-microrna-/",
+  "title": "RNA viruses and the host microRNA machinery",
+  "year": 2013,
+  "journal": "Nature Reviews Microbiology",
+  "text": "Argues that chordates, unlike plants, nematodes and arthropods, do not use small RNAs as antiviral defence, and that this absence of interplay between host microRNAs and RNA viruses is what leaves the microRNA machinery available for engineering viral tropism and small RNA delivery. Plants and insects fight viruses with small RNAs, but chordates use interferon instead. This review argues that host microRNAs cannot serve antiviral roles in chordates, because they are too scarce, bind too weakly and act too slowly relative to a viral life cycle. Viruses therefore have no reason to disrupt the microRNA machinery, so it stays intact and can be exploited, by grafting target sites into viral genomes and by engineering viruses to deliver designed small RNAs. microRNA RNAi viRNA chordates viral vectors tropism amiRNA interferon live-attenuated vaccines gene silencing microRNA virus-derived interfering RNA RNA interference antiviral innate immunity type I interferon microRNA target site engineering viral tropism control artificial microRNA delivery cytoplasmic microprocessor small RNA copy number RISC saturation live-attenuated vaccine design influenza A virus poliovirus dengue virus vesicular stomatitis virus West Nile virus hepatitis C virus bovine leukaemia virus herpesviruses poxviruses adenovirus small RNA deep sequencing artificial microRNAs short hairpin RNAs microRNA target site insertion recombinant viral vectors reverse genetics adeno-associated virus vectors lentiviral vectors Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2013-varble-an-in-vivo-rnai-screening-approach",
+  "url": "/publications/2013-varble-an-in-vivo-rnai-screening-approach/",
+  "title": "An In Vivo RNAi Screening Approach to Identify Host Determinants of Virus Replication",
+  "year": 2013,
+  "journal": "Cell Host & Microbe",
+  "text": "Replication-competent Sindbis viruses, each encoding an artificial microRNA against one murine open reading frame, turn viral fitness in infected mice into a selection-based screen for host restriction factors, identifying the transcription factors Zfx and Mga as maintainers of antiviral capacity. Screens for host genes that limit virus infection normally use cultured cells and indirect readouts. Here roughly 10,000 Sindbis viruses, each silencing one mouse gene, were passaged through mice, letting the virus's own replication do the selecting. Barcoded control viruses showed the enrichment was real. Hits included known interferon-stimulated genes and, unexpectedly, the transcription factors Zfx and Mga, whose loss degraded interferon signaling and allowed substantially more virus growth. Sindbis virus artificial microRNA RNAi screen Zfx Mga RIG-I interferon host factors in vivo RNA interference screening virus-delivered artificial microRNAs natural selection as screen readout host restriction factors interferon-stimulated genes RIG-I sensing of alphavirus transcriptional maintenance of antiviral capacity barcode control for drift Sindbis virus influenza A virus artificial microRNA libraries alphavirus reverse genetics in vivo serial passage selection small RNA deep sequencing barcoded virus libraries messenger RNA sequencing small RNA Northern blotting multicycle growth curves Andrew Varble Asiel A. Benitez Sonja Schmid David Sachs Jaehee V. Shim Ruth Rodriguez-Barrueco Maryline Panis Marshall Crumiller Jose M. Silva Ravi Sachidanandam Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2014-backes-the-mammalian-response-to-virus-in",
+  "url": "/publications/2014-backes-the-mammalian-response-to-virus-in/",
+  "title": "The Mammalian Response to Virus Infection Is Independent of Small RNA Silencing",
+  "year": 2014,
+  "journal": "Cell Reports",
+  "text": "Engineering vesicular stomatitis virus to eliminate RISC-loaded small RNAs attenuates rather than enhances replication in mice, and confers no replication advantage even when interferon signaling is removed, arguing that small RNA silencing does not contribute to mammalian antiviral defense. Plants and insects fight viruses with RNA interference, while mammals use interferon. Whether mammals also retain the RNA silencing defense has been disputed. Researchers armed vesicular stomatitis virus with a poxvirus enzyme that destroys host small RNAs. The armed virus gained no advantage in cells or mice, and was attenuated because losing microRNAs raised antiviral gene expression. Removing interferon signaling in mice erased all differences, indicating no hidden silencing contribution beneath interferon. RNAi interferon vesicular stomatitis virus VP55 NS1 microRNA Dicer small RNA sequencing antiviral defense mammalian antiviral RNA interference interferon response virus-derived small RNAs RISC VP55 poly(A) polymerase microRNA targetome interferon-stimulated genes Dicer independence small RNA tailing and degradation evolutionary divergence of antiviral strategies vesicular stomatitis virus influenza A virus Sindbis virus Borna disease virus vaccinia virus recombinant VSV reverse genetics small RNA deep sequencing mRNA sequencing small RNA Northern blotting quantitative RT-PCR plaque assay siRNA transfection microRNA target site insertion Simone Backes Ryan A. Langlois Sonja Schmid Andrew Varble Jaehee V. Shim David Sachs Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2014-heaton-long-term-survival-of-influenza-vi",
+  "url": "/publications/2014-heaton-long-term-survival-of-influenza-vi/",
+  "title": "Long-term survival of influenza virus infected club cells drives immunopathology",
+  "year": 2014,
+  "journal": "Journal of Experimental Medicine",
+  "text": "A Cre recombinase-expressing influenza A virus combined with Cre-responsive reporter and ablation mouse strains showed that a subpopulation of directly infected lung cells, predominantly club cells, survives productive infection, sustains elevated interferon-stimulated gene and chemokine expression, and contributes to bronchiolar epithelial damage after virus is cleared. Influenza is usually thought to kill the cells it infects. Using a virus that permanently tags any cell it replicates in, this work showed that a small population of mouse airway cells, mostly club cells, clears the virus and lives on. Those survivors keep antiviral and inflammatory genes switched on after virus is undetectable. Genetically removing them lessened damage to the airway lining, indicating that surviving infected cells contribute to post-infection lung injury. influenza A virus club cells Clara cells Cre recombinase reporter virus tdTomato immunopathology interferon-stimulated genes CXCL10 CCL20 CCL5 diphtheria toxin receptor lung pathology cell survival of lytic infection lineage tracing of infected cells club cells interferon-stimulated genes proinflammatory chemokines immunopathology bronchiolar epithelium virus clearance type I interferon response influenza A virus influenza reverse genetics Cre-lox lineage tracing tdTomato reporter mice diphtheria toxin receptor depletion fluorescence-activated cell sorting mRNA sequencing multiplex bead cytokine array quantitative RT-PCR histopathology Nicholas S. Heaton Ryan A. Langlois David Sachs Jean K. Lim Peter Palese Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2014-schmid-a-versatile-rna-vector-for-deliver",
+  "url": "/publications/2014-schmid-a-versatile-rna-vector-for-deliver/",
+  "title": "A Versatile RNA Vector for Delivery of Coding and Noncoding RNAs",
+  "year": 2014,
+  "journal": "Journal of Virology",
+  "text": "Replication-incompetent influenza-based vectors carrying no DNA intermediate deliver coding messages and functional small RNAs together to primary human and mouse cells and to mouse lung, with output and cytotoxicity tuned by microRNA target sites in the nucleoprotein segment. Turning RNA interference into medicine depends on getting the RNA where it is needed. This work adapts a crippled influenza virus into a delivery vehicle that never becomes DNA and cannot integrate into the genome. It carried a fluorescent reporter and a silencing RNA at once, knocked down target genes in human and mouse primary cells, and reached mouse lung after nasal delivery. Building in a self-limiting switch removed the vector's toxicity without losing silencing. virus-like vector influenza A virus RNA interference microRNA delivery artificial microRNA gene knockdown primary cells intranasal delivery RNA-based gene delivery replication-incompetent vector artificial microRNA miR-124 miR-302/367 cluster miR-93 target site attenuation tunable small RNA dosing vector cytotoxicity no DNA intermediate influenza A virus influenza reverse genetics replication-incompetent virus-like vectors artificial microRNA expression microRNA target site attenuation small RNA northern blot quantitative PCR western blot flow cytometry cell viability assay intranasal delivery Sonja Schmid Lum C. Zony Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2014-schmid-mitogen-activated-protein-kinase-m",
+  "url": "/publications/2014-schmid-mitogen-activated-protein-kinase-m/",
+  "title": "Mitogen-activated Protein Kinase-mediated Licensing of Interferon Regulatory Factor 3/7 Reinforces the Cell Response to Virus",
+  "year": 2014,
+  "journal": "Journal of Biological Chemistry",
+  "text": "Sustained IRF7 activity induces the kinase MAP3K8, which phosphorylates the proline-rich hinge of IRF3 and redirects it from homodimers into IRF3 and IRF7 heterodimers, broadening the antiviral transcriptome and scaling the cellular response to the persistence of the viral threat. Cells must match the strength of an antiviral response to the size of the threat. The authors describe a loop that does this. Persistent infection keeps IRF7 active, IRF7 induces the kinase MAP3K8, and MAP3K8 causes phosphorylation of IRF3 in a flexible hinge region. The modified IRF3 pairs with IRF7 rather than with itself, and the resulting complex reaches promoters the IRF3 pair cannot. Cells lacking the kinase induce fewer antiviral genes and support more virus. MAP3K8 TPL2 IRF3 IRF7 interferon beta SP100 PML nuclear bodies ERK vesicular stomatitis virus innate immunity MAP3K8 IRF3 and IRF7 heterodimer interferon regulatory factor binding element interferon beta enhanceosome feed forward amplification of innate immunity proline-rich hinge phosphorylation SP100 family promyelocytic leukemia nuclear bodies ERK activation threat-proportional antiviral response vesicular stomatitis virus influenza A virus influenza A virus H1N1 A/Puerto Rico/8/34 NS1 R38A K41A mRNA deep sequencing electrophoretic mobility shift assay coimmunoprecipitation luciferase reporter assay in vivo radiolabeling phosphatase treatment site-directed mutagenesis siRNA knockdown immunofluorescence microscopy quantitative PCR plaque assay Sonja Schmid David Sachs Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2014-shapiro-drosha-as-an-interferon-independen",
+  "url": "/publications/2014-shapiro-drosha-as-an-interferon-independen/",
+  "title": "Drosha as an interferon-independent antiviral factor",
+  "year": 2014,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Loss of the nuclear RNase III enzyme Drosha, but not of Dicer, increases RNA virus replication in mammalian fibroblasts, and diverse RNA viruses drive Drosha into the cytoplasm by CRM1-dependent export in a manner that does not require new protein synthesis, RIG-I, TBK1 or type I interferon signaling. Insects and plants fight viruses with small interfering RNAs made by Dicer, a defense thought lost in mammals. In mouse fibroblasts, deleting Dicer did not change virus growth, but deleting Drosha did. Infection with several unrelated RNA viruses, or double-stranded RNA alone, pushed Drosha out of the nucleus by an export route that does not need interferon signaling. Drosha cut viral RNA and reshaped host gene expression without producing the classic small interfering RNAs. Drosha Dicer RNAi Sindbis virus CRM1 interferon-independent microRNA innate immunity viral RNA cleavage Rnasen Drosha Dicer antiviral RNA interference cytoplasmic Drosha translocation exportin 1 CRM1-dependent nuclear export interferon-independent antiviral defense viral genomic RNA cleavage host transcriptome modulation virus-derived small interfering RNAs microRNA biogenesis machinery Sindbis virus vesicular stomatitis virus influenza A virus conditional knockout with Cre-expressing adenoviral vectors small RNA northern blot small RNA deep sequencing RNA sequencing in vitro RNase cleavage assay subcellular fractionation immunofluorescence microscopy plaque assay RNA interference knockdown Jillian S. Shapiro Sonja Schmid Lauren C. Aguado Leah R. Sabin Ari Yasunaga Jaehee V. Shim David Sachs Sara Cherry Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2014-varble-influenza-a-virus-transmission-bot",
+  "url": "/publications/2014-varble-influenza-a-virus-transmission-bot/",
+  "title": "Influenza A Virus Transmission Bottlenecks Are Defined by Infection Route and Recipient Host",
+  "year": 2014,
+  "journal": "Cell Host & Microbe",
+  "text": "Genetically barcoded influenza A virus libraries tracked through cell culture, embryonated eggs, guinea pigs, ferrets and mice show that transmission bottlenecks differ by route and recipient, with airborne transmission reducing a diverse inoculum to as few as two founder clones. Influenza A virus circulates as a mixed population, but how much of that mixture survives a transmission event was unclear. Inserting neutral genetic barcodes into more than a hundred otherwise identical viruses allowed the population to be read by sequencing at each step. Cell culture passed the population intact, egg passage selected avian adapted variants, and animal to animal transmission collapsed it to a few founders, with airborne transmission the narrowest route. influenza A virus transmission bottleneck barcoded virus library ferret transmission model guinea pig transmission model aerosol transmission quasispecies deep sequencing egg adaptation H5N1 pandemic risk transmission bottleneck viral quasispecies founder population stochastic transmission host adaptation hemagglutinin receptor specificity aerosol transmission contact transmission upper respiratory tract replication pandemic emergence influenza A virus influenza A/California/04/2009 (H1N1pdm09) reverse genetics genetic barcoding deep sequencing Illumina MiSeq plaque assay Monte Carlo simulation nebulized aerosol exposure Andrew Varble Randy A. Albrecht Simone Backes Marshall Crumiller Nicole M. Bouvier David Sachs Adolfo Garc\u00eda-Sastre Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2015-aguado-microrna-function-is-limited-to-cy",
+  "url": "/publications/2015-aguado-microrna-function-is-limited-to-cy/",
+  "title": "microRNA Function Is Limited to Cytokine Control in the Acute Response to Virus Infection",
+  "year": 2015,
+  "journal": "Cell Host & Microbe",
+  "text": "Rapid vector-delivered destruction of the entire cellular microRNA population shows that post-transcriptional silencing makes no measurable contribution to the acute transcriptional response to double-stranded RNA or to type I interferon, while sustained loss of microRNAs derepresses a broad set of chemokines and proinflammatory cytokines in fibroblasts and in mouse lung. MicroRNAs tune protein levels, and their role in antiviral immunity has been argued both ways. Using a harmless adenovirus vector carrying a poxvirus enzyme that destroys microRNAs within a day, the authors removed them from primary human fibroblasts and from mouse lung. The response to double-stranded RNA and to interferon was essentially unaffected. Only after days of depletion did large changes appear, concentrated in chemokines and cytokines that recruit and activate immune cells. microRNA VP55 interferon cytokine IL6 let-7 IRF1 adenoviral vector transcriptome innate immunity microRNA depletion post-transcriptional silencing intrinsic antiviral response type I interferon signalling cytokine derepression RNA-induced silencing complex inactivation kinetics of microRNA action let-7 regulation of IL6 miR-23 regulation of IRF1 vaccinia virus adenovirus type 5 adenoviral vector delivery VP55 poly(A) polymerase microRNA degradation messenger RNA sequencing small RNA sequencing small RNA Northern blot luciferase reporter assay Luminex cytokine panel quantitative PCR gene ontology enrichment Lauren C. Aguado Sonja Schmid David Sachs Jaehee V. Shim Jean K. Lim Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2015-benitez-engineered-mammalian-rnai-can-elic",
+  "url": "/publications/2015-benitez-engineered-mammalian-rnai-can-elic/",
+  "title": "Engineered Mammalian RNAi Can Elicit Antiviral Protection that Negates the Requirement for the Interferon Response",
+  "year": 2015,
+  "journal": "Cell Reports",
+  "text": "Recreating a small RNA antiviral response in mice, using either host microRNAs repurposed as virus-specific guides or a virus-encoded artificial small interfering RNA, attenuates influenza A virus by more than five logs and prevents disease without any requirement for type I interferon signaling. Plants and insects fight viruses with RNA interference while mammals use interferon, and why the switch happened is unknown. Researchers rebuilt a small RNA defense by inserting microRNA target sites into influenza and by having the virus produce a guide against itself. Attenuation reached more than five logs, escape occurred only by deleting the guide rather than altering the target, and protection in mice was complete even without type I interferon signaling. RNAi influenza A virus interferon miR-124 microRNA targeting attenuation escape mutants Dicer Ifnar1 evolution antiviral RNA interference type I interferon system engineered RNAi self-targeting virus escape mutants target complementarity threshold species-specific microRNA attenuation NS1 and small RNA silencing evolution of antiviral strategies live attenuated vaccine design influenza A virus influenza reverse genetics microRNA target site insertion virus-encoded artificial microRNA luciferase reporter assay small RNA Northern blotting multicycle growth curves plaque assay mRNA sequencing flow cytometry lung histology Asiel Arturo Benitez Laura Adrienne Spanko Mehdi Bouhaddou David Sachs Benjamin Robert tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2015-benitez-in-vivo-rnai-screening-identifies-",
+  "url": "/publications/2015-benitez-in-vivo-rnai-screening-identifies-/",
+  "title": "In Vivo RNAi Screening Identifies MDA5 as a Significant Contributor to the Cellular Defense against Influenza A Virus",
+  "year": 2015,
+  "journal": "Cell Reports",
+  "text": "An attenuated influenza A virus engineered to deliver individual artificial small interfering RNAs enables a fitness-based loss-of-function screen inside an infected mouse, and that screen identifies MDA5 as a contributor to the antiviral response to influenza A virus despite the established role of RIG-I as the sensor that induces interferon beta. Screens for host genes that block a virus are usually done in cell lines. Here an attenuated influenza A virus was engineered to carry one silencing RNA each against a hundred host antiviral genes, then the library was given to mice and the winners sequenced. Viruses silencing MDA5 dominated. MDA5 is not needed to switch on interferon beta during influenza infection, but it is needed for the full induction of downstream antiviral genes. influenza A virus MDA5 Ifih1 RIG-I RNAi screen artificial microRNA interferon NS1 in vivo screening OAS pattern recognition receptor RIG-I-like receptor MDA5 RIG-I NS1 antagonist interferon-stimulated gene amplification OAS and RNase L system fitness-based genetic selection virus-encoded small interfering RNA self-targeting virus influenza A virus influenza A virus reverse genetics artificial microRNA library in vivo RNAi screening small RNA sequencing messenger RNA sequencing quantitative PCR plaque assay gene knockout mice small interfering RNA transfection Asiel A. Benitez Maryline Panis Jia Xue Andrew Varble Jaehee V. Shim Amy L. Frick Carolina B. L\u00f3pez David Sachs Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2016-tenoever-the-evolution-of-antiviral-defense",
+  "url": "/publications/2016-tenoever-the-evolution-of-antiviral-defense/",
+  "title": "The Evolution of Antiviral Defense Systems",
+  "year": 2016,
+  "journal": "Cell Host & Microbe",
+  "text": "A synthesis arguing that antiviral defenses across the three domains of life reuse a small set of designs, antisense recognition joined to nuclease activity and later to transcriptional and secreted responses, and proposing that chordates lost RNA interference through incompatibility with interferon. Across bacteria, archaea and eukaryotes, defenses against genetic parasites repeatedly pair a sequence-specific guide with a nuclease, from antisense RNA and restriction enzymes to Argonaute, CRISPR-Cas, piRNAs and RNA interference. Vertebrates instead use pattern recognition receptors, interferons and antibodies. This single-author Perspective, synthesizing work from many laboratories, argues that vertebrates could not keep RNA interference because systemic small RNA defense needs a viral-type polymerase, and expressing one triggers innate immunity. evolution of immunity antiviral defense RNA interference interferon CRISPR-Cas transposable elements adaptive immunity Red Queen hypothesis antisense RNA defense restriction modification systems prokaryotic Argonaute CRISPR-Cas piRNA pathway RNA interference pattern recognition receptors type I interferon V(D)J recombination host-pathogen arms race RNA-dependent RNA polymerase incompatibility of RNAi and interferon bacteriophage RNA viruses DNA viruses comparative genomics phylogenetic inference evolutionary parsimony analysis Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+  "url": "/publications/2017-aguado-rnase-iii-nucleases-from-diverse-k/",
+  "title": "RNase III nucleases from diverse kingdoms serve as antiviral effectors",
+  "year": 2017,
+  "journal": "Nature",
+  "text": "RNase III nucleases, including human Drosha and homologues from bacteria, archaea, yeast and a urochordate, restrict positive-strand RNA viruses by recognizing unbranched RNA stem loops and impairing the viral polymerase, separably from microRNA biogenesis, catalysis and interferon. Drosha is known for making microRNAs, but it also leaves the nucleus during infection. Removing it from cells that already lacked microRNAs let positive-strand RNA viruses grow much better, and a version of Drosha that cannot cut RNA or make microRNAs still blocked them. The protein binds hairpin structures in viral genomes and cuts polymerase output roughly in half. Related enzymes from bacteria through yeast did the same, suggesting a very old defensive capability. Drosha RNase III antiviral defense Sindbis virus positive-strand RNA viruses RNA hairpin SELEX RNA-dependent RNA polymerase microRNA-independent RNase III nucleases Drosha Dicer microRNA-independent antiviral activity RNA stem loop recognition steric hindrance of RNA-dependent RNA polymerase cytoplasmic translocation of Drosha positive-strand RNA virus specificity interferon-independent defense evolution of antiviral systems Sindbis virus Ross River virus Langat virus influenza A virus Sendai virus Drosophila C virus turnip crinkle virus CRISPR Cas9 gene disruption SELEX electrophoretic mobility shift assay immunoprecipitation RNA sequencing small RNA sequencing Sindbis replicon and luciferase reporters in vitro minus-strand synthesis assay morpholino knockdown northern blot western blot Lauren C. Aguado Sonja Schmid Jared May Leah R. Sabin Maryline Panis Daniel Blanco-Melo Jaehee V. Shim David Sachs Sara Cherry Anne E. Simon Jean-Pierre Levraud Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2017-morales-sars-cov-encoded-small-rnas-contri",
+  "url": "/publications/2017-morales-sars-cov-encoded-small-rnas-contri/",
+  "title": "SARS-CoV-Encoded Small RNAs Contribute to Infection-Associated Lung Pathology",
+  "year": 2017,
+  "journal": "Cell Host & Microbe",
+  "text": "SARS-CoV generates three discrete small viral RNAs during infection of mouse lung, and blocking the one derived from the nucleocapsid gene with a locked nucleic acid antagomir reduces pulmonary inflammation, tissue damage and proinflammatory cytokine expression without measurably lowering lung virus titres. Sequencing small RNAs from the lungs of infected mice showed that SARS-CoV produces three discrete short RNAs from its own genome, two from the nsp3 region and one from the nucleocapsid gene. Their production does not need the cell's usual microRNA processing enzymes. Each can silence a matched reporter. Giving mice a chemical inhibitor of the nucleocapsid-derived RNA before infection reduced lung inflammation, tissue damage and inflammatory cytokines while lung virus titres stayed the same. SARS-CoV svRNA svRNA-N nsp3 nucleocapsid LNA antagomir lung pathology CCL2 IL-6 CXCL10 small viral RNA noncanonical small RNA biogenesis RNase III independence post-transcriptional silencing proinflammatory cytokine induction lung immunopathology virulence independent of replication antagomir antiviral strategy SARS-CoV severe acute respiratory syndrome coronavirus small RNA deep sequencing small RNA RT-qPCR locked nucleic acid antagomir inhibition luciferase 3-prime UTR reporter assay intranasal mouse infection lung histopathology scoring immunohistochemistry Luc\u00eda Morales Juan Carlos Oliveros Ra\u00fal Fernandez-Delgado Benjamin Robert tenOever Luis Enjuanes Isabel Sola"
+ },
+ {
+  "t": "publication",
+  "slug": "2018-aguado-homologous-recombination-is-an-int",
+  "url": "/publications/2018-aguado-homologous-recombination-is-an-int/",
+  "title": "Homologous recombination is an intrinsic defense against antiviral RNA interference",
+  "year": 2018,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Applying one uniform small RNA-based selective pressure to four virus families in vertebrate cells shows that the ability to escape it tracks with the capacity for polymerase template switching rather than with genome polarity as such, since positive-strand viruses excise the targeted sequence while negative-strand viruses are cleared and a recombination-defective poliovirus cannot escape. RNA interference is the main antiviral defence in plants and insects, and vertebrate viruses have no reason to resist it. The authors built such a defence in mammalian cells by giving viruses perfectly matched binding sites for five common host microRNAs. Sendai and influenza viruses were wiped out. Sindbis, Semliki Forest and polioviruses recovered by precisely deleting the targeted sequence. A poliovirus unable to recombine could not delete it and was cleared. RNA interference homologous recombination positive-strand RNA virus negative-strand RNA virus microRNA targeting poliovirus Sindbis virus Sendai virus escape mutant virus evolution antiviral RNA interference microRNA-mediated targeting Argonaute 2 slicing genome polarity homologous recombination template switching escape variant selection encapsidated genome virus population dynamics Sendai virus influenza A virus Sindbis virus Semliki Forest virus poliovirus vesicular stomatitis virus reverse genetics microRNA target cassette engineering serial passage deep sequencing of virus populations genome-wide CRISPR knockout screening flow cytometry immunofluorescence microscopy TCID50 titration Lauren C. Aguado Tristan X. Jordan Emily Hsieh Daniel Blanco-Melo John Heard Maryline Panis Marco Vignuzzi Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2018-han-genome-wide-crispr-cas9-screen-ide",
+  "url": "/publications/2018-han-genome-wide-crispr-cas9-screen-ide/",
+  "title": "Genome-wide CRISPR/Cas9 Screen Identifies Host Factors Essential for Influenza Virus Replication",
+  "year": 2018,
+  "journal": "Cell Reports",
+  "text": "A survival-based genome-wide CRISPR knockout screen in human lung epithelial cells selected with an avian H5N1 isolate recovers sialic acid biosynthesis and transport as the dominant requirement for influenza entry, with the CMP-sialic acid transporter SLC35A1 as the top hit, and identifies the transcriptional repressor capicua as a negative regulator of cell-intrinsic immunity. A pooled CRISPR knockout library in human lung cells was put through repeated lethal infection with an avian H5N1 isolate, so that cells missing a required host gene survive. Guides against sialic acid biosynthesis, transport and glycan processing were most enriched, with the CMP-sialic acid transporter SLC35A1 ranked first and its loss removing the viral receptor. The screen also found capicua, a transcriptional repressor whose loss raises antiviral gene expression and restricts viruses from four families. CRISPR screen GeCKO influenza A virus SLC35A1 capicua CIC JAK2 PIAS3 sialic acid H5N1 host factor discovery positive selection survival screen sialic acid biosynthesis CMP-sialic acid transport viral receptor expression cell-intrinsic immunity transcriptional repression of interferon-stimulated genes capicua and ATXN1 corepressor pan-proviral versus virus-specific factors influenza A virus vesicular stomatitis virus Zika virus encephalomyocarditis virus genome-wide CRISPR knockout screening GeCKO library lentiviral transduction MAGeCK analysis deep sequencing beta-lactamase virus-like particle entry assay lectin staining flow cytometry luciferase promoter reporter assay quantitative RT-PCR cDNA complementation Julianna Han Jasmine T. Perez Cindy Chen Yan Li Asiel Benitez Matheswaran Kandasamy Yoontae Lee Jorge Andrade Benjamin tenOever Balaji Manicassamy"
+ },
+ {
+  "t": "publication",
+  "slug": "2018-m-ller-mirna-mediated-targeting-of-human-",
+  "url": "/publications/2018-m-ller-mirna-mediated-targeting-of-human-/",
+  "title": "miRNA-mediated targeting of human cytomegalovirus reveals biological host and viral targets of IE2",
+  "year": 2018,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "A one-step recombineering strategy that inserts hematopoietic-specific miR-142 target sites into the untranslated region of the human cytomegalovirus IE2 transcript permits virus rescue in fibroblasts while silencing IE2 selectively in myeloid cells, revealing that IE2 loss raises rather than abolishes replication in macrophages. Cytomegalovirus mutants must be grown in fibroblasts, which blocks study of genes essential there but interesting elsewhere. Inserting target sites for the blood-lineage microRNA miR-142 into the IE2 transcript silenced IE2 only in macrophages while leaving fibroblast growth intact. Loss of IE2 raised IE1 sharply and sustained virus titres in macrophages instead of abolishing them, and it reshaped both viral and host gene expression far more in macrophages than in fibroblasts. human cytomegalovirus IE2 IE1 miR-142 myeloid cells macrophages recombineering conditional knockout latency microRNA targeting cell-type-specific conditional knockdown hematopoietic-specific microRNA targeting immediate early gene circuitry IE2 autorepression through the cis-repression sequence essential gene function in myeloid cells herpesvirus latency models viral transcriptional cascade host transcriptome remodelling engineered viral vectors human cytomegalovirus galK one-step BAC recombineering microRNA target site insertion lentiviral microRNA transduction small RNA Northern blot RNA sequencing differential expression analysis with DESeq2 gene ontology enrichment analysis multicycle growth curves plaque and TCID50 titration quantitative RT-PCR Rasmus M\u00f8ller Toni M. Schwarz Vanessa M. Noriega Maryline Panis David Sachs Domenico Tortorella Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2019-eggenberger-type-i-interferon-response-impairs",
+  "url": "/publications/2019-eggenberger-type-i-interferon-response-impairs/",
+  "title": "Type I interferon response impairs differentiation potential of pluripotent stem cells",
+  "year": 2019,
+  "journal": "Proceedings of the National Academy of Sciences",
+  "text": "Forcing an interferon-stimulated gene program in human induced pluripotent stem cells with a constitutively active IRF7 produces lasting transcriptional change and impaired germ layer differentiation, supporting the proposal that the canonical type I interferon system and pluripotency are difficult to hold simultaneously. Pluripotent stem cells neither make nor respond to type I interferon. Reprogramming factors, KLF4 most strongly, block the transcription factor that drives interferon-stimulated genes. Using a constitutively active IRF7 to switch the program on regardless changed stem cell morphology and gene expression, and left roughly 2,000 genes altered after five days of recovery. Differentiation afterwards was impaired for ectoderm and endoderm and distorted within mesoderm, with cardiomyocytes beating more but transcriptionally abnormal. pluripotent stem cells interferon IRF7 KLF4 induced pluripotent stem cells interferon-stimulated genes differentiation cardiomyocyte influenza A virus innate immunity type I interferon response interferon-stimulated genes pluripotency cellular reprogramming IRF7 as transactivator of interferon-stimulated response elements KLF4-mediated repression of antiviral induction differentiation potential germ layer specification developmental and defence system incompatibility influenza A virus cellular reprogramming with OCT4 SOX2 KLF4 and c-MYC lentiviral doxycycline-inducible expression constitutively active IRF7 truncation RNA sequencing multidimensional scaling sparse principal component analysis quantitative RT-PCR immunoblotting hPSC ScoreCard assay directed trilineage differentiation embryoid body cardiomyocyte differentiation influenza A virus lacking NS1 Julie Eggenberger Daniel Blanco-Melo Maryline Panis Kristen J. Brennand Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2019-munoz-moreno-viral-fitness-landscapes-in-divers",
+  "url": "/publications/2019-munoz-moreno-viral-fitness-landscapes-in-divers/",
+  "title": "Viral Fitness Landscapes in Diverse Host Species Reveal Multiple Evolutionary Lines for the NS1 Gene of Influenza A Viruses",
+  "year": 2019,
+  "journal": "Cell Reports",
+  "text": "A library of 107 barcoded influenza A viruses differing only in their NS1 sequence, competed in dog cells, human cells, chicken eggs and mice, resolves NS1-driven fitness as a set of divergent and partly convergent evolutionary trajectories rather than a single ordered adaptation gradient. The influenza NS1 protein blocks host antiviral responses, and different influenza strains carry very different NS1 sequences. Fifty-six natural NS1 sequences were placed into an otherwise identical virus, each tagged with a genetic barcode, and the whole pool was grown in dog cells, human cells, chicken eggs and mice. Sequencing revealed which versions thrived in which host. Relatedness on the family tree did not reliably predict shared behaviour, and avian allele B versions replicated well in every host tested. influenza A virus NS1 host range viral fitness barcoded library deep sequencing allele B type I interferon STAT1 pandemic risk assessment viral fitness landscape NS1 protein host tropism allele A and allele B NS segments interferon antagonism within-population competition convergent and divergent evolution barcoded library competition assay STAT1 dependent selection influenza A virus influenza reverse genetics barcoded virus library split NS segment design Illumina deep sequencing phylogenetic analysis multidimensional scaling network and medoid clustering analysis plaque assay Raquel Mu\u00f1oz-Moreno Carles Mart\u00ednez-Romero Daniel Blanco-Melo Christian V. Forst Raffael Nachbagauer Asiel Arturo Benitez Ignacio Mena Sadaf Aslam Vinod Balasubramaniam Ilseob Lee Maryline Panis Juan Ayll\u00f3n David Sachs Man-Seong Park Florian Krammer Benjamin R. tenOever Adolfo Garc\u00eda-Sastre"
+ },
+ {
+  "t": "publication",
+  "slug": "2019-tenoever-synthetic-virology-building-viruse",
+  "url": "/publications/2019-tenoever-synthetic-virology-building-viruse/",
+  "title": "Synthetic Virology: Building Viruses to Better Understand Them",
+  "year": 2019,
+  "journal": "Cold Spring Harbor Perspectives in Medicine",
+  "text": "Frames influenza A virus as a compact genetic circuit whose modules can be disrupted, tagged or replaced, and organizes two decades of virus engineering into a design vocabulary of tracking, override, positioning and silencing modules that turns virus construction into a method of inquiry. Influenza A virus carries only about ten gene products, which makes it tractable as an engineered system. This perspective organizes the field by what an added element does within the viral circuit, covering fluorescent reporters, Cre recombinase for marking cells that survived infection, microRNA target sites as host-specific kill switches, RNA barcodes that revealed that aerosol transmission passes only two or three virions, and virus-delivered artificial microRNAs used to screen host factors during infection. influenza A virus reverse genetics virus engineering reporter viruses microRNA targeting Cre recombinase barcoded viruses transmission bottleneck RNAi screening segment 8 synthetic virology viral genetic circuitry segment packaging signals mutational tolerance reporter virus design microRNA-mediated species restriction biocontainment kill switch transmission bottleneck lineage tracing of infected cells virus-delivered RNA interference learning by building influenza A virus reverse genetics minireplicon systems transposon insertional mutagenesis deep mutational scanning 2A peptide polycistronic design fluorescent and luciferase reporter viruses Cre-LoxP lineage tracing RNA affinity tagging artificial microRNA expression RNA barcoding deep sequencing in vivo RNAi screening small molecule-assisted shutoff Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+  "url": "/publications/2020-blanco-melo-imbalanced-host-response-to-sars-c/",
+  "title": "Imbalanced Host Response to SARS-CoV-2 Drives Development of COVID-19",
+  "year": 2020,
+  "journal": "Cell",
+  "text": "Across cell lines, primary bronchial epithelium, ferrets and patient material, SARS-CoV-2 infection produces a transcriptional response distinguishable from that to other respiratory viruses, combining low type I and type III interferon induction with a moderate interferon-stimulated gene response and strong chemokine and IL-6 expression. Comparing SARS-CoV-2 with five other respiratory viruses in the same systems showed a distinctive host response. Infected cells made little type I or type III interferon and only some interferon-stimulated genes, yet produced abundant chemokines and IL-6. The same pattern appeared in primary airway cells, in infected ferrets and in patient lung and serum. Blocking interferon signalling did not reduce the chemokine output, indicating the inflammatory arm operates independently of interferon. SARS-CoV-2 COVID-19 interferon chemokine transcriptomics ferret model bronchial epithelium IL-6 inflammation respiratory virus type I interferon type III interferon interferon-stimulated genes chemokine induction imbalanced host response IL-6 leukocyte recruitment viral interferon antagonism multiplicity of infection dependence COVID-19 pathogenesis SARS-CoV-2 SARS-CoV-1 MERS-CoV influenza A virus human parainfluenza virus 3 respiratory syncytial virus messenger RNA sequencing adenoviral vector transduction principal component analysis gene ontology enrichment quantitative PCR immunoblotting ELISA cytokine profiling JAK inhibitor treatment Daniel Blanco-Melo Benjamin E. Nilsson-Payant Wen-Chun Liu Skyler Uhl Daisy Hoagland Rasmus M\u00f8ller Tristan X. Jordan Kohei Oishi Maryline Panis David Sachs Taia T. Wang Robert E. Schwartz Jean K. Lim Randy A. Albrecht Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2020-bouhaddou-the-global-phosphorylation-landsca",
+  "url": "/publications/2020-bouhaddou-the-global-phosphorylation-landsca/",
+  "title": "The Global Phosphorylation Landscape of SARS-CoV-2 Infection",
+  "year": 2020,
+  "journal": "Cell",
+  "text": "A time-resolved phosphoproteomic survey of SARS-CoV-2-infected cells showing that infection acts mainly through signalling rather than protein abundance, activating casein kinase II and the p38 cascade while shutting down mitotic kinases, and converting that kinase profile into inhibitors with antiviral activity. SARS-CoV-2-infected cells were sampled at six time points and analyzed for protein amount and phosphorylation. Almost all regulation occurred through phosphorylation. Casein kinase II and the p38 cascade were activated, mitotic kinases shut down, and cells arrested between S and G2. Infected human cells formed long branched filopodia carrying viral protein and budding particles. Inhibitors of casein kinase II, p38, AXL, PIKFYVE and cyclin-dependent kinases showed antiviral activity in culture. SARS-CoV-2 COVID-19 phosphoproteomics CK2 p38 MAPK PIKFYVE CDK AXL silmitasertib apilimod phosphoproteomics kinase activity rewiring casein kinase II p38 MAPK signalling cell cycle arrest filopodial protrusions viral egress inflammatory cytokine production host-directed antiviral therapy kinase inhibitor repurposing SARS-CoV-2 quantitative mass spectrometry data-independent acquisition phosphoproteomics kinase activity inference transcription factor activity inference immunofluorescence microscopy scanning electron microscopy transmission electron microscopy flow cytometry DNA content analysis siRNA knockdown quantitative RT-PCR multiplexed ELISA plaque assay pharmacological dose response profiling Mehdi Bouhaddou Danish Memon Bjoern Meyer Kris M. White Veronica V. Rezelj Miguel Correa Marrero Benjamin J. Polacco James E. Melnyk Svenja Ulferts Robyn M. Kaake Jyoti Batra Alicia L. Richards Erica Stevenson David E. Gordon Ajda Rojc Kirsten Obernier Jacqueline M. Fabius Margaret Soucheray Lisa Miorin Elena Moreno Cassandra Koh Quang Dinh Tran Alexandra Hardy R\u00e9my Robinot Thomas Vallet Benjamin E. Nilsson-Payant Claudia Hernandez-Armenta Alistair Dunham Sebastian Weigang Julian Knerr Maya Modak Diego Quintero Yuan Zhou Aurelien Dugourd Alberto Valdeolivas Trupti Patil Qiongyu Li Ruth H\u00fcttenhain Merve Cakir Monita Muralidharan Minkyu Kim Gwendolyn Jang Beril Tutuncuoglu Joseph Hiatt Jeffrey Z. Guo Jiewei Xu Sophia Bouhaddou Christopher J.P. Mathy Anna Gaulton Emma J. Manners Eloy F\u00e9lix Ying Shi Marisa Goff Jean K. Lim Timothy McBride Michael C. O\u2019Neal Yiming Cai Ja"
+ },
+ {
+  "t": "publication",
+  "slug": "2020-mccune-rapid-dissemination-and-monopoliza",
+  "url": "/publications/2020-mccune-rapid-dissemination-and-monopoliza/",
+  "title": "Rapid Dissemination and Monopolization of Viral Populations in Mice Revealed Using a Panel of Barcoded Viruses",
+  "year": 2020,
+  "journal": "Journal of Virology",
+  "text": "A library of 135 barcoded coxsackievirus B3 clones shows that orally inoculated virus reaches systemic tissues within 20 minutes and replicates as a diverse population, after which fewer than three variants come to dominate every tissue in the animal without any detectable adaptive mutation. A library of 135 otherwise identical coxsackieviruses, each carrying a short sequence tag, was fed to mice. The full population spread through the gut within hours, and a dye-based label showed that many members genuinely replicated. Even so, by two days almost every tissue in each animal was dominated by three or fewer tags, with no mutation to explain it. Virus also reached pancreas and liver twenty minutes after feeding. coxsackievirus B3 barcoded virus dissemination viral population diversity Ifnar poliovirus Shannon diversity enteric virus viral population dynamics population bottlenecks founder effects population monopolization enteric virus dissemination gastrointestinal barrier type I interferon receptor replication versus inoculum discrimination coxsackievirus B3 poliovirus barcoded virus libraries deep sequencing of barcodes neutral red light-sensitive virus labeling plaque assay whole-genome consensus sequencing Shannon diversity analysis radiolabeled amino acid tracing Broc T. McCune Matthew R. Lanahan Benjamin R. tenOever Julie K. Pfeiffer"
+ },
+ {
+  "t": "publication",
+  "slug": "2020-yang-a-human-pluripotent-stem-cell-base",
+  "url": "/publications/2020-yang-a-human-pluripotent-stem-cell-base/",
+  "title": "A Human Pluripotent Stem Cell-based Platform to Study SARS-CoV-2 Tropism and Model Virus Infection in Human Cells and Organoids",
+  "year": 2020,
+  "journal": "Cell Stem Cell",
+  "text": "A panel of eight human pluripotent stem cell derivatives spanning all three germ layers, together with adult primary islets and liver organoids, identifies pancreatic alpha and beta cells, hepatocytes, cholangiocytes, cardiomyocytes and dopaminergic neurons as permissive to SARS-CoV-2 and shows that permissiveness does not track ACE2 expression alone. Laboratory study of SARS-CoV-2 largely relied on monkey and cancer cell lines. Differentiating human pluripotent stem cells into eight cell types and organoids allowed side-by-side comparison of which human tissues the virus can enter. Pancreatic alpha and beta cells, liver organoids, cardiomyocytes and dopaminergic neurons were permissive, while endothelial cells, macrophages, microglia and cortical neurons were not, even where the ACE2 receptor was present. Infected cells produced strong chemokine responses and lost tissue-specific metabolic gene expression. SARS-CoV-2 COVID-19 human pluripotent stem cells organoids ACE2 tropism pancreatic beta cells liver organoids chemokines disease modeling SARS-CoV-2 tropism ACE2 expression TMPRSS2 cell-type permissiveness chemokine induction organoid disease modeling pancreatic beta cell infection hepatocyte and cholangiocyte infection pseudotyped entry virus COVID-19 extrapulmonary involvement SARS-CoV-2 directed differentiation of human pluripotent stem cells organoid culture vesicular stomatitis virus pseudo-entry virus quantitative RT-PCR bulk RNA sequencing single-cell RNA sequencing confocal immunofluorescence kidney capsule xenotransplantation gene set enrichment analysis Liuliu Yang Yuling Han Benjamin E. Nilsson-Payant Vikas Gupta Pengfei Wang Xiaohua Duan Xuming Tang Jiajun Zhu Zeping Zhao Fabrice Jaffr\u00e9 Tuo Zhang Tae Wan Kim Oliver Harschnitz David Redmond Sean Houghton Chengyang Liu Ali Naji Gabriele Ciceri Sudha Guttikonda Yaron Bram Duc-Huy T. Nguyen Michele Cioffi Vasuretha Chandar Daisy A. Hoagland Yaoxing Huang Jenny Xiang Hui Wang David Lyden Alain Borczuk Huanhuan Joyce Chen Lorenz Studer Fong Cheng Pan David D. Ho Benjamin R. tenOever Todd Evans Robert E. Schwartz Shuibing Chen"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-daniloski-identification-of-required-host-fa",
+  "url": "/publications/2021-daniloski-identification-of-required-host-fa/",
+  "title": "Identification of Required Host Factors for SARS-CoV-2 Infection in Human Cells",
+  "year": 2021,
+  "journal": "Cell",
+  "text": "A genome-scale CRISPR loss-of-function screen in ACE2-expressing human alveolar epithelial cells ranks every protein-coding gene by the effect of its loss on SARS-CoV-2 infection, converging on endosomal machinery, and links several top hits to increased cholesterol biosynthesis and, for RAB7A, to intracellular sequestration of ACE2. To find the human genes SARS-CoV-2 depends on, every protein-coding gene was disabled in turn across a pool of lung cells, which were then infected and sequenced to see which knockouts survived. Known entry factors appeared near the top, alongside whole complexes that move and acidify endosomes. Disabling six of these genes raised cellular cholesterol, and a drug that raises cholesterol also blocked infection. Losing RAB7A trapped the ACE2 receptor inside cells instead of at the surface. SARS-CoV-2 CRISPR screen host factors RAB7A PIK3C3 ATP6AP1 NPC1 CCDC22 cholesterol ACE2 amlodipine COVID-19 therapeutics host dependency factors forward genetic screening endosomal trafficking vacuolar ATPase Retromer complex Commander complex ARP2 and ARP3 complex class 3 PI3K cholesterol biosynthesis ACE2 surface availability druggable target identification SARS-CoV-2 genome-scale CRISPR-Cas9 knockout screening GeCKOv2 library amplicon sequencing robust rank aggregation ECCITE-seq single-cell CRISPR screening RNA interference small-molecule inhibitor panels flow cytometry immunofluorescence microscopy bulk RNA sequencing cholesterol quantification plaque assay quantitative RT-PCR Zharko Daniloski Tristan X. Jordan Hans-Hermann Wessels Daisy A. Hoagland Silva Kasela Mateusz Legut Silas Maniatis Eleni P. Mimitou Lu Lu Evan Geller Oded Danziger Brad R. Rosenberg Hemali Phatnani Peter Smibert Tuuli Lappalainen Benjamin R. tenOever Neville E. Sanjana"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-daniloski-the-spike-d614g-mutation-increases",
+  "url": "/publications/2021-daniloski-the-spike-d614g-mutation-increases/",
+  "title": "The Spike D614G mutation increases SARS-CoV-2 infection of multiple human cell types",
+  "year": 2021,
+  "journal": "eLife",
+  "text": "Isolating the SARS-CoV-2 Spike D614G substitution from the ORF1b P314L variant it travels with, through pseudotyped lentiviral particles and a trans-complementation assay with replication-competent virus, shows that the single Spike change raises entry efficiency across human lung, liver and colon cell lines without altering S1 affinity for ACE2. Early in the pandemic a Spike variant called D614G took over globally, but it always travelled with a second mutation, so its own effect was unclear. Building the change into Spike on its own showed that particles carrying it entered four types of human cell more efficiently, and the same held for live virus supplied with the variant. Receptor binding by the outer Spike fragment was unchanged, but the variant Spike was cut less readily by host proteases. SARS-CoV-2 Spike D614G pseudotyped lentivirus ACE2 bio-layer interferometry Spike cleavage trans-complementation viral transduction COVID-19 variant Spike D614G viral entry efficiency pseudotyped particle systems ACE2 binding kinetics proteolytic processing of Spike linkage disequilibrium with ORF1b P314L isogenic variant comparison vaccine antigen sequence choice SARS-CoV-2 site-directed mutagenesis lentiviral pseudotyping flow cytometry bio-layer interferometry western blotting trans-complementation infection assay imaging cytometry quantitative PCR MHC epitope prediction Zharko Daniloski Tristan X Jordan Juliana K Ilmain Xinyi Guo Gira Bhabha Benjamin R tenOever Neville E Sanjana"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-eriksen-sars-cov-2-infects-human-adult-don",
+  "url": "/publications/2021-eriksen-sars-cov-2-infects-human-adult-don/",
+  "title": "SARS-CoV-2 infects human adult donor eyes and hESC-derived ocular epithelium",
+  "year": 2021,
+  "journal": "Cell Stem Cell",
+  "text": "Human ocular surface tissue carries SARS-CoV-2 entry machinery and supports productive replication, with the limbus most permissive in both adult donor cells and stem cell derived whole-eye cultures, where infection drives NF-kB chemokine induction and blunted interferon signaling. Viral RNA had been found in tears, but it was unclear whether eye cells are actually infected. Antigen was present in ocular surface tissue from three deceased COVID-19 patients, and cells cultured from donor eyes supported infection, most strongly in the limbus, the ring of tissue holding the corneal stem cell niche. Stem cell derived eye cultures reproduced this and released infectious virus. Infected cells mounted a strong inflammatory response with weak interferon signaling. SARS-CoV-2 eye limbus cornea ACE2 TMPRSS2 organoid single-cell RNA sequencing interferon NF-kB ocular route of SARS-CoV-2 entry limbal stem cell niche ACE2 and TMPRSS2 expression TMPRSS4 as an alternative protease NF-kB-driven chemokine response attenuated type I and III interferon signaling bystander versus infected cell responses SEAM whole-eye organoid model SARS-CoV-2 immunofluorescence bulk RNA sequencing single-cell RNA sequencing quantitative RT-PCR plaque assay protease inhibition with TPCK gene set enrichment with Enrichr Anne Z. Eriksen Rasmus M\u00f8ller Bar Makovoz Skyler A. Uhl Benjamin R. tenOever Timothy A. Blenkinsop"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-guzman-solis-ancient-viral-genomes-reveal-intro",
+  "url": "/publications/2021-guzman-solis-ancient-viral-genomes-reveal-intro/",
+  "title": "Ancient viral genomes reveal introduction of human pathogenic viruses into Mexico during the transatlantic slave trade",
+  "year": 2021,
+  "journal": "eLife",
+  "text": "Targeted ancient DNA capture applied to skeletal remains from a Colonial hospital and chapel in Mexico City recovers three human parvovirus B19 genomes and one hepatitis B virus genome whose closest relatives are African strains, in hosts whose genetic ancestry and strontium isotope signatures point to African birth, giving direct molecular evidence that these viruses reached New Spain during the transatlantic slave trade. Which pathogens reached the Americas after European colonisation has been argued mostly from historical records. Using a capture assay for ancient viral DNA on teeth from a Colonial hospital and chapel in Mexico City, the authors reconstructed three parvovirus B19 genomes and one hepatitis B virus genome. All belong to lineages associated with Africa, and the individuals carrying them show African ancestry and West African birth signatures. One Indigenous individual also carried the virus. ancient DNA parvovirus B19 hepatitis B virus paleovirology Colonial Mexico New Spain slave trade phylogenetics strontium isotopes genotype 3 paleovirology ancient DNA authentication viral genotype geography transatlantic slave trade Colonial epidemics Cocoliztli host genetic ancestry molecular tip calibration cross-population transmission human parvovirus B19 hepatitis B virus ancient DNA extraction targeted in-solution hybridisation capture shotgun metagenomic sequencing deamination damage analysis maximum likelihood phylogenetics dated coalescent analysis strontium isotope analysis radiocarbon dating principal component analysis of ancient genomes ADMIXTURE ancestry analysis Axel A Guzm\u00e1n-Sol\u00eds Viridiana Villa-Islas Miriam J Bravo-L\u00f3pez Marcela Sandoval-Velasco Julie K Wesp Jorge A G\u00f3mez-Vald\u00e9s Mar\u00eda de la Luz Moreno-Cabrera Alejandro Meraz Gabriela Sol\u00eds-Pichardo Peter Schaaf Benjamin R TenOever Daniel Blanco-Melo Mar\u00eda C \u00c1vila Arcos"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+  "url": "/publications/2021-hoagland-leveraging-the-antiviral-type-i-in/",
+  "title": "Leveraging the antiviral type I interferon system as a first line of defense against SARS-CoV-2 pathogenicity",
+  "year": 2021,
+  "journal": "Immunity",
+  "text": "Longitudinal transcriptional and histological profiling of SARS-CoV-2 infected golden hamsters maps a wave of inflammation that reaches tissues with little or no productive replication, and shows that intranasal type I interferon given before or after challenge lowers viral load and disease burden. SARS-CoV-2 provokes strong chemokine signaling but weak interferon signaling, a combination linked to severe COVID-19. Profiling infected golden hamsters across tissues and time showed inflammation moving from the upper to the lower airway and appearing in brain, olfactory bulb and intestine despite almost no virus there. Delivering type I interferon directly into the nose, before or one day after infection, reduced viral load, tissue damage and onward transmission. SARS-CoV-2 COVID-19 golden hamster model type I interferon intranasal interferon transcriptional atlas systemic inflammation double-stranded RNA mimetic subgenomic nucleocapsid RNA broad-spectrum antiviral type I interferon interferon-stimulated genes chemokine induction imbalanced host response systemic inflammation subgenomic RNA pathogen-associated molecular patterns prophylaxis transmission blocking COVID-19 pathogenesis small animal model SARS-CoV-2 SARS-CoV-2 USA-WA1/2020 influenza A virus influenza A/California/04/2009 mRNA sequencing real-time quantitative RT-PCR plaque assay immunohistochemistry histopathology de novo transcriptome assembly gene ontology enrichment analysis ELISA intranasal interferon administration Daisy A. Hoagland Rasmus M\u00f8ller Skyler A. Uhl Kohei Oishi Justin Frere Ilona Golynker Shu Horiuchi Maryline Panis Daniel Blanco-Melo David Sachs Knarik Arkun Jean K. Lim Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-horiuchi-immune-memory-from-sars-cov-2-infe",
+  "url": "/publications/2021-horiuchi-immune-memory-from-sars-cov-2-infe/",
+  "title": "Immune memory from SARS-CoV-2 infection in hamsters provides variant-independent protection but still allows virus transmission",
+  "year": 2021,
+  "journal": "Science Immunology",
+  "text": "Longitudinal tracking of antigen-specific lymphocytes in golden hamsters shows that memory from the founder strain of SARS-CoV-2 clears a beta variant rechallenge and that transferred memory T cells alone lower viral load, yet protected animals still infected every cohoused naive partner. Reagents for immune profiling in golden hamsters were assembled from cross-reactive antibodies, then used to follow SARS-CoV-2 against influenza as a benchmark. The innate response to SARS-CoV-2 was delayed but the adaptive response was stronger, and antigen-specific T and B cells persisted past 40 days. Recovered animals rechallenged four months later showed no detectable virus yet still infected cohoused naive animals. Memory raised against the founder strain cleared a beta variant their serum neutralized poorly in vitro. SARS-CoV-2 golden hamster immune memory beta variant transmission T cells B cells neutralizing antibodies influenza A virus reinfection immune memory adaptive immune response antigen-specific T cells antigen-specific B cells delayed innate response variant of concern neutralizing antibody adoptive transfer transmission despite immunity golden hamster model development SARS-CoV-2 SARS-CoV-2 USA-WA1/2020 SARS-CoV-2 B.1.351 beta variant influenza A/California/04/2009 flow cytometry with cross-reactive antibodies mRNA sequencing gene set enrichment analysis quantitative RT-PCR plaque assay plaque reduction neutralization test anti-RBD ELISA peptide restimulation assay biotinylated antigen B cell probe adoptive cell transfer CellTrace Violet labeling cohousing transmission model Shu Horiuchi Kohei Oishi Lucia Carrau Justin Frere Rasmus M\u00f8ller Maryline Panis Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-nilsson-payant-reduced-nucleoprotein-availability",
+  "url": "/publications/2021-nilsson-payant-reduced-nucleoprotein-availability/",
+  "title": "Reduced Nucleoprotein Availability Impairs Negative-Sense RNA Virus Replication and Promotes Host Recognition",
+  "year": 2021,
+  "journal": "Journal of Virology",
+  "text": "Restricting nucleoprotein availability in negative-sense RNA virus infections both blocks full-length genome replication and increases production of aberrant replication products that are sensed through RIG-I and MAVS, so a strong interferon response accompanies rather than follows successful infection. Negative-sense RNA viruses wrap their genomes in nucleoprotein, which the polymerase also needs to copy full-length templates. Silencing nucleoprotein in influenza and Sendai virus infections blocked replication yet produced a much stronger interferon response, because the polymerase generated short defective genomes that RIG-I detects. The same pairing held for seven viruses across six families but not for SARS-CoV-2 nucleocapsid, and a nucleoprotein-directed drug triggered interferon where a polymerase-directed drug did not. nucleoprotein negative-sense RNA virus defective viral genomes RIG-I interferon influenza A virus Sendai virus nucleozin baloxavir marboxil SARS-CoV-2 nucleocapsid nucleoprotein scaffold viral ribonucleoprotein complex defective viral genomes mini-viral RNA copy-back defective genomes polymerase processivity RIG-I and MAVS signalling pathogen-associated molecular patterns interferon induction antiviral drug target selection bystander priming influenza A virus Sendai virus human parainfluenza virus 3 measles virus human respiratory syncytial virus vesicular stomatitis virus Ebola virus Lassa virus SARS-CoV-2 microRNA target site insertion into viral genomes reverse genetics small interfering RNA knockdown bulk mRNA sequencing ribosomal RNA-depleted total RNA sequencing noncanonical junction read analysis Northern blot interferon-stimulated response element luciferase reporter flow cytometry immunoblotting reconstituted influenza replication complex Benjamin E. Nilsson-Payant Daniel Blanco-Melo Skyler Uhl Beatriz Escudero-P\u00e9rez Silke Olschewski Patricia Thibault Maryline Panis Maria Rosenthal C\u00e9sar Mu\u00f1oz-Fontela Benhur Lee Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-nilsson-payant-the-nf-b-transcriptional-footprint",
+  "url": "/publications/2021-nilsson-payant-the-nf-b-transcriptional-footprint/",
+  "title": "The NF-\u03baB Transcriptional Footprint Is Essential for SARS-CoV-2 Replication",
+  "year": 2021,
+  "journal": "Journal of Virology",
+  "text": "SARS-CoV-2 infection of human lung epithelial cells engages NF-\u03baB at chromatin, transcriptional, protein and post-translational levels without engaging the type I interferon transcription factors, and loss of p65 or p50 abolishes viral replication in a manner rescued by reconstituting RelA transcriptional activity. Severe COVID-19 combines weak interferon responses with strong inflammation. In human lung epithelial cells, SARS-CoV-2 infection turned on NF-\u03baB across chromatin, gene expression and protein readouts while leaving interferon transcription factors inactive. Removing either NF-\u03baB subunit stopped the virus making protein, and restoring NF-\u03baB-driven transcription with an engineered activator restored infection. Several drugs targeting the pathway also suppressed the virus. The inflammation therefore appears to reflect something the virus requires, not something it failed to block. SARS-CoV-2 NF-\u03baB RelA p65 NF-\u03baB1 p50 type I interferon ATAC-seq single-cell RNA-seq BAY11-7082 MG115 A549-ACE2 COVID-19 inflammation NF-\u03baB signalling type I interferon antagonism imbalanced host response proviral host dependency enhancer remodelling chromatin accessibility infected versus bystander cells proinflammatory cytokine induction transcription factor motif enrichment SARS-CoV-2 bulk RNA sequencing single-cell RNA sequencing ATAC sequencing transcription factor motif accessibility analysis small interfering RNA silencing chimeric VPR transcriptional activators small-molecule inhibitor dose response multiplexed ELISA quantitative RT-PCR immunofluorescence microscopy western blotting Benjamin E. Nilsson-Payant Skyler Uhl Adrien Grimont Ashley S. Doane Phillip Cohen Roosheel S. Patel Christina A. Higgins Joshua A. Acklin Yaron Bram Vasuretha Chandar Daniel Blanco-Melo Maryline Panis Jean K. Lim Olivier Elemento Robert E. Schwartz Brad R. Rosenberg Rohit Chandwani Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2021-si-a-human-airway-on-a-chip-for-the-r",
+  "url": "/publications/2021-si-a-human-airway-on-a-chip-for-the-r/",
+  "title": "A human-airway-on-a-chip for the rapid identification of candidate antiviral therapeutics and prophylactics",
+  "year": 2021,
+  "journal": "Nature Biomedical Engineering",
+  "text": "A microfluidic bronchial airway chip lined with differentiated human airway epithelium and pulmonary endothelium reproduces strain-dependent influenza virulence, cytokine output and neutrophil recruitment, and when drugs are delivered at clinically achievable blood concentrations under flow it separates candidates that work in cell lines from those that also work in hamsters challenged with SARS-CoV-2. Drug candidates nominated in cell lines often fail in people. A microfluidic chip lined with differentiated human airway epithelium over pulmonary endothelium reproduced strain differences in influenza severity, cytokine output and neutrophil recruitment, and matched the clinical effect and two-day treatment window of oseltamivir, which a protease inhibitor doubled. Tested at human blood concentrations under flow, hydroxychloroquine and chloroquine failed against pseudotyped SARS-CoV-2 while amodiaquine worked, and amodiaquine went on to protect hamsters from infection. airway chip organ chip influenza SARS-CoV-2 amodiaquine nafamostat oseltamivir hydroxychloroquine pseudoparticle hamster drug repurposing clinically relevant drug exposure under flow strain-dependent virulence neutrophil recruitment and transmigration serine protease priming of hemagglutinin therapeutic time window viral entry inhibition preclinical model fidelity prophylaxis versus treatment influenza A virus SARS-CoV-2 vesicular stomatitis virus organ-on-a-chip microfluidics air-liquid interface culture pseudotyped virus entry assay immunofluorescence confocal microscopy barrier permeability measurement cytokine multiplex assay quantitative mass spectrometry proteomics RNA sequencing RT-qPCR plaque assay pharmacokinetic analysis hamster challenge and transmission models Longlong Si Haiqing Bai Melissa Rodas Wuji Cao Crystal Yuri Oh Amanda Jiang Rasmus Moller Daisy Hoagland Kohei Oishi Shu Horiuchi Skyler Uhl Daniel Blanco-Melo Randy A. Albrecht Wen-Chun Liu Tristan Jordan Benjamin E. Nilsson-Payant Ilona Golynker Justin Frere James Logue Robert Haupt Marisa McGrath Stuart Weston Tian Zhang Roberto Plebani Mercy Soong Atiq Nurani Seong Min Kim Danni Y. Zhu Kambez H. Benam Girija Goyal Sarah E. Gilpin Rachelle Prantil-Baun Steven P. Gygi Rani K. Powers Kenneth E. Carlson Matthew Frieman Benjamin R. tenOever Donald E. Ingber"
+ },
+ {
+  "t": "publication",
+  "slug": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+  "url": "/publications/2022-frere-sars-cov-2-infection-in-hamsters-a/",
+  "title": "SARS-CoV-2 infection in hamsters and humans results in lasting and unique systemic perturbations after recovery",
+  "year": 2022,
+  "journal": "Science Translational Medicine",
+  "text": "Benchmarked against pandemic influenza in golden hamsters, SARS-CoV-2 uniquely sustains interferon signaling, chemokine production and myeloid activation in olfactory bulb and epithelium a month after clearance, alongside altered behavior and matching signatures in recovered human olfactory tissue. To find what is particular to SARS-CoV-2, hamsters were infected with either that virus or pandemic influenza and followed for a month past recovery. Both left scarring in lung and kidney, worse after SARS-CoV-2. Only SARS-CoV-2 left the olfactory bulb and the olfactory lining inflamed, with activated immune cells and interferon signaling still running despite no detectable virus. Infected animals behaved differently, and olfactory tissue from people who had recovered showed comparable inflammatory programs. SARS-CoV-2 long COVID golden hamster olfactory bulb olfactory epithelium interferon microglia influenza A virus behavior post-acute sequelae of COVID-19 long COVID benchmarking against influenza persistent interferon signaling after viral clearance olfactory bulb inflammation microglial and myeloid activation peribronchiolar metaplasia renal tubular atrophy behavioral change after recovery SARS-CoV-2 influenza A virus bulk RNA sequencing gene set enrichment analysis cell type deconvolution quantitative RT-PCR plaque assay histology and immunohistochemistry RNA in situ hybridization TUNEL staining buried food finding test marble burying assay Justin J. Frere Randal A. Serafini Kerri D. Pryce Marianna Zazhytska Kohei Oishi Ilona Golynker Maryline Panis Jeffrey Zimering Shu Horiuchi Daisy A. Hoagland Rasmus M\u00f8ller Anne Ruiz Albana Kodra Jonathan B. Overdevest Peter D. Canoll Alain C. Borczuk Vasuretha Chandar Yaron Bram Robert Schwartz Stavros Lomvardas Venetia Zachariou Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2022-nilsson-payant-the-host-factor-anp32a-is-required",
+  "url": "/publications/2022-nilsson-payant-the-host-factor-anp32a-is-required/",
+  "title": "The Host Factor ANP32A Is Required for Influenza A Virus vRNA and cRNA Synthesis",
+  "year": 2022,
+  "journal": "Journal of Virology",
+  "text": "Uncoupling the two steps of influenza A virus genome replication with viral promoter mutations shows that ANP32A is required for synthesis of both the complementary RNA intermediate and progeny genomic RNA, and that it acts on the actively replicating polymerase rather than the encapsidating one. Influenza A virus replicates its genome by first making a complementary copy and then copying that back into genomes, and the host protein ANP32A is essential for this and sets a barrier to avian viruses in mammalian cells. It had been proposed that ANP32A acts only at the second step. Using viral promoter mutations that permit one step at a time, this study shows both steps require ANP32A, acting on the actively synthesizing polymerase. influenza A virus ANP32A RNA polymerase PB2-E627K genome replication cRNA vRNA host adaptation minigenome smFRET ANP32A host range restriction PB2 627 polymorphism vRNA synthesis cRNA synthesis replicase complex assembly encapsidating polymerase low-complexity acidic region viral promoter mutation primary transcription influenza A virus minigenome assay influenza reverse genetics primer extension site-directed promoter mutagenesis single-molecule FRET RNA immunoprecipitation siRNA knockdown plaque assay cycloheximide and actinomycin D blocks Benjamin E. Nilsson-Payant Benjamin R. tenOever Aartjan J. W. te Velthuis"
+ },
+ {
+  "t": "publication",
+  "slug": "2022-oishi-a-diminished-immune-response-under",
+  "url": "/publications/2022-oishi-a-diminished-immune-response-under/",
+  "title": "A diminished immune response underlies age-related SARS-CoV-2 pathologies",
+  "year": 2022,
+  "journal": "Cell Reports",
+  "text": "Comparison of young and older golden hamsters infected with SARS-CoV-2 shows that age reduces the magnitude and duration of the innate response and of tissue repair, expands suppressor T cells and IL-17-driven neutrophil recruitment, and lowers germinal centre B cell frequency and neutralizing antibody potency without raising lung virus titres. Golden hamsters aged forty weeks or more were compared with young animals after SARS-CoV-2 infection. Lung virus was not higher in older animals, yet their chemokine and interferon responses were lower and shorter-lived, lung repair markers were reduced, T cell expansion failed, and suppressor T cells, IL-17 and neutrophils increased. Spike-specific B cells and antibody titres were normal, but germinal centre B cells were scarce and neutralizing potency fell by more than sixty percent. SARS-CoV-2 aging golden hamster regulatory T cells IL-17 neutrophils germinal center B cells neutralizing antibodies COVID-19 innate immunity immunosenescence innate immune response kinetics interferon-stimulated genes NF-kappaB signalling tissue repair regulatory T cells TGF-beta signalling IL-17 and neutrophil recruitment germinal centre B cells affinity maturation neutralizing antibody potency SARS-CoV-2 intranasal infection of hamsters plaque assay RNA sequencing gene set enrichment analysis flow cytometry immune profiling antigen-specific B cell staining immunohistochemistry ELISA plaque reduction neutralization test Kohei Oishi Shu Horiuchi Justin Frere Robert E. Schwartz Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2022-oishi-the-host-response-to-influenza-a-v",
+  "url": "/publications/2022-oishi-the-host-response-to-influenza-a-v/",
+  "title": "The Host Response to Influenza A Virus Interferes with SARS-CoV-2 Replication during Coinfection",
+  "year": 2022,
+  "journal": "Journal of Virology",
+  "text": "In golden hamsters, influenza A virus infection reduces SARS-CoV-2 replication during coinfection, after preinfection, and even one to two weeks after influenza has been cleared, while SARS-CoV-2 leaves influenza replication in vivo unchanged. Golden hamsters were given SARS-CoV-2, influenza A virus, or both, either together or three, seven or fourteen days apart. Influenza consistently reduced SARS-CoV-2 replication and hastened its clearance, including when given a week or two before, when influenza itself was gone but interferon-stimulated genes remained elevated. SARS-CoV-2 never changed influenza titres in the animal, although it did suppress influenza in interferon-competent cells. Coinfected animals looked like SARS-CoV-2 infection alone by weight and histology. SARS-CoV-2 influenza A virus coinfection viral interference golden hamster interferon ISG15 IRF7 H1N1 respiratory virus viral interference coinfection type I and type III interferon immune priming interferon-stimulated genes replication kinetics sequential infection airway host response SARS-CoV-2 influenza A virus plaque assay in vitro competition assay intranasal infection of hamsters messenger RNA sequencing differential gene expression analysis quantitative RT-PCR haematoxylin and eosin histology Kohei Oishi Shu Horiuchi Judith M. Minkoff Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2022-yaron-host-protein-kinases-required-for-",
+  "url": "/publications/2022-yaron-host-protein-kinases-required-for-/",
+  "title": "Host protein kinases required for SARS-CoV-2 nucleocapsid phosphorylation and viral replication",
+  "year": 2022,
+  "journal": "Science Signaling",
+  "text": "Kinase substrate specificity profiling assigns the phosphorylation cluster in the SARS-CoV-2 nucleocapsid SR-rich domain to a cascade initiated by SRPK1 and SRPK2 and extended by GSK-3 and casein kinase 1, whose inhibition suppresses coronavirus replication. The SARS-CoV-2 nucleocapsid protein carries a cluster of phosphorylation sites in a region conserved across coronaviruses. By matching each site to the kinases whose sequence preferences fit it, this work reconstructed an ordered cascade in which SRPK enzymes act first and GSK-3 and casein kinase 1 extend the modification. Removing or inhibiting the initiating kinases reduced viral replication in several human cell systems, and an already approved cancer drug that hits them worked too. SARS-CoV-2 nucleocapsid protein phosphorylation SRPK1 GSK-3 casein kinase 1 alectinib host-directed antiviral phosphoproteomics nucleocapsid SR-rich domain phospho-priming SRPK1 and SRPK2 GSK-3 casein kinase 1 sequential multisite phosphorylation host-directed antiviral strategy kinase substrate motif prediction alectinib repurposing conservation across coronaviruses SARS-CoV-2 human coronavirus 229E phosphoproteomics by liquid chromatography mass spectrometry combinatorial peptide substrate specificity profiling in vitro kinase assays Phos-tag gel electrophoresis radiolabeled ATP incorporation site-directed mutagenesis small interfering RNA knockdown small molecule kinase inhibition plaque assay quantitative RT-PCR immunofluorescence comparative sequence conservation analysis Tomer M. Yaron Brook E. Heaton Tyler M. Levy Jared L. Johnson Tristan X. Jordan Benjamin M. Cohen Alexander Kerelsky Ting-Yu Lin Katarina M. Liberatore Danielle K. Bulaon Samantha J. Van Nest Nikos Koundouros Edward R. Kastenhuber Marisa N. Mercadante Kripa Shobana-Ganesh Long He Robert E. Schwartz Shuibing Chen Harel Weinstein Olivier Elemento Elena Piskounova Benjamin E. Nilsson-Payant Gina Lee Joseph D. Trimarco Kaitlyn N. Burke Cait E. Hamele Ryan R. Chaparian Alfred T. Harding Aleksandra Tata Xinyu Zhu Purushothama Rao Tata Clare M. Smith Anthony P. Possemato Sasha L. Tkachev Peter V. Hornbeck Sean A. Beausoleil Shankara K. Anand Fran\u00e7ois Aguet Gad Getz Andrew D. Davidson Kate Heesom Maia Kavanagh-Williamson David A. Matthews Benjamin R. tenOever Lewis C. Cantley John Blenis Nicholas S. Heaton"
+ },
+ {
+  "t": "publication",
+  "slug": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+  "url": "/publications/2022-zazhytska-non-cell-autonomous-disruption-of-/",
+  "title": "Non-cell-autonomous disruption of nuclear architecture as a potential cause of COVID-19-induced anosmia",
+  "year": 2022,
+  "journal": "Cell",
+  "text": "SARS-CoV-2 infection of the olfactory epithelium reorganizes the nuclear architecture of uninfected olfactory sensory neurons, dissipating the interchromosomal compartments that hold olfactory receptor genes and suppressing receptor and signal transduction transcription in both hamsters and human autopsy tissue. SARS-CoV-2 infects support cells in the nose but rarely the sensory neurons themselves, which made COVID-19 smell loss hard to explain. In hamsters and in human autopsy tissue, infection collapsed the unusual contacts that gather odorant receptor genes from many chromosomes into shared nuclear compartments, and receptor and signaling gene expression fell and stayed low after the virus was gone. Serum from infected hamsters, with virus inactivated, reproduced the nuclear change in naive animals. SARS-CoV-2 COVID-19 anosmia olfactory receptor olfactory sensory neuron nuclear architecture Hi-C golden hamster sustentacular cells Adcy3 non-cell-autonomous transcriptional effect olfactory receptor gene choice interchromosomal genomic compartments nuclear architecture disruption anosmia sustentacular cell tropism olfactory signal transduction genes Lhx2 and Ebf transcription factors nuclear memory circulating inflammatory signal SARS-CoV-2 human coronavirus OC43 single-cell RNA sequencing bulk RNA sequencing in situ Hi-C fluorescence-activated nuclei sorting RNA in situ hybridization immunofluorescence microscopy hidden Markov model compartment analysis gene ontology and gene set enrichment analysis serum transfer with ultraviolet inactivation Marianna Zazhytska Albana Kodra Daisy A. Hoagland Justin Frere John F. Fullard Hani Shayya Natalie G. McArthur Rasmus Moeller Skyler Uhl Arina D. Omer Max E. Gottesman Stuart Firestein Qizhi Gong Peter D. Canoll James E. Goldman Panos Roussos Benjamin R. tenOever Jonathan B. Overdevest Stavros Lomvardas"
+ },
+ {
+  "t": "publication",
+  "slug": "2023-carrau-delayed-engagement-of-host-defense",
+  "url": "/publications/2023-carrau-delayed-engagement-of-host-defense/",
+  "title": "Delayed engagement of host defenses enables SARS-CoV-2 viremia and productive infection of distal organs in the hamster model of COVID-19",
+  "year": 2023,
+  "journal": "Science Signaling",
+  "text": "In golden hamsters, productive SARS-CoV-2 replication in the airways generates circulating type I and III interferon that primes every organ against infection, and blunting or bypassing that airway response permits viremia and productive infection of liver, kidney, spleen and brain. SARS-CoV-2 provokes an antiviral response in organs it barely reaches. In hamsters, that response comes from interferon produced in the infected lung and carried in the blood, not from local replication. Suppressing the airway response with a steroid, or injecting virus directly into the bloodstream to skip the lung, allowed productive infection of liver, kidney, spleen and brain. Infecting through the airway first protected those organs against a subsequent bloodstream challenge. SARS-CoV-2 golden hamster interferon priming viremia distal organ infection dexamethasone intravenous infection kidney COVID-19 extrapulmonary disease innate immunity type I and type III interferon systemic antiviral priming interferon-stimulated genes viremia viral tropism extrapulmonary manifestations delayed innate immune engagement immunosuppression route of inoculation COVID-19 heterogeneity SARS-CoV-2 SARS-CoV-2 USA-WA1/2020 bulk RNA sequencing real-time quantitative RT-PCR plaque assay virus amplification on permissive cells interferon bioassay immunohistochemistry immunofluorescence microscopy flow cytometry intravenous infection dexamethasone immunosuppression Lucia Carrau Justin J. Frere Ilona Golynker Alvaro Fajardo Cristobal F. Rivera Shu Horiuchi Tyler Roonprapunt Judith M. Minkoff Daniel Blanco-Melo Benjamin TenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2023-oishi-archaeal-kink-turn-binding-protein",
+  "url": "/publications/2023-oishi-archaeal-kink-turn-binding-protein/",
+  "title": "Archaeal Kink-Turn Binding Protein Mediates Inhibition of Orthomyxovirus Splicing Biology",
+  "year": 2023,
+  "journal": "Journal of Virology",
+  "text": "Archaeal members of the L30 protein family, but not their orthologues from any other domain of life, block production of the spliced influenza A virus, influenza B virus and isavirus transcripts without measurably disturbing host splicing, identifying a shared and apparently noncanonical feature of orthomyxovirus splicing. Influenza viruses make two of their proteins by splicing, and the pace of that splicing schedules their replication. Screening archaeal RNA binding proteins identified L7Ae, which eliminated both spliced products of influenza A virus while leaving the unspliced ones intact. Orthologues from every other domain of life failed to do this. L7Ae also suppressed influenza B virus and a salmon orthomyxovirus, and virus passaged under selection could not escape without a severe fitness penalty. L7Ae kink turn influenza virus splicing M2 NS2 Orthomyxoviridae isavirus archaea antiviral L7Ae kink-turn RNA structure orthomyxovirus splicing M2 and NS2 splice products noncanonical splicing splicing-independent virus escape mutant fitness cost L30 protein family 3 prime splice acceptor site molecular timer of infection influenza A virus influenza B virus infectious salmon anemia virus vesicular stomatitis virus expression screening of codon-optimized proteins doxycycline-inducible lentiviral expression influenza reverse genetics plaque assay quantitative RT-PCR RNA sequencing mass spectrometry proteomics UV crosslinking immunoprecipitation sequencing serial passage selection chimeric minigene reporters alanine scanning mutagenesis Kohei Oishi Daniel Blanco-Melo Andrew P. Kurland Jeffrey R. Johnson Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2023-paget-stress-granules-are-shock-absorber",
+  "url": "/publications/2023-paget-stress-granules-are-shock-absorber/",
+  "title": "Stress granules are shock absorbers that prevent excessive innate immune responses to dsRNA",
+  "year": 2023,
+  "journal": "Molecular Cell",
+  "text": "Stress granules restrain rather than amplify double-stranded RNA sensing, and cells lacking the granule nucleators G3BP1 and G3BP2, UBAP2L or PKR respond to double-stranded RNA with excessive RIG-I-like receptor, PKR and OAS activation and MAVS-dependent apoptosis. Cells detect double-stranded RNA through several sensors and also build stress granules, condensates once thought to serve as signaling platforms for those sensors. Using three separate genetic routes to granule deficiency, this study finds the opposite. Without granules, sensing is hyperactive, cells secrete excess tumor necrosis factor alpha and die by caspase-dependent apoptosis that requires MAVS but not interferon. The same protection applies to self-derived double-stranded RNA arising from ADAR1 deficiency. stress granules G3BP1 UBAP2L dsRNA RIG-I MDA5 MAVS apoptosis ADAR1 innate immunity stress granules biomolecular condensates RIG-I-like receptors MAVS signaling immune-mediated apoptosis PKR OAS and RNase L ADAR1 deficiency self-derived double-stranded RNA negative feedback by apoptotic caspases Sendai virus influenza A virus vesicular stomatitis virus encephalomyocarditis virus CRISPR knockout cell lines immunofluorescence microscopy and colocalization analysis RNA sequencing RT-qPCR ELISA immunoblotting cell-free IRF3 dimerization assay Sytox and caspase activity cell death assays siRNA knockdown puromycin incorporation translation assay Max Paget Cristhian Cadena Sadeem Ahmad Hai-Tao Wang Tristan X. Jordan Ehyun Kim Beechui Koo Shawn M. Lyons Pavel Ivanov Benjamin tenOever Xin Mu Sun Hur"
+ },
+ {
+  "t": "publication",
+  "slug": "2023-serafini-sars-cov-2-airway-infection-result",
+  "url": "/publications/2023-serafini-sars-cov-2-airway-infection-result/",
+  "title": "SARS-CoV-2 airway infection results in the development of somatosensory abnormalities in a hamster model",
+  "year": 2023,
+  "journal": "Science Signaling",
+  "text": "Intranasal SARS-CoV-2 infection of golden hamsters deposits viral RNA without infectious virus in dorsal root ganglia and spinal cord, producing a milder but longer-lasting mechanical hypersensitivity than influenza A virus and a neuropathic dorsal root ganglion transcriptome at 31 days, from which ILF3 emerges as an analgesic target validated in mouse pain models. Many people report lingering pain and altered sensation after COVID-19. In hamsters infected through the nose, viral RNA but no infectious virus appeared in sensory nerve clusters within a day. Influenza caused sharp, brief touch sensitivity, while SARS-CoV-2 caused milder sensitivity that grew and then returned a month later, long after the virus was gone. Gene activity in those nerve clusters shifted toward a nerve-injury pattern, and a drug targeting one predicted regulator relieved pain in mice. SARS-CoV-2 Long Covid golden hamster dorsal root ganglia mechanical hypersensitivity ILF3 YM155 influenza A virus interferon beta neuropathic pain RNA sequencing post-acute sequelae of SARS-CoV-2 infection mechanical hypersensitivity dorsal root ganglia viral RNA dissemination without infectious virus type I interferon signalling in sensory tissue neuropathic transcriptome upstream regulator prediction ILF3 neuroplasticity demyelination signature SARS-CoV-2 influenza A virus bulk RNA sequencing RNA sequencing deconvolution quantitative RT-PCR RNAscope in situ hybridization immunohistochemistry plaque assay von Frey monofilament testing Hargreaves thermal testing locomotor beam break assay Ingenuity Pathway Analysis cross-dataset meta-analysis Randal A. Serafini Justin J. Frere Jeffrey Zimering Ilinca M. Giosan Kerri D. Pryce Ilona Golynker Maryline Panis Anne Ruiz Benjamin R. tenOever Venetia Zachariou"
+ },
+ {
+  "t": "publication",
+  "slug": "2023-uhl-adar1-biology-can-hinder-effective",
+  "url": "/publications/2023-uhl-adar1-biology-can-hinder-effective/",
+  "title": "ADAR1 Biology Can Hinder Effective Antiviral RNA Interference",
+  "year": 2023,
+  "journal": "Journal of Virology",
+  "text": "Escape of a microRNA-targeted Sendai virus from engineered antiviral RNA interference comes not from the virus but from host ADAR1, whose adenosine to inosine editing destroys the target sites, and human ADAR1 also suppresses endogenous silencing in a plant. Mammalian cells can be forced to silence a virus by inserting perfectly matched microRNA target sites into an essential viral gene. A Sendai virus under this pressure eventually escaped, not by mutating or deleting the cassette, but because the host enzyme ADAR1 edited adenosines within the target sites. Deleting ADAR1 abolished escape and restoring it brought escape back. Human ADAR1 expressed in a plant also suppressed that plant's own gene silencing. ADAR1 RNA editing Sendai virus RNA interference microRNA targeting viral escape Nicotiana benthamiana interferon antiviral RNA interference adenosine to inosine RNA editing ADAR1 p110 and p150 isoforms viral escape from silencing hypermutation negative-sense RNA virus constraints ribonucleoprotein protection of genomes viral suppressors of RNA silencing incompatibility of ADAR1 and RNAi Sendai virus influenza A virus paramyxovirus reverse genetics microRNA target site engineering CRISPR knockout RNA sequencing amplicon sequencing high-content microscopy flow cytometry adenoviral reconstitution agroinfiltration phylogenetic analysis Skyler Uhl Chanyong Jang Justin J. Frere Tristan X. Jordan Anne E. Simon Benjamin R. tenOever"
+ },
+ {
+  "t": "publication",
+  "slug": "2023-zhang-mouse-genome-rewriting-and-tailori",
+  "url": "/publications/2023-zhang-mouse-genome-rewriting-and-tailori/",
+  "title": "Mouse genome rewriting and tailoring of three important disease loci",
+  "year": 2023,
+  "journal": "Nature",
+  "text": "An iterative, scarless and biallelic method for overwriting large mammalian genomic segments in mouse embryonic stem cells, used to build a recoded Trp53 locus and mice carrying the human ACE2 and TMPRSS2 loci in place of their mouse counterparts. Mouse models often miss human disease because regulatory DNA outside the coding sequence is left out. A new method swaps large genomic segments in mouse stem cells repeatedly and without scars, using paired selection markers that alternate with each round. It was used to build a mutation resistant p53 gene and to replace mouse Ace2 with the full human ACE2 locus. Those mice are infectable with SARS-CoV-2 and survive, unlike an existing transgenic model. mSwAP-In GREAT-GEMM genome writing humanized ACE2 mouse TMPRSS2 humanization SARS-CoV-2 mouse model K18-hACE2 synthetic Trp53 mouse embryonic stem cells tetraploid complementation mammalian genome writing genomic humanization non-coding regulatory elements iterative genome rewriting biallelic engineering synonymous recoding alternative splicing animal models of COVID-19 ACE2 receptor TMPRSS2 p53 mutational hotspots SARS-CoV-2 mSwAP-In genome writing CRISPR-Cas9 assisted homologous recombination yeast assembly of large DNA bacterial artificial chromosomes tetraploid blastocyst complementation capture sequencing ATAC-seq CUT&RUN RNA sequencing unique molecular identifier amplicon sequencing plaque assay immunohistochemistry ELISA Weimin Zhang Ilona Golynker Ran Brosh Alvaro Fajardo Yinan Zhu Aleksandra M. Wudzinska Raquel Ordo\u00f1ez Andr\u00e9 M. Ribeiro-dos-Santos Lucia Carrau Payal Damani-Yokota Stephen T. Yeung Camille Khairallah Antonio Vela Gartner Noor Chalhoub Emily Huang Hannah J. Ashe Kamal M. Khanna Matthew T. Maurano Sang Yong Kim Benjamin R. tenOever Jef D. Boeke"
+ },
+ {
+  "t": "publication",
+  "slug": "2025-manivasagam-transcriptional-repressor-capicua-",
+  "url": "/publications/2025-manivasagam-transcriptional-repressor-capicua-/",
+  "title": "Transcriptional repressor Capicua is a gatekeeper of cell-intrinsic interferon responses",
+  "year": 2025,
+  "journal": "Cell Host & Microbe",
+  "text": "The Capicua and ATXN1L repressor complex binds an eight-nucleotide motif at interferon and interferon-stimulated gene loci to hold them repressed during homeostasis in human and mouse cells, and is degraded through EGFR-MAPK signaling early in respiratory viral entry, which relieves that repression. Interferon genes were thought to stay silent until activating factors switch them on. Here the repressor Capicua, with its partner ATXN1L, is shown to bind a short motif near these genes and hold them closed, in human and mouse cells. Respiratory viruses activate EGFR-MAPK signaling during entry, which destroys the complex within 40 minutes and releases the brake. Mice lacking Capicua controlled influenza better, with lower lung virus and less inflammation. Capicua CIC ATXN1L interferon-stimulated genes influenza A virus MAPK EGFR transcriptional repressor ATAC-seq innate immunity Capicua ATXN1L transcriptional repression CIC binding site motif interferon-stimulated genes endogenous double-stranded RNA MDA5 and MAVS signaling EGFR-MAPK signaling proteasomal degradation chromatin accessibility sterile inflammation influenza A virus respiratory syncytial virus human parainfluenza virus type 3 Sendai virus encephalomyocarditis virus Zika virus vesicular stomatitis virus CRISPR-Cas9 knockout RNA sequencing ATAC sequencing promoter reporter assays quantitative RT-PCR small interfering RNA knockdown immunofluorescence western blot tamoxifen-inducible conditional knockout mouse histopathology motif enrichment analysis Senthamizharasi Manivasagam Julianna Han Athmane Teghanemt Henry Keen Boopathi Sownthirarajan Boyang Cheng Abhiraj Singh Abigail Lewis Olivia A. Vogel Gayathri Loganathan Lei Huang Maryline Panis David K. Meyerholz Benjamin tenOever Jasmine T. Perez Santhakumar Manicassamy Priya D. Issuree Balaji Manicassamy"
+ },
+ {
+  "t": "area",
+  "slug": "innate-immune-signaling",
+  "url": "/research/innate-immune-signaling/",
+  "title": "Innate Immune Signaling and the Interferon Response",
+  "text": "How the interferon response is wired, tuned and held in check What determines which genes the interferon system turns on, how strongly, and for how long?"
+ },
+ {
+  "t": "area",
+  "slug": "small-rna-antiviral-defense",
+  "url": "/research/small-rna-antiviral-defense/",
+  "title": "Small RNA Biology and the Limits of Antiviral Silencing",
+  "text": "Why vertebrates abandoned RNA silencing as an antiviral system, and what that costs them Do mammals use small RNAs against viruses, and if not, why not?"
+ },
+ {
+  "t": "area",
+  "slug": "programmable-virology",
+  "url": "/research/programmable-virology/",
+  "title": "Programmable Virology",
+  "text": "Treating a virus as a genetic circuit that can be rewritten to answer a question If a virus can be redesigned, what can be learned that cannot be learned any other way?"
+ },
+ {
+  "t": "area",
+  "slug": "influenza-genome-regulation",
+  "url": "/research/influenza-genome-regulation/",
+  "title": "Influenza Genome Regulation and Replication",
+  "text": "The timing and stoichiometry that govern an eight-segment genome How does influenza A virus control the order and amount of its own gene expression?"
+ },
+ {
+  "t": "area",
+  "slug": "pandemic-host-response",
+  "url": "/research/pandemic-host-response/",
+  "title": "Pandemic Host Response and Disease",
+  "text": "What SARS-CoV-2 does to the host, acutely and long after clearance Why does SARS-CoV-2 produce the pattern of disease it does, and what part of that is the host's own response?"
+ },
+ {
+  "t": "area",
+  "slug": "viral-populations-evolution",
+  "url": "/research/viral-populations-evolution/",
+  "title": "Viral Populations, Evolution and Transmission",
+  "text": "Viruses as populations passing through bottlenecks and selective landscapes What survives when a viral population moves between hosts, tissues or species?"
+ },
+ {
+  "t": "theme",
+  "slug": "ikk-kinases-and-irf-activation",
+  "url": "/themes/ikk-kinases-and-irf-activation/",
+  "title": "IKK-Related Kinases and IRF Activation",
+  "text": "Which kinases convert pathogen sensing into interferon gene induction?"
+ },
+ {
+  "t": "theme",
+  "slug": "transcription-factor-selectivity",
+  "url": "/themes/transcription-factor-selectivity/",
+  "title": "Transcription Factor Selectivity in the Interferon Response",
+  "text": "Why do different infections induce different subsets of interferon-stimulated genes?"
+ },
+ {
+  "t": "theme",
+  "slug": "homeostatic-repression-of-isgs",
+  "url": "/themes/homeostatic-repression-of-isgs/",
+  "title": "Homeostatic Repression of Interferon-Stimulated Genes",
+  "text": "What holds the antiviral program off when there is no infection?"
+ },
+ {
+  "t": "theme",
+  "slug": "interferon-and-cell-identity",
+  "url": "/themes/interferon-and-cell-identity/",
+  "title": "Interferon and Cell Identity",
+  "text": "Is the interferon response compatible with every cell state?"
+ },
+ {
+  "t": "theme",
+  "slug": "sensing-aberrant-rna",
+  "url": "/themes/sensing-aberrant-rna/",
+  "title": "Sensing Aberrant RNA and Restraining the Response",
+  "text": "What exactly does the cell detect during infection, and what keeps detection proportionate?"
+ },
+ {
+  "t": "theme",
+  "slug": "calibration-of-interferon-in-vivo",
+  "url": "/themes/calibration-of-interferon-in-vivo/",
+  "title": "Calibration of the Interferon Response In Vivo",
+  "text": "In a whole animal, which cells produce the interferon response, when does it arrive, and what happens when the timing is wrong?"
+ },
+ {
+  "t": "theme",
+  "slug": "noncanonical-microrna-biogenesis",
+  "url": "/themes/noncanonical-microrna-biogenesis/",
+  "title": "Noncanonical MicroRNA Biogenesis",
+  "text": "Can a microRNA be made outside the canonical nuclear pathway?"
+ },
+ {
+  "t": "theme",
+  "slug": "does-mammalian-antiviral-rnai-exist",
+  "url": "/themes/does-mammalian-antiviral-rnai-exist/",
+  "title": "Does Mammalian Antiviral RNA Interference Exist",
+  "text": "Is there evidence that vertebrate somatic cells use small RNA silencing against viruses?"
+ },
+ {
+  "t": "theme",
+  "slug": "reconstructing-antiviral-rnai",
+  "url": "/themes/reconstructing-antiviral-rnai/",
+  "title": "Reconstructing Antiviral RNA Interference",
+  "text": "If the system is absent, can it be rebuilt, and what happens when it is?"
+ },
+ {
+  "t": "theme",
+  "slug": "rnase-iii-antiviral-effectors",
+  "url": "/themes/rnase-iii-antiviral-effectors/",
+  "title": "RNase III Enzymes as Interferon-Independent Antiviral Effectors",
+  "text": "Do the enzymes of the silencing pathway have an antiviral role that does not involve silencing?"
+ },
+ {
+  "t": "theme",
+  "slug": "limits-of-microrna-function",
+  "url": "/themes/limits-of-microrna-function/",
+  "title": "The Functional Limits of MicroRNAs",
+  "text": "What does the microRNA system actually do on the timescale of an infection?"
+ },
+ {
+  "t": "theme",
+  "slug": "evolution-of-antiviral-defense",
+  "url": "/themes/evolution-of-antiviral-defense/",
+  "title": "The Evolutionary Logic of Antiviral Defense",
+  "text": "Why does each branch of life defend itself the way it does?"
+ },
+ {
+  "t": "theme",
+  "slug": "microrna-mediated-viral-attenuation",
+  "url": "/themes/microrna-mediated-viral-attenuation/",
+  "title": "MicroRNA-Mediated Viral Attenuation",
+  "text": "Can host microRNA expression be used to decide which species or tissue a virus may replicate in?"
+ },
+ {
+  "t": "theme",
+  "slug": "cell-type-restriction-as-a-tool",
+  "url": "/themes/cell-type-restriction-as-a-tool/",
+  "title": "Cell-Type Restriction as an Experimental Tool",
+  "text": "What does a given cell compartment actually contribute to infection and immunity?"
+ },
+ {
+  "t": "theme",
+  "slug": "molecular-biocontainment",
+  "url": "/themes/molecular-biocontainment/",
+  "title": "Molecular Biocontainment",
+  "text": "Can a transmissible virus be made safe to study without changing the biology being studied?"
+ },
+ {
+  "t": "theme",
+  "slug": "rna-vectors-for-delivery",
+  "url": "/themes/rna-vectors-for-delivery/",
+  "title": "RNA Virus Vectors for Small RNA Delivery",
+  "text": "Can an RNA virus deliver a functional small RNA to tissues in an animal?"
+ },
+ {
+  "t": "theme",
+  "slug": "in-vivo-screening-through-fitness",
+  "url": "/themes/in-vivo-screening-through-fitness/",
+  "title": "In Vivo Genetic Screening Through Viral Fitness",
+  "text": "Can natural selection inside an infected animal be used as the readout of a genetic screen?"
+ },
+ {
+  "t": "theme",
+  "slug": "lineage-tracing-of-infection",
+  "url": "/themes/lineage-tracing-of-infection/",
+  "title": "Lineage Tracing of Infected Cells",
+  "text": "What happens to a cell that is infected and does not die?"
+ },
+ {
+  "t": "theme",
+  "slug": "synthetic-virology-as-method",
+  "url": "/themes/synthetic-virology-as-method/",
+  "title": "Synthetic Virology as a Method of Inquiry",
+  "text": "What is the design vocabulary for rewriting a viral genome?"
+ },
+ {
+  "t": "theme",
+  "slug": "small-viral-rnas",
+  "url": "/themes/small-viral-rnas/",
+  "title": "Small Viral RNAs and the Transcription to Replication Switch",
+  "text": "What tells the influenza polymerase to stop transcribing and start replicating?"
+ },
+ {
+  "t": "theme",
+  "slug": "splicing-and-temporal-control",
+  "url": "/themes/splicing-and-temporal-control/",
+  "title": "Splicing and Temporal Control of Segment 8",
+  "text": "How does a two-protein segment produce its products in the right order and ratio?"
+ },
+ {
+  "t": "theme",
+  "slug": "polymerase-nucleoprotein-host-factors",
+  "url": "/themes/polymerase-nucleoprotein-host-factors/",
+  "title": "Polymerase, Nucleoprotein and Host Factors",
+  "text": "What does the replication machinery require, and what happens when it is short of it?"
+ },
+ {
+  "t": "theme",
+  "slug": "ns1-and-interferon-antagonism",
+  "url": "/themes/ns1-and-interferon-antagonism/",
+  "title": "NS1 and Interferon Antagonism",
+  "text": "How much of influenza fitness is set by its interferon antagonist?"
+ },
+ {
+  "t": "theme",
+  "slug": "imbalanced-host-response",
+  "url": "/themes/imbalanced-host-response/",
+  "title": "The Imbalanced Host Response to SARS-CoV-2",
+  "text": "What is distinctive about the transcriptional response to SARS-CoV-2?"
+ },
+ {
+  "t": "theme",
+  "slug": "interferon-as-intervention",
+  "url": "/themes/interferon-as-intervention/",
+  "title": "Interferon as Intervention and Systemic Priming",
+  "text": "If the interferon response is late and weak, does supplying it early help?"
+ },
+ {
+  "t": "theme",
+  "slug": "host-factors-and-druggable-signaling",
+  "url": "/themes/host-factors-and-druggable-signaling/",
+  "title": "Host Factors and Druggable Signaling",
+  "text": "Which host proteins does SARS-CoV-2 require, and can any of them be drugged?"
+ },
+ {
+  "t": "theme",
+  "slug": "tropism-and-permissive-tissues",
+  "url": "/themes/tropism-and-permissive-tissues/",
+  "title": "Tropism and Permissive Tissues",
+  "text": "Which human cell types can SARS-CoV-2 actually infect?"
+ },
+ {
+  "t": "theme",
+  "slug": "post-acute-sequelae",
+  "url": "/themes/post-acute-sequelae/",
+  "title": "Post-Acute Sequelae of SARS-CoV-2 Infection",
+  "text": "What persists after the virus is gone?"
+ },
+ {
+  "t": "theme",
+  "slug": "immunity-age-and-reinfection",
+  "url": "/themes/immunity-age-and-reinfection/",
+  "title": "Immunity, Age and Reinfection",
+  "text": "What does prior exposure or advanced age change about the course of infection?"
+ },
+ {
+  "t": "theme",
+  "slug": "models-for-pandemic-virology",
+  "url": "/themes/models-for-pandemic-virology/",
+  "title": "Models for Pandemic Virology",
+  "text": "What experimental system gives an answer that transfers to a human being?"
+ },
+ {
+  "t": "theme",
+  "slug": "transmission-bottlenecks",
+  "url": "/themes/transmission-bottlenecks/",
+  "title": "Transmission Bottlenecks and Population Monopolization",
+  "text": "How much of a viral population survives a move between hosts or tissues?"
+ },
+ {
+  "t": "theme",
+  "slug": "fitness-landscapes",
+  "url": "/themes/fitness-landscapes/",
+  "title": "Viral Fitness Landscapes",
+  "text": "Is adaptation to a host an ordered gradient or a set of divergent routes?"
+ },
+ {
+  "t": "theme",
+  "slug": "recombination-and-escape",
+  "url": "/themes/recombination-and-escape/",
+  "title": "Recombination and Escape from Selective Pressure",
+  "text": "What genomic capacity determines whether a virus can escape a given pressure?"
+ },
+ {
+  "t": "theme",
+  "slug": "historical-virus-movement",
+  "url": "/themes/historical-virus-movement/",
+  "title": "Historical Virus Movement",
+  "text": "Where and when did a virus lineage travel?"
+ }
+]

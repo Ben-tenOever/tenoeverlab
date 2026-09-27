@@ -1,0 +1,220 @@
+[
+  {
+    "id": "innate-immune-signaling",
+    "name": "Innate Immune Signaling and the Interferon Response",
+    "short": "How the interferon response is wired, tuned and held in check",
+    "question": "What determines which genes the interferon system turns on, how strongly, and for how long?",
+    "themes": [
+      "ikk-kinases-and-irf-activation",
+      "transcription-factor-selectivity",
+      "homeostatic-repression-of-isgs",
+      "interferon-and-cell-identity",
+      "sensing-aberrant-rna",
+      "calibration-of-interferon-in-vivo"
+    ],
+    "publications": [
+      "2003-sharma-triggering-the-interferon-antivira",
+      "2007-tenoever-multiple-functions-of-the-ikk-rela",
+      "2010-schmid-transcription-factor-redundancy-en",
+      "2011-ng-i-b-kinase-ikk-regulates-the-balan",
+      "2012-langlois-hematopoietic-specific-targeting-o",
+      "2014-heaton-long-term-survival-of-influenza-vi",
+      "2014-schmid-mitogen-activated-protein-kinase-m",
+      "2015-benitez-in-vivo-rnai-screening-identifies-",
+      "2016-tenoever-the-evolution-of-antiviral-defense",
+      "2018-han-genome-wide-crispr-cas9-screen-ide",
+      "2019-eggenberger-type-i-interferon-response-impairs",
+      "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+      "2021-hoagland-leveraging-the-antiviral-type-i-in",
+      "2021-nilsson-payant-reduced-nucleoprotein-availability",
+      "2021-nilsson-payant-the-nf-b-transcriptional-footprint",
+      "2023-carrau-delayed-engagement-of-host-defense",
+      "2023-paget-stress-granules-are-shock-absorber",
+      "2025-manivasagam-transcriptional-repressor-capicua-"
+    ],
+    "url": "https://tenoeverlab.us/research/innate-immune-signaling/",
+    "discoveries": [
+      "claim-03",
+      "claim-04",
+      "claim-05",
+      "claim-06",
+      "claim-10",
+      "claim-12",
+      "claim-13",
+      "claim-14"
+    ]
+  },
+  {
+    "id": "small-rna-antiviral-defense",
+    "name": "Small RNA Biology and the Limits of Antiviral Silencing",
+    "short": "Why vertebrates abandoned RNA silencing as an antiviral system, and what that costs them",
+    "question": "Do mammals use small RNAs against viruses, and if not, why not?",
+    "themes": [
+      "noncanonical-microrna-biogenesis",
+      "does-mammalian-antiviral-rnai-exist",
+      "reconstructing-antiviral-rnai",
+      "rnase-iii-antiviral-effectors",
+      "limits-of-microrna-function",
+      "evolution-of-antiviral-defense"
+    ],
+    "publications": [
+      "2010-shapiro-noncanonical-cytoplasmic-processin",
+      "2010-varble-engineered-rna-viral-synthesis-of-",
+      "2012-backes-degradation-of-host-micrornas-by-p",
+      "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+      "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+      "2013-cullen-is-rna-interference-a-physiologica",
+      "2013-tenoever-rna-viruses-and-the-host-microrna-",
+      "2014-backes-the-mammalian-response-to-virus-in",
+      "2014-shapiro-drosha-as-an-interferon-independen",
+      "2015-aguado-microrna-function-is-limited-to-cy",
+      "2015-benitez-engineered-mammalian-rnai-can-elic",
+      "2016-tenoever-the-evolution-of-antiviral-defense",
+      "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+      "2017-morales-sars-cov-encoded-small-rnas-contri",
+      "2018-aguado-homologous-recombination-is-an-int",
+      "2023-oishi-archaeal-kink-turn-binding-protein",
+      "2023-uhl-adar1-biology-can-hinder-effective"
+    ],
+    "url": "https://tenoeverlab.us/research/small-rna-antiviral-defense/",
+    "discoveries": [
+      "claim-06",
+      "claim-07",
+      "claim-08",
+      "claim-09"
+    ]
+  },
+  {
+    "id": "programmable-virology",
+    "name": "Programmable Virology",
+    "short": "Treating a virus as a genetic circuit that can be rewritten to answer a question",
+    "question": "If a virus can be redesigned, what can be learned that cannot be learned any other way?",
+    "themes": [
+      "microrna-mediated-viral-attenuation",
+      "cell-type-restriction-as-a-tool",
+      "molecular-biocontainment",
+      "rna-vectors-for-delivery",
+      "in-vivo-screening-through-fitness",
+      "lineage-tracing-of-infection",
+      "synthetic-virology-as-method"
+    ],
+    "publications": [
+      "2009-perez-microrna-mediated-species-specific",
+      "2010-varble-engineered-rna-viral-synthesis-of-",
+      "2012-langlois-hematopoietic-specific-targeting-o",
+      "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+      "2012-pham-replication-in-cells-of-hematopoie",
+      "2013-langlois-microrna-based-strategy-to-mitigat",
+      "2013-varble-an-in-vivo-rnai-screening-approach",
+      "2014-heaton-long-term-survival-of-influenza-vi",
+      "2014-schmid-a-versatile-rna-vector-for-deliver",
+      "2015-benitez-in-vivo-rnai-screening-identifies-",
+      "2018-han-genome-wide-crispr-cas9-screen-ide",
+      "2018-m-ller-mirna-mediated-targeting-of-human-",
+      "2019-tenoever-synthetic-virology-building-viruse",
+      "2021-daniloski-identification-of-required-host-fa",
+      "2023-zhang-mouse-genome-rewriting-and-tailori"
+    ],
+    "url": "https://tenoeverlab.us/research/programmable-virology/",
+    "discoveries": [
+      "claim-10",
+      "claim-14"
+    ]
+  },
+  {
+    "id": "influenza-genome-regulation",
+    "name": "Influenza Genome Regulation and Replication",
+    "short": "The timing and stoichiometry that govern an eight-segment genome",
+    "question": "How does influenza A virus control the order and amount of its own gene expression?",
+    "themes": [
+      "small-viral-rnas",
+      "splicing-and-temporal-control",
+      "polymerase-nucleoprotein-host-factors",
+      "ns1-and-interferon-antagonism"
+    ],
+    "publications": [
+      "2010-perez-influenza-a-virus-generated-small-",
+      "2012-perez-a-small-rna-enhancer-of-viral-poly",
+      "2013-chua-influenza-a-virus-utilizes-subopti",
+      "2017-morales-sars-cov-encoded-small-rnas-contri",
+      "2019-munoz-moreno-viral-fitness-landscapes-in-divers",
+      "2021-nilsson-payant-reduced-nucleoprotein-availability",
+      "2022-nilsson-payant-the-host-factor-anp32a-is-required",
+      "2023-oishi-archaeal-kink-turn-binding-protein"
+    ],
+    "url": "https://tenoeverlab.us/research/influenza-genome-regulation/",
+    "discoveries": [
+      "claim-01",
+      "claim-02",
+      "claim-03",
+      "claim-11"
+    ]
+  },
+  {
+    "id": "pandemic-host-response",
+    "name": "Pandemic Host Response and Disease",
+    "short": "What SARS-CoV-2 does to the host, acutely and long after clearance",
+    "question": "Why does SARS-CoV-2 produce the pattern of disease it does, and what part of that is the host's own response?",
+    "themes": [
+      "imbalanced-host-response",
+      "interferon-as-intervention",
+      "host-factors-and-druggable-signaling",
+      "tropism-and-permissive-tissues",
+      "post-acute-sequelae",
+      "immunity-age-and-reinfection",
+      "models-for-pandemic-virology"
+    ],
+    "publications": [
+      "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+      "2020-bouhaddou-the-global-phosphorylation-landsca",
+      "2020-yang-a-human-pluripotent-stem-cell-base",
+      "2021-daniloski-identification-of-required-host-fa",
+      "2021-daniloski-the-spike-d614g-mutation-increases",
+      "2021-eriksen-sars-cov-2-infects-human-adult-don",
+      "2021-hoagland-leveraging-the-antiviral-type-i-in",
+      "2021-horiuchi-immune-memory-from-sars-cov-2-infe",
+      "2021-nilsson-payant-the-nf-b-transcriptional-footprint",
+      "2021-si-a-human-airway-on-a-chip-for-the-r",
+      "2022-frere-sars-cov-2-infection-in-hamsters-a",
+      "2022-oishi-a-diminished-immune-response-under",
+      "2022-oishi-the-host-response-to-influenza-a-v",
+      "2022-yaron-host-protein-kinases-required-for-",
+      "2022-zazhytska-non-cell-autonomous-disruption-of-",
+      "2023-carrau-delayed-engagement-of-host-defense",
+      "2023-serafini-sars-cov-2-airway-infection-result",
+      "2023-zhang-mouse-genome-rewriting-and-tailori"
+    ],
+    "url": "https://tenoeverlab.us/research/pandemic-host-response/",
+    "discoveries": [
+      "claim-12",
+      "claim-13",
+      "claim-14"
+    ]
+  },
+  {
+    "id": "viral-populations-evolution",
+    "name": "Viral Populations, Evolution and Transmission",
+    "short": "Viruses as populations passing through bottlenecks and selective landscapes",
+    "question": "What survives when a viral population moves between hosts, tissues or species?",
+    "themes": [
+      "transmission-bottlenecks",
+      "fitness-landscapes",
+      "recombination-and-escape",
+      "historical-virus-movement"
+    ],
+    "publications": [
+      "2014-varble-influenza-a-virus-transmission-bot",
+      "2015-benitez-engineered-mammalian-rnai-can-elic",
+      "2018-aguado-homologous-recombination-is-an-int",
+      "2019-munoz-moreno-viral-fitness-landscapes-in-divers",
+      "2020-mccune-rapid-dissemination-and-monopoliza",
+      "2021-guzman-solis-ancient-viral-genomes-reveal-intro",
+      "2023-uhl-adar1-biology-can-hinder-effective"
+    ],
+    "url": "https://tenoeverlab.us/research/viral-populations-evolution/",
+    "discoveries": [
+      "claim-09",
+      "claim-11"
+    ]
+  }
+]

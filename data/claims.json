@@ -1,0 +1,355 @@
+[
+ {
+  "id": "claim-01",
+  "statement": "Influenza A virus reassigns its own polymerase toward genome synthesis using a small RNA copied from its genome termini",
+  "status": "lab-led",
+  "research_areas": [
+   "influenza-genome-regulation"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2010-perez-influenza-a-virus-generated-small-",
+    "contributes": "identifies the species, establishes that it is made across subtypes and hosts, and shows segment-specific loss of genome synthesis when it is blocked"
+   },
+   {
+    "slug": "2012-perez-a-small-rna-enhancer-of-viral-poly",
+    "contributes": "establishes the template, the polymerase binding site and a non-priming mechanism in a reconstituted reaction, and carries the priority claim"
+   }
+  ]
+ },
+ {
+  "id": "claim-02",
+  "statement": "An inefficient splice site paces influenza gene expression, and the same processing step is a vulnerability across the orthomyxovirus family",
+  "status": "lab-led",
+  "research_areas": [
+   "influenza-genome-regulation"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2013-chua-influenza-a-virus-utilizes-subopti",
+    "contributes": "establishes the splice site as a rate-setting timer and that most NS1 is dispensable for antagonism"
+   },
+   {
+    "slug": "2023-oishi-archaeal-kink-turn-binding-protein",
+    "contributes": "separates orthomyxovirus splicing from host splicing with a heterologous protein and extends the vulnerability across three genera"
+   }
+  ]
+ },
+ {
+  "id": "claim-03",
+  "statement": "Nucleoprotein availability couples influenza replication competence to immune invisibility, so less replication can yield more interferon",
+  "status": "lab-led",
+  "research_areas": [
+   "influenza-genome-regulation",
+   "innate-immune-signaling"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2021-nilsson-payant-reduced-nucleoprotein-availability",
+    "contributes": "separates protein supply from genome supply during infection and identifies the short products that RIG-I detects when nucleoprotein is scarce"
+   }
+  ]
+ },
+ {
+  "id": "claim-04",
+  "statement": "Much of the antiviral transcriptome can be induced without interferon, and which genes come on is decided by competition for shared transcription factor subunits",
+  "status": "lab-led for Schmid 2010 and Schmid 2014, co-led with the Maniatis laboratory for Ng 2011, and training period for tenOever 2007, which was carried out with the Maniatis and Garc\u00eda-Sastre laboratories and is not the independent program's work",
+  "research_areas": [
+   "innate-immune-signaling"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2007-tenoever-multiple-functions-of-the-ikk-rela",
+    "contributes": "training-period work dividing interferon-stimulated response elements into kinase-dependent and kinase-independent classes and naming STAT1 Ser708"
+   },
+   {
+    "slug": "2011-ng-i-b-kinase-ikk-regulates-the-balan",
+    "contributes": "explains that phosphosite as a block on STAT1 homodimerisation that reallocates a shared subunit between two complexes"
+   },
+   {
+    "slug": "2010-schmid-transcription-factor-redundancy-en",
+    "contributes": "shows that much of the antiviral transcriptome is inducible without interferon and gives sequence criteria sorting promoters by the factor that reads them"
+   },
+   {
+    "slug": "2014-schmid-mitogen-activated-protein-kinase-m",
+    "contributes": "identifies a feedback kinase that changes which IRF dimer forms and therefore which promoters the response reaches"
+   }
+  ]
+ },
+ {
+  "id": "claim-05",
+  "statement": "Interferon and interferon-stimulated gene loci are held off during homeostasis by a DNA-binding repressor complex that virus entry destroys within minutes",
+  "status": "collaborative, led by the Manicassamy laboratory, with Han 2018 published from the University of Chicago with Balaji Manicassamy as corresponding author and Manivasagam 2025 with Priya Issuree and Balaji Manicassamy as corresponding authors. The discovery belongs to those groups. The tenOever contribution is recorded as one author in the Han 2018 list and as investigation in Manivasagam 2025",
+  "research_areas": [
+   "innate-immune-signaling"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2018-han-genome-wide-crispr-cas9-screen-ide",
+    "contributes": "identifies capicua as a repressor whose loss raises the antiviral set point across four virus families"
+   },
+   {
+    "slug": "2025-manivasagam-transcriptional-repressor-capicua-",
+    "contributes": "places the repressor complex at motif-dependent loci during homeostasis and identifies the receptor-to-proteasome route that removes it"
+   }
+  ]
+ },
+ {
+  "id": "claim-06",
+  "statement": "Engaging the interferon program carries costs that constrain where it can be run, and detection has to be buffered as well as triggered",
+  "status": "lab-led for Eggenberger 2019 and for the tenOever 2016 Perspective, which is single-authored and synthesises work largely belonging to other groups. Paget 2023 is collaborative and was led by the Hur laboratory at Harvard with Sun Hur as sole corresponding author, and the tenOever contribution there is recorded as provision of reagents, so that discovery is not this program's",
+  "research_areas": [
+   "innate-immune-signaling",
+   "small-rna-antiviral-defense"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2019-eggenberger-type-i-interferon-response-impairs",
+    "contributes": "forces the program into cells that cannot otherwise run it and measures lasting transcriptional change and compromised germ layer potential"
+   },
+   {
+    "slug": "2023-paget-stress-granules-are-shock-absorber",
+    "contributes": "led by the Hur laboratory, reverses the reading of stress granules and shows that unbuffered double-stranded RNA sensing kills through MAVS"
+   },
+   {
+    "slug": "2016-tenoever-the-evolution-of-antiviral-defense",
+    "contributes": "single-author Perspective supplying the framework in which two antiviral systems can be mutually incompatible"
+   }
+  ]
+ },
+ {
+  "id": "claim-07",
+  "statement": "Drosha acts in the cytoplasm during infection and restricts positive-strand RNA viruses by binding structured RNA rather than by producing small interfering RNAs",
+  "status": "lab-led",
+  "research_areas": [
+   "small-rna-antiviral-defense"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2010-shapiro-noncanonical-cytoplasmic-processin",
+    "contributes": "establishes that a cytoplasmic virus can yield mature microRNA and reports the processing requirement as microprocessor independent"
+   },
+   {
+    "slug": "2012-shapiro-evidence-for-a-cytoplasmic-micropr",
+    "contributes": "corrects that reading by conditional deletion and shows Drosha relocalising to the cytoplasm in response to infection"
+   },
+   {
+    "slug": "2014-shapiro-drosha-as-an-interferon-independen",
+    "contributes": "shows Drosha but not Dicer restricting two RNA viruses without any small interfering RNA signature, independently of three sensing lesions"
+   },
+   {
+    "slug": "2017-aguado-rnase-iii-nucleases-from-diverse-k",
+    "contributes": "shows that RNA binding without catalysis suffices, identifies unbranched hairpins as the recognised structure, and reproduces the activity with RNase III proteins from three domains of life"
+   }
+  ]
+ },
+ {
+  "id": "claim-08",
+  "statement": "Vertebrate somatic cells do not rely on small RNA silencing against viruses, and the reason is not that such a defence would fail in a mammalian cell",
+  "status": "lab-led for Backes 2014, Benitez 2015 on engineered RNA interference, Aguado 2015 and the tenOever 2013 review, co-led with the Cherry laboratory for Backes 2012, and collaborative for Cullen 2013, a Minireview led by Bryan Cullen with Sara Cherry and tenOever",
+  "research_areas": [
+   "small-rna-antiviral-defense"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2012-backes-degradation-of-host-micrornas-by-p",
+    "contributes": "identifies VP55 as sufficient to tail and destroy RISC-loaded microRNAs and supplies the reagent the rest of the argument depends on"
+   },
+   {
+    "slug": "2014-backes-the-mammalian-response-to-virus-in",
+    "contributes": "shows that destroying host microRNAs gives a virus no fitness benefit, including in animals lacking both interferon receptors"
+   },
+   {
+    "slug": "2015-aguado-microrna-function-is-limited-to-cy",
+    "contributes": "shows that removing microRNAs leaves the intrinsic antiviral program intact and derepresses chemokines and cytokines instead"
+   },
+   {
+    "slug": "2015-benitez-engineered-mammalian-rnai-can-elic",
+    "contributes": "shows that a reconstructed slicing defence protects mice with no contribution from type I interferon signalling"
+   },
+   {
+    "slug": "2013-tenoever-rna-viruses-and-the-host-microrna-",
+    "contributes": "argues from copy number, silencing capacity and kinetics that chordate microRNAs cannot be antiviral"
+   },
+   {
+    "slug": "2013-cullen-is-rna-interference-a-physiologica",
+    "contributes": "led by Bryan Cullen, sets the evidentiary criteria and states why the positive claims then available did not meet them"
+   }
+  ]
+ },
+ {
+  "id": "claim-09",
+  "statement": "Escape from RNA-guided targeting is set by whether a virus can recombine, and where it cannot, a host editing enzyme can supply the escape",
+  "status": "lab-led",
+  "research_areas": [
+   "viral-populations-evolution",
+   "small-rna-antiviral-defense"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2015-benitez-engineered-mammalian-rnai-can-elic",
+    "contributes": "fixes the design parameters and establishes that escape occurs on the guide side rather than at the target"
+   },
+   {
+    "slug": "2018-aguado-homologous-recombination-is-an-int",
+    "contributes": "makes the pressure comparative across four families and identifies template switching as the escape requirement with a single polymerase substitution"
+   },
+   {
+    "slug": "2023-uhl-adar1-biology-can-hinder-effective",
+    "contributes": "shows a host editing enzyme supplying escape to a virus that cannot recombine"
+   },
+   {
+    "slug": "2012-pham-replication-in-cells-of-hematopoie",
+    "contributes": "shows total cassette excision under sustained pressure in an animal"
+   }
+  ]
+ },
+ {
+  "id": "claim-10",
+  "statement": "Encoding a perturbation in a virus makes tropism, host restriction and viral output experimental variables inside an intact animal",
+  "status": "lab-led for Perez 2009, Varble 2010, Langlois 2012 in PNAS, Langlois 2012 in Molecular Therapy, Pham 2012, Varble 2013, Schmid 2014, Benitez 2015 on in vivo screening, M\u00f8ller 2018 and the tenOever 2019 review, and co-led for Langlois 2013, whose ferret transmission work sits with the Perez and Garc\u00eda-Sastre groups. Daniloski 2021 in Cell is co-led with the Sanjana laboratory",
+  "research_areas": [
+   "programmable-virology",
+   "innate-immune-signaling"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2009-perez-microrna-mediated-species-specific",
+    "contributes": "founds the design and the control set, and shows that infection leaves the silencing machinery available"
+   },
+   {
+    "slug": "2012-langlois-hematopoietic-specific-targeting-o",
+    "contributes": "converts attenuation into an instrument and locates much of the in vivo interferon response in a numerically minor compartment"
+   },
+   {
+    "slug": "2012-pham-replication-in-cells-of-hematopoie",
+    "contributes": "applies the subtraction to dengue dissemination and shows what escape looks like in an animal"
+   },
+   {
+    "slug": "2013-langlois-microrna-based-strategy-to-mitigat",
+    "contributes": "moves the element into engineered noncoding space and demonstrates a host-conditional containment layer at no measurable fitness cost"
+   },
+   {
+    "slug": "2018-m-ller-mirna-mediated-targeting-of-human-",
+    "contributes": "extends the element to a large DNA virus and turns it into lineage-restricted conditional genetics"
+   },
+   {
+    "slug": "2010-varble-engineered-rna-viral-synthesis-of-",
+    "contributes": "removes the prohibition on an RNA virus encoding a microRNA and creates the segment 8 insertion space the later work occupies"
+   },
+   {
+    "slug": "2012-langlois-in-vivo-delivery-of-cytoplasmic-rn",
+    "contributes": "delivers a functional microRNA to five organs and contains the proposal that becomes the screening platform"
+   },
+   {
+    "slug": "2014-schmid-a-versatile-rna-vector-for-deliver",
+    "contributes": "makes the vector replication-incompetent and its output adjustable by the host silencing machinery"
+   },
+   {
+    "slug": "2013-varble-an-in-vivo-rnai-screening-approach",
+    "contributes": "implements selection inside an animal as the assay and supplies the neutral drift control that makes it interpretable"
+   },
+   {
+    "slug": "2015-benitez-in-vivo-rnai-screening-identifies-",
+    "contributes": "recovers MDA5 and shows that a sensor can be required for restriction without being required for interferon beta induction"
+   },
+   {
+    "slug": "2019-tenoever-synthetic-virology-building-viruse",
+    "contributes": "states the premise and sorts the designs by what each can ask and whether it preserves viral fitness"
+   },
+   {
+    "slug": "2021-daniloski-identification-of-required-host-fa",
+    "contributes": "co-led with the Sanjana laboratory, applies survival as selection at genome scale in culture and converges on endosomal machinery"
+   }
+  ]
+ },
+ {
+  "id": "claim-11",
+  "statement": "Mammalian transmission of influenza founds a new infection from very few genomes, and the restriction lies in the recipient rather than in the virus",
+  "status": "lab-led for Varble 2014. McCune 2020 is collaborative and led by the Pfeiffer laboratory at the University of Texas Southwestern, where all mouse work was done, and Mu\u00f1oz-Moreno 2019 is collaborative and led by the Garc\u00eda-Sastre laboratory, with the tenOever contribution in both being the barcoded library method and supervision",
+  "research_areas": [
+   "viral-populations-evolution",
+   "influenza-genome-regulation"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2014-varble-influenza-a-virus-transmission-bot",
+    "contributes": "measures bottleneck size across routes and recipients and locates the restriction in the recipient rather than in viral genetics"
+   },
+   {
+    "slug": "2020-mccune-rapid-dissemination-and-monopoliza",
+    "contributes": "led by the Pfeiffer laboratory, shows that diversity in an enteric infection collapses after replication rather than at the barrier"
+   },
+   {
+    "slug": "2019-munoz-moreno-viral-fitness-landscapes-in-divers",
+    "contributes": "led by the Garc\u00eda-Sastre laboratory, shows that phylogenetic proximity predicts NS1 phenotype poorly and places the selective filter in innate signalling"
+   }
+  ]
+ },
+ {
+  "id": "claim-12",
+  "statement": "The inflammatory character of SARS-CoV-2 infection is something the virus requires rather than something it fails to suppress",
+  "status": "lab-led",
+  "research_areas": [
+   "pandemic-host-response",
+   "innate-immune-signaling"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2020-blanco-melo-imbalanced-host-response-to-sars-c",
+    "contributes": "establishes the imbalanced response across six viruses and four levels of system and separates the interferon and chemokine arms experimentally"
+   },
+   {
+    "slug": "2021-nilsson-payant-the-nf-b-transcriptional-footprint",
+    "contributes": "shows that infection engages NF-kappa B and not the interferon factors and that NF-kappa B-driven transcription is required for replication"
+   }
+  ]
+ },
+ {
+  "id": "claim-13",
+  "statement": "Interferon generated by airway replication circulates, primes distal organs and is what keeps SARS-CoV-2 respiratory",
+  "status": "lab-led",
+  "research_areas": [
+   "pandemic-host-response",
+   "innate-immune-signaling"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2021-hoagland-leveraging-the-antiviral-type-i-in",
+    "contributes": "delivers the longitudinal multi-tissue atlas with an annotated Ifnb1 and shows local interferon lowering virus, pathology and transmission"
+   },
+   {
+    "slug": "2023-carrau-delayed-engagement-of-host-defense",
+    "contributes": "shows by three independent manipulations that airway-derived circulating interferon primes distal organs and restricts tropism"
+   }
+  ]
+ },
+ {
+  "id": "claim-14",
+  "statement": "Respiratory infection leaves a persistent inflammatory program in tissues where no virus remains, and olfactory loss is produced in cells the virus never enters",
+  "status": "co-led. Frere 2022 and Serafini 2023 are co-corresponding with the Zachariou laboratory, Zazhytska 2022 was led with the Lomvardas and Overdevest groups, and Heaton 2014 is co-led with Peter Palese and tenOever as joint senior and corresponding authors",
+  "research_areas": [
+   "pandemic-host-response",
+   "innate-immune-signaling",
+   "programmable-virology"
+  ],
+  "substantiated_by": [
+   {
+    "slug": "2014-heaton-long-term-survival-of-influenza-vi",
+    "contributes": "shows that some airway cells survive productive influenza infection and remain inflammatory after clearance, and that removing them reduces damage"
+   },
+   {
+    "slug": "2022-frere-sars-cov-2-infection-in-hamsters-a",
+    "contributes": "benchmarks against pandemic influenza and isolates what persists in the olfactory bulb at 31 days with no detectable virus"
+   },
+   {
+    "slug": "2022-zazhytska-non-cell-autonomous-disruption-of-",
+    "contributes": "shows nuclear architecture holding olfactory receptor genes dissipating in neurons the virus does not enter, reproducible with virus-free serum"
+   },
+   {
+    "slug": "2023-serafini-sars-cov-2-airway-infection-result",
+    "contributes": "extends the pattern to sensory ganglia and couples a late neuropathic transcriptome to returning hypersensitivity"
+   }
+  ]
+ }
+]

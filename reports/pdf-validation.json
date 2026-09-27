@@ -1,0 +1,488 @@
+[
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10134826/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10134826/pdf/jvi.00245-23.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10134859/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10134859/pdf/jvi.01813-22.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10170497/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10170497/pdf/nihms-1888422.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10422867/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10422867/pdf/nihms-1914442.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10632133/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10632133/pdf/41586_2023_Article_6675.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11985295/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11985295/pdf/nihms-2062688.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2895093/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2895093/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2895125/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2895125/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957047/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2957047/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009927/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3009927/pdf/zbc42013.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3248534/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3248534/pdf/pnas.201119137.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252368/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3252368/pdf/ppat.1002465.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3277236/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3277236/pdf/mt2011244a.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3383965/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3383965/pdf/1338.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3409765/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3409765/pdf/pnas.201206039.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3503082/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3503082/pdf/zjv13475.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563938/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3563938/pdf/nihms431578.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3782087/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3782087/pdf/nihms-492224.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": false,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3808852/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3808852/pdf/41587_2013_Article_BFnbt2666.pdf",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3879553/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3879553/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3911536/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3911536/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024876/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4024876/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4096324/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4096324/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4144728/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4144728/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4272616/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4272616/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4586153/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4586153/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4654977/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4654977/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4683400/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4683400/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5662013/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5662013/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5798380/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5798380/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5846625/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5846625/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5939577/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5939577/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6166822/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6166822/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6347712/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6347712/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6955244/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6955244/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010214/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010214/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7227586/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7227586/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303620/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7303620/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7321036/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7321036/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584921/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7584921/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7605229/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7605229/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7846242/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7846242/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7891930/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7891930/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8104106/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8104106/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8126605/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8126605/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8387338/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8387338/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8423449/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8423449/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8577386/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8577386/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8808699/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8808699/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8865535/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8865535/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9181267/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9181267/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9210449/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9210449/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9364782/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9364782/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9830954/pdf/",
+    "status": 200,
+    "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9830954/pdf/",
+    "content_type": "text/html; charset=utf-8",
+    "pdf_confirmed": false,
+    "challenge": true,
+    "download_preparation_page": true
+  }
+]
